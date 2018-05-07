@@ -1,0 +1,1398 @@
+{
+    "id" : "audioeventdef_GroupConvos",
+    "soundbankList" : [
+        ""
+    ],
+    "audioEvents" : [
+        {
+            "k" : "GConv-BeginMusic-GC_101_SUMMER_PALACE",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_101_SUMMER_PALACE",
+                "comment" : "This should be called via trigger at the start of the conversation GC_101_SUMMER_PALACE.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_101_SUMMER_PALACE"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_103_EIGHT_HOURS_LATER",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_103_EIGHT_HOURS_LATER",
+                "comment" : "This should be called via trigger at the start of the conversation GC_103_EIGHT_HOURS_LATER.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_103_EIGHT_HOURS_LATER"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_111_RENT_TO_OWN",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_111_RENT_TO_OWN",
+                "comment" : "This should be called via trigger at the start of the conversation GC_111_RENT_TO_OWN.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_111_RENT_TO_OWN"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_120_CONTACT",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_120_CONTACT",
+                "comment" : "This should be called via trigger at the start of the conversation GC_120_CONTACT.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_120_CONTACT"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_130_BENEFACTOR",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_130_BENEFACTOR",
+                "comment" : "This should be called via trigger at the start of the conversation GC_130_BENEFACTOR.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_130_BENEFACTOR"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_141_AXYLUS",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_141_AXYLUS",
+                "comment" : "This should be called via trigger at the start of the conversation GC_141_AXYLUS.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_141_AXYLUS"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_200_IN_EXILE",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_200_IN_EXILE",
+                "comment" : "This should be called via trigger at the start of the conversation GC_200_IN_EXILE.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_200_IN_EXILE"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_220_FIRST_STRIKE",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_220_FIRST_STRIKE",
+                "comment" : "This should be called via trigger at the start of the conversation GC_220_FIRST_STRIKE.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_210_FIRST_STRIKE"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_300_ARANO_RESTORATION",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_300_ARANO_RESTORATION",
+                "comment" : "This should be called via trigger at the start of the conversation GC_300_ARANO_RESTORATION.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_300_ARANO_RESTORATION"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_310_HAVE_SHIP",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_310_HAVE_SHIP",
+                "comment" : "This should be called via trigger at the start of the conversation GC_310_HAVE_SHIP.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_310_HAVE_SHIP"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_315_PERDITION",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_315_PERDITION",
+                "comment" : "This should be called via trigger at the start of the conversation GC_315_PERDITION.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_315_PERDITION"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_320_ANOMALY",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_320_ANOMALY",
+                "comment" : "This should be called via trigger at the start of the conversation GC_320_ANOMALY.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_320_ANOMALY"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_330_BLACK_BOX",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_330_BLACK_BOX",
+                "comment" : "This should be called via trigger at the start of the conversation GC_330_BLACK_BOX.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_330_BLACK_BOX"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_335_ANVELT",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_335_ANVELT",
+                "comment" : "This should be called via trigger at the start of the conversation GC_335_ANVELT.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_335_ANVELT"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_341_FAMILY_REUNION",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_341_FAMILY_REUNION",
+                "comment" : "This should be called via trigger at the start of the conversation GC_341_FAMILY_REUNION.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_341_FAMILY_REUNION"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_350_MENDING_FENCES",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_350_MENDING_FENCES",
+                "comment" : "This should be called via trigger at the start of the conversation GC_350_MENDING_FENCES.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_350_MENDING_FENCES"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_355_UNEARTHED_SECRETS",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_355_UNEARTHED_SECRETS",
+                "comment" : "This should be called via trigger at the start of the conversation GC_355_UNEARTHED_SECRETS.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_350_UNEARTHED_SECRETS"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_360_GRAVEROBBING",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_360_GRAVEROBBING",
+                "comment" : "This should be called via trigger at the start of the conversation GC_360_GRAVEROBBING.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_360_GRAVE_ROBBING"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_363_DEAD_IN_SPACE",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_363_DEAD_IN_SPACE",
+                "comment" : "This should be called via trigger at the start of the conversation GC_363_DEAD_IN_SPACE.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_363_DEAD_IN_SPACE"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_400_DAMAGE_REPORT",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_400_DAMAGE_REPORT",
+                "comment" : "This should be called via trigger at the start of the conversation GC_400_DAMAGE_REPORT.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_400_DAMAGE_REPORT"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_411_WAR_COUNCIL",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_411_WAR_COUNCIL",
+                "comment" : "This should be called via trigger at the start of the conversation GC_411_WAR_COUNCIL.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_411_WAR_COUNCIL"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_415_THE_PATH_FORWARD",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_415_THE_PATH_FORWARD",
+                "comment" : "This should be called via trigger at the start of the conversation GC_415_THE_PATH_FORWARD.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_415_THE_PATH_FORWARD"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_420_REVELATIONS",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_420_REVELATIONS",
+                "comment" : "This should be called via trigger at the start of the conversation GC_420_REVELATIONS.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_420_REVELATIONS"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_423_MESSAGE",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_423_MESSAGE",
+                "comment" : "This should be called via trigger at the start of the conversation GC_423_MESSAGE.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_420_MESSAGE"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_425_DEAD_DROP",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_425_DEAD_DROP",
+                "comment" : "This should be called via trigger at the start of the conversation GC_425_DEAD_DROP.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_425_DEAD_DROP"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_431_THE_BROMHEAD_FILE",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_431_THE_BROMHEAD_FILE",
+                "comment" : "This should be called via trigger at the start of the conversation GC_431_THE_BROMHEAD_FILE.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_431_THE_BROMHEAD_FILE"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_440_ARMISTICE",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_440_ARMISTICE",
+                "comment" : "This should be called via trigger at the start of the conversation GC_440_ARMISTICE.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_440_ARMISTICE"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_510_PARLAY",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_510_PARLAY",
+                "comment" : "This should be called via trigger at the start of the conversation GC_510_PARLAY.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_510_PARLAY"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_512_DESPERATION_PLAY",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_512_DESPERATION_PLAY",
+                "comment" : "This should be called via trigger at the start of the conversation GC_512_DESPERATION_PLAY.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_512_DESPERATION_PLAY"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_525_THE_CHALLENGE",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_525_THE_CHALLENGE",
+                "comment" : "This should be called via trigger at the start of the conversation GC_525_THE_CHALLENGE.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_525_THE_CHALLENGE"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-GC_602_EPILOGUE",
+            "v" : {
+                "name" : "GConv-BeginMusic-GC_602_EPILOGUE",
+                "comment" : "This should be called via trigger at the start of the conversation GC_602_EPILOGUE.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "GC_602_EPILOGUE"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-LastDialogueBranchMusic",
+            "v" : {
+                "name" : "GConv-LastDialogueBranchMusic",
+                "comment" : "This should be called via trigger on the final critical-path dialogue.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "GC_END"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-IC_000_ALEXANDER",
+            "v" : {
+                "name" : "GConv-BeginMusic-IC_000_ALEXANDER",
+                "comment" : "This should be called via trigger at the start of the conversation IC_000_ALEXANDER.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "IC_000_ALEXANDER"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-IC_000_DARIUS",
+            "v" : {
+                "name" : "GConv-BeginMusic-IC_000_DARIUS",
+                "comment" : "This should be called via trigger at the start of the conversation IC_000_DARIUS.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "IC_000_DARIUS"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-IC_000_FARAH",
+            "v" : {
+                "name" : "GConv-BeginMusic-IC_000_FARAH",
+                "comment" : "This should be called via trigger at the start of the conversation IC_000_FARAH.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "IC_000_FARAH"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-IC_000_SUMIRE",
+            "v" : {
+                "name" : "GConv-BeginMusic-IC_000_SUMIRE",
+                "comment" : "This should be called via trigger at the start of the conversation IC_000_SUMIRE.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "IC_000_SUMIRE"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "GConv-BeginMusic-IC_000_YANG",
+            "v" : {
+                "name" : "GConv-BeginMusic-IC_000_YANG",
+                "comment" : "This should be called via trigger at the start of the conversation IC_000_YANG.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "State",
+                        "key" : "Music_State",
+                        "value" : "IC_000_YANG"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "in_menus"
+                    },
+                    {
+                        "eventType" : "State",
+                        "key" : "Player_State",
+                        "value" : "None"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_101_01_mastiff",
+            "v" : {
+                "name" : "group_101_01_mastiff",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_101_01_mastiff"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_111_01_sumire",
+            "v" : {
+                "name" : "group_111_01_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_111_01_sumire"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_111_02_darius",
+            "v" : {
+                "name" : "group_111_02_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_111_02_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_120_01_darius",
+            "v" : {
+                "name" : "group_120_01_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_120_01_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_120_02_sumire",
+            "v" : {
+                "name" : "group_120_02_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_120_02_sumire"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_120_03_darius",
+            "v" : {
+                "name" : "group_120_03_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_120_03_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_130_01_centrella",
+            "v" : {
+                "name" : "group_130_01_centrella",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_130_01_centrella"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_130_02_darius",
+            "v" : {
+                "name" : "group_130_02_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_130_02_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_140_01_yang",
+            "v" : {
+                "name" : "group_140_01_yang",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_140_01_yang"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_140_02_sumire",
+            "v" : {
+                "name" : "group_140_02_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_140_02_sumire"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_200_01_kamea",
+            "v" : {
+                "name" : "group_200_01_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_200_01_kamea"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_200_02_darius",
+            "v" : {
+                "name" : "group_200_02_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_200_02_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_200_03_alexander",
+            "v" : {
+                "name" : "group_200_03_alexander",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_200_03_alexander"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_250_01_alexander",
+            "v" : {
+                "name" : "group_250_01_alexander",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_250_01_alexander"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_250_02_kamea",
+            "v" : {
+                "name" : "group_250_02_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_250_02_kamea"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_300_01_alexander",
+            "v" : {
+                "name" : "group_300_01_alexander",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_300_01_alexander"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_300_02_kamea",
+            "v" : {
+                "name" : "group_300_02_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_300_02_kamea"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_310_01_farah",
+            "v" : {
+                "name" : "group_310_01_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_310_01_farah"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "group_310_02_sumire",
+            "v" : {
+                "name" : "group_310_02_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_group"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_group",
+                        "value" : "group_310_02_sumire"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_group"
+                    }
+                ]
+            }
+        }
+    ]
+}

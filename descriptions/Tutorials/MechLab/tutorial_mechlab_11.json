@@ -1,0 +1,6 @@
+{
+    "Id" : "tutorial_mechlab_11",
+    "Name" : "Warning States",
+    "Details" : "These warnings appear to alert you that your 'Mech is not combat-ready. \"Location Destroyed\" appears if your 'Mech has no structure on one of its locations. \"Overweight\" appears if your 'Mech is over its maximum tonnage. \"Missing Ammo\" appears if you have a weapon mounted but have not included ammunition in your loadout.",
+    "Icon" : "10-WarningStates"
+}

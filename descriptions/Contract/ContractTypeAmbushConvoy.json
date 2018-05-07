@@ -1,0 +1,6 @@
+{
+    "Id" : "ContractTypeAmbushConvoy",
+    "Name" : "Ambush Convoy",
+    "Details" : "Your objective is to engage and defeat a convoy of units before it can reach an escape region. The convoy will be defended by military units, and it will try to flee if engaged. Defeating any defending units is not required to complete the contract.",
+    "Icon" : ""
+}

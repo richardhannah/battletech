@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_MarikRepDefault",
+    "internalName" : "MarikRepDefault",
+    "firstName" : "Davinder",
+    "lastName" : "Singh",
+    "callsign" : null,
+    "rank" : "Free Worlds League Liaison",
+    "gender" : "Male",
+    "faction" : "Marik",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_MarikRep_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

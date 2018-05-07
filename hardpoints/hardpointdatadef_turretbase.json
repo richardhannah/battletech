@@ -1,0 +1,21 @@
+{
+    "ID" : "hardpointdatadef_turretbase",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrPrfWeap_turretbase_turret_generic_bh1",
+                    "chrPrfWeap_turretbase_turret_generic_eh1",
+                    "chrPrfWeap_turretbase_turret_generic_mh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

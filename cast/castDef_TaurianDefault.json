@@ -1,0 +1,19 @@
+{
+   "id" : "castDef_TaurianDefault",
+   "internalName" : "TaurianDefault",
+   "firstName" : "Taurian",
+   "lastName" : "Concordat",
+   "callsign" : null,
+   "rank" : null,
+   "showRank" : false,
+   "gender" : "None",
+   "faction" : "TaurianConcordat",
+   "sgCharType" : "UNSET",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Steiner_default_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

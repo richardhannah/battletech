@@ -1,0 +1,22 @@
+{
+   "id" : "castDef_SE01_CommVoice01",
+   "internalName" : "SE01_CommVoice01",
+   "firstName" : "ChatterMan",
+   "lastName" : "01",
+   "callsign" : null,
+   "rank" : "Voice on the Comms",
+   "gender" : "Male",
+   "faction" : "Faction_Neutral",
+   "sgCharType" : "UNSET",
+   "showRank" : true,
+   "showFirstName" : false,
+   "showCallsign" : false,
+   "showLastName" : false,
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_SE01_CommVoice01_def_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

@@ -1,0 +1,26 @@
+{
+    "identifier" : "Bkt_Assassinate_AmbushWarning_1",
+    "contents" : [
+        {
+            "words" : "This looks like a prime spot for an ambush. Be careful, Commander—you don't want to get caught in a crossfire.",
+            "wordsColor" : {
+                "r" : 1,
+                "g" : 1,
+                "b" : 1,
+                "a" : 1
+            },
+            "selectedCastDefId" : "castDef_DariusDefault",
+            "emote" : "Default",
+            "dialogueOrigin" : "pilot",
+            "audioEventEntryIndex" : 0,
+            "audioEventEntryText" : "Audio_Event_Assassinate_AmbushWarning_1",
+            "conversationIdx" : 0,
+            "cameraFocus" : {
+                "EncounterObjectGuid" : ""
+            },
+            "cameraDistance" : "Far",
+            "cameraHeight" : "Default",
+            "revealRadius" : -1
+        }
+    ]
+}

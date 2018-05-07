@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechPerformanceDurability",
+    "Name" : "Performance: Durability",
+    "Details" : "The relative durability of a 'Mech is determined by totaling the Armor and Structure for all its locations.",
+    "Icon" : ""
+}

@@ -1,0 +1,12 @@
+{
+   "behaviorVariables" : [
+	{
+	    /* Percent chance (0-100) of actually using the "Reckless" skill. */
+            "k" : "Float_UseRecklessSkillPercentageChance",
+            "v" : {
+		"type" : "Float",
+		"floatVal" : 100,
+            }
+	}
+    ]
+}

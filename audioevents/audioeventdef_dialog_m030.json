@@ -1,0 +1,1274 @@
+{
+    "id" : "audioeventdef_dialog_m030",
+    "soundbankList" : [
+        "dialog_m030",
+        "music"
+    ],
+    "audioEvents" : [
+        {
+            "k" : "m030_010_darius",
+            "v" : {
+                "name" : "m030_010_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_010_darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_020_farah",
+            "v" : {
+                "name" : "m030_020_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_020_farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_030_darius",
+            "v" : {
+                "name" : "m030_030_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_030_darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_040_farah",
+            "v" : {
+                "name" : "m030_040_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_040_farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_050_com",
+            "v" : {
+                "name" : "m030_050_com",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_050_com"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "computer"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_060_darius",
+            "v" : {
+                "name" : "m030_060_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_060_darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_070_pirate",
+            "v" : {
+                "name" : "m030_070_pirate",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_070_pirate"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pirate_prison"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_080_darius",
+            "v" : {
+                "name" : "m030_080_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_080_darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_090_pirate",
+            "v" : {
+                "name" : "m030_090_pirate",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_090_pirate"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pirate_prison"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_100_darius",
+            "v" : {
+                "name" : "m030_100_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_100_darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_110_darius",
+            "v" : {
+                "name" : "m030_110_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_110_darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_120_darius",
+            "v" : {
+                "name" : "m030_120_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_120_darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_130_sumire",
+            "v" : {
+                "name" : "m030_130_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_130_sumire"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_140_farah",
+            "v" : {
+                "name" : "m030_140_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_140_farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_150_guardsman",
+            "v" : {
+                "name" : "m030_150_guardsman",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_150_guardsman"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_160_farah",
+            "v" : {
+                "name" : "m030_160_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_160_farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_170_guardsman",
+            "v" : {
+                "name" : "m030_170_guardsman",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_170_guardsman"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_180_farah",
+            "v" : {
+                "name" : "m030_180_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_180_farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_190_guardsman",
+            "v" : {
+                "name" : "m030_190_guardsman",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_190_guardsman"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_200_farah",
+            "v" : {
+                "name" : "m030_200_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_200_farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_210_guardsman",
+            "v" : {
+                "name" : "m030_210_guardsman",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_210_guardsman"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_220_darius",
+            "v" : {
+                "name" : "m030_220_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_220_darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_230_farah",
+            "v" : {
+                "name" : "m030_230_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_230_farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_240_darius",
+            "v" : {
+                "name" : "m030_240_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_240_darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_250_farah",
+            "v" : {
+                "name" : "m030_250_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_250_farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_260_enemycaptain",
+            "v" : {
+                "name" : "m030_260_enemycaptain",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_260_enemycaptain"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pirate_prison"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_270_yang",
+            "v" : {
+                "name" : "m030_270_yang",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_270_yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_280_sumire",
+            "v" : {
+                "name" : "m030_280_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_280_sumire"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_290_farah",
+            "v" : {
+                "name" : "m030_290_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_290_farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Event_LRMTurretsSpawn",
+            "v" : {
+                "name" : "Event_LRMTurretsSpawn",
+                "comment" : "On either 01_PopTurrets_GeneratorAlpha or 01_PopTurrets_GeneratorBravo, there should be a dramatic sting - as a bunch more weapons have entered play.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "Trigger",
+                        "key" : "new_enemy_wave",
+                        "value" : ""
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Event_BothRadarsDestroyed",
+            "v" : {
+                "name" : "Event_BothRadarsDestroyed",
+                "comment" : "When the radars are destroyed and 02_ProceedToArgo becomes active, it'd be nice to have the music shift.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "get_to_zone"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Event_DefendDropship",
+            "v" : {
+                "name" : "Event_DefendDropship",
+                "comment" : "After 03_DefendTheDerelict becomes active, the music should become more dramatic - you're holding off superior numbers while Farah works.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "enemy_reinforcements"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Event_DefendDropship_Uptick1",
+            "v" : {
+                "name" : "Event_DefendDropship_Uptick1",
+                "comment" : "When Timer_Hidden_DefendArgoDialogue hits isDurationRemaining=4, some asynchronous dialog plays with Farah inside the Argo, her marines fighting their way to the bridge. This would be a good time to add a tenser music layer.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "extraction_round1"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Event_DefendDropship_Uptick2",
+            "v" : {
+                "name" : "Event_DefendDropship_Uptick2",
+                "comment" : "When Timer_Hidden_DefendArgoDialogue completes, an enemy heavy mech - the commander of the pirates - shows up. That seems like a nice point to make the music dire.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "escape"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_092_pirate_2",
+            "v" : {
+                "name" : "m030_092_pirate_2",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_092_pirate_2"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pirate_prison"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_094_pirate",
+            "v" : {
+                "name" : "m030_094_pirate",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_094_pirate"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pirate_prison"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_165_darius",
+            "v" : {
+                "name" : "m030_165_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_165_darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_265_darius",
+            "v" : {
+                "name" : "m030_265_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_265_darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m030_300_enemycaptain",
+            "v" : {
+                "name" : "m030_300_enemycaptain",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m030"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m030",
+                        "value" : "m030_300_enemycaptain"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pirate_prison"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+   "id" : "castDef_CurrentTeamLeader",
+   "internalName" : "CurrentTeamLeader",
+   "firstName" : "Current",
+   "lastName" : "Leader",
+   "callsign" : null,
+   "rank" : null,
+   "showRank" : false,
+   "gender" : "None",
+   "faction" : "NoFaction",
+   "sgCharType" : "UNSET",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Madlib_def_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

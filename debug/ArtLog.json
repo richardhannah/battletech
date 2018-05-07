@@ -1,0 +1,23 @@
+{
+   "loggerLevels" : [
+      {
+         "k" : "CombatLog.Initialization",
+         "v" : "Debug"
+      }
+   ],
+   "fileLogAppenders" : [
+      
+   ],
+   "debugConsoleFilterLevel" : "Debug",
+   "debugConsoleIncludeFilters" : [
+      
+   ],
+   "debugConsoleExcludeFilters" : [
+      
+   ],
+   "loggerColors" : [
+      
+   ],
+   "filesToLoadOnTopOfThis" : [
+   ],
+}

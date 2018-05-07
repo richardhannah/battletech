@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_scorpion",
+    "HardpointData" : [
+        {
+            "location" : "front",
+            "weapons" : [
+                [
+                    "chrPrfWeap_scorpion_front_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_RE_Itrom_TaurianMWDefault",
+    "internalName" : "RE_Itrom_TaurianMWDefault",
+    "firstName" : "Lance",
+    "lastName" : "Leader",
+    "callsign" : null,
+    "rank" : "Taurian Concordat",
+    "gender" : "Male",
+    "faction" : "TaurianConcordat",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_TaurianDefault_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

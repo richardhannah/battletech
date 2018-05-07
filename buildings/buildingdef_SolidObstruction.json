@@ -1,0 +1,14 @@
+{
+   "Description" : {
+      "Id" : "buildingdef_SolidObstruction",
+      "Name" : "Solid Obstruction",
+      "Details" : "Nontargetable obstruction like a large rock.",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Destructible" : false,
+   "StructurePoints" : 0,
+   "Opacity" : 100
+}

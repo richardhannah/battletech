@@ -1,0 +1,6 @@
+{
+    "Id" : "BiomePolar",
+    "Name" : "Polar",
+    "Details" : "The Polar biome is marked by ice sheets, thick snow fields, and boreal vegetation. Jagged rocks carved by glaciers thrust up out of the snow, often forming vast, sharp mountain ranges. Heat sinks quite readily in this biome, but occasional pockets of geothermal activity can reduce heat efficiency for any 'Mech that stands in them.",
+    "Icon" : "uixSvgIcon_biome_Polar"
+}

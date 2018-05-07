@@ -1,0 +1,19 @@
+{
+    "ID" : "hardpointdatadef_demolisher",
+    "HardpointData" : [
+        {
+            "location" : "front",
+            "weapons" : [
+                [
+                    "chrPrfWeap_demolisher_front_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

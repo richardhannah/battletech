@@ -1,0 +1,26 @@
+{
+    "identifier" : "Bkt_DefendBase_AllyReinforcements_1",
+    "contents" : [
+        {
+            "words" : "Friendly reinforcements are incoming, Commander! Maintain your position—they'll be there shortly!",
+            "wordsColor" : {
+                "r" : 1,
+                "g" : 1,
+                "b" : 1,
+                "a" : 1
+            },
+            "selectedCastDefId" : "castDef_DariusDefault",
+            "emote" : "Default",
+            "dialogueOrigin" : "pilot",
+            "audioEventEntryIndex" : 0,
+            "audioEventEntryText" : "Audio_Event_DefendBase_AllyReinforcements_1",
+            "conversationIdx" : 0,
+            "cameraFocus" : {
+                "EncounterObjectGuid" : ""
+            },
+            "cameraDistance" : "Far",
+            "cameraHeight" : "Default",
+            "revealRadius" : -1
+        }
+    ]
+}

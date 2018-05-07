@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipArgoFunds",
+    "Name" : "Funds",
+    "Details" : "Your current bank balance, in C-bills.",
+    "Icon" : ""
+}

@@ -1,0 +1,55 @@
+{
+   "loggerLevels" : [
+      {
+         "k" : "AI",
+         "v" : "Debug"
+      },
+      {
+         "k" : "CombatLog.Attacking",
+         "v" : "Debug"
+      },
+      {
+         "k" : "CombatLog.AbilitiesAndEffects",
+         "v" : "Debug"
+      },
+      {
+         "k" : "CombatLog.RoundSequence",
+         "v" : "Debug"
+      },
+      {
+         "k" : "CombatLog.ActorActivation",
+         "v" : "Debug"
+      },
+      {
+         "k" : "CombatLog.Heat",
+         "v" : "Debug"
+      },
+      {
+         "k" : "ErrorLog.Pilot",
+         "v" : "Debug"
+      },
+      {
+         "k" : "CombatLog.Initialization",
+         "v" : "Debug"
+      }
+   ],
+   "fileLogAppenders" : [
+      "CombatLog",
+      "AI"
+   ],
+   "debugConsoleFilterLevel" : "Debug",
+   "debugConsoleIncludeFilters" : [
+      
+   ],
+   "debugConsoleExcludeFilters" : [
+      
+   ],
+   "loggerColors" : [
+      {
+         "k" : "AI",
+         "v" : "00ff00"
+      }
+   ],
+   "filesToLoadOnTopOfThis" : [
+   ],
+}

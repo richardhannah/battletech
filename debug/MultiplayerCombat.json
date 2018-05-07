@@ -1,0 +1,42 @@
+{
+   "loggerLevels" : [
+      {
+         "k" : "NetworkRandomValues",
+         "v" : "Log"
+      },
+      {
+         "k" : "PreviousRandomReport",
+         "v" : "Error"
+      },
+      {
+         "k" : "NetworkRandomCallstacks",
+         "v" : "Error"
+      },
+      {
+         "k" : "BattleTechServerGameVerification",
+         "v" : "Log"
+      }
+   ],
+   "fileLogAppenders" : [
+      "PreviousRandomReport",
+      "NetworkRandomValues",
+      "NetworkRandomCallstacks",
+      "BattleTechServerGameVerification"
+   ],
+   "debugConsoleFilterLevel" : "Debug",
+   "debugConsoleIncludeFilters" : [
+      
+   ],
+   "debugConsoleExcludeFilters" : [
+      
+   ],
+   "loggerColors" : [
+      {
+         "k" : "ClientGameSetup",
+         "v" : "00ff00"
+      }
+   ],
+   "filesToLoadOnTopOfThis" : [
+      "FullCombatLog"
+   ]
+}

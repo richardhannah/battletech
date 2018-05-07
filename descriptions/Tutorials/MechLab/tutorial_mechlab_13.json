@@ -1,0 +1,6 @@
+{
+    "Id" : "tutorial_mechlab_13",
+    "Name" : "Work Order and Timeline",
+    "Details" : "Once you have reviewed and confirmed your work order, your BattleMech's refit will appear in your Timeline as an item your crew is working on. You can still cancel a refit in progress by opening up the Task Manager.",
+    "Icon" : "12-WorkOrderTimeline"
+}

@@ -1,0 +1,15 @@
+{
+   "identifier" : "mapStory_storyEncounter7_async_atAmbushSite",
+   "contents" : [
+      {
+         "words" : "Good job. Now buckle in, Commander... here they come.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}

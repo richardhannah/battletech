@@ -1,0 +1,6 @@
+{
+    "Id" : "ReputationLoathed",
+    "Name" : "Reputation: Loathed",
+    "Details" : "At Loathed reputation, this faction considers you an enemy and will work with you only under duress. You receive 90% less payment for contracts and are not permitted to shop in systems this faction controls.",
+    "Icon" : "uixTxrIcon_rep_-3"
+}

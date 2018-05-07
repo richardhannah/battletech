@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_AmbushConvoy_PriTarDamaged",
+   "DialogueContentIDs" : [
+    "Bkt_AmbushConvoy_PriTarDamaged_1",
+    "Bkt_AmbushConvoy_PriTarDamaged_2",
+    "Bkt_AmbushConvoy_PriTarDamaged_3"   
+   ]
+}

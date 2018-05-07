@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptCompanyPointsTech",
+    "Name" : "Tech Points",
+    "Details" : "Tech Points are generated each day and spent to repair or customize BattleMechs. Tech Points only apply to one 'Mech task at a time, so additional tasks are queued to be worked on next.",
+    "Icon" : ""
+}

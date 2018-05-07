@@ -1,0 +1,6 @@
+{
+    "Id" : "tutorial_mechlab_03",
+    "Name" : "Hardpoints",
+    "Details" : "Each location on a 'Mech contains one or more weapon mounts called hardpoints. Hardpoints are designed for only one specific weapon type, but most 'Mechs have locations that contain more than one hardpoint. Multiple hardpoints allow options in the weapon types you can place in a location.",
+    "Icon" : "02-Hardpoints01"
+}

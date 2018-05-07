@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechWarriorHealing",
+    "Name" : "Healing",
+    "Details" : "MechWarriors injured in battle are confined to the Med Bay to recover. The severity of their injuries and their Guts skill determine the time it takes until they're healed. To increase the rate at which your MechWarriors heal, upgrade your DropShip with additional Med Bays.",
+    "Icon" : ""
+}

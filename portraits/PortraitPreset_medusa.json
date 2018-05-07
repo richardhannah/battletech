@@ -1,0 +1,49 @@
+{
+    "Description" : {
+        "Id" : "PortraitPreset_medusa",
+        "Name" : "PortraitPreset_medusa",
+        "Details" : "",
+        "Icon" : ""
+    },
+    "backgroundColor" : {
+        "r" : 0,
+        "g" : 0,
+        "b" : 0,
+        "a" : 0
+    },
+    "headMesh" : 0.144,
+    "hairMesh" : 16,
+    "beardMesh" : 7,
+    "suitMesh" : 0,
+    "scar" : 0,
+    "lightRig" : 2,
+    "cameraPosition" : 2,
+    "complexionTex" : 2,
+    "eyebrowTex" : 5,
+    "tattooTex" : 1,
+    "actualTattooTex" : 0,
+    "weights" : [
+        60,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "browOffsetY" : -0.00253951,
+    "browOffsetZ" : 0.00536682,
+    "noseBridgeScale" : 0.1082441,
+    "noseTipScale" : -0.2424942,
+    "chinScale" : -0.03534606,
+    "cheekOffsetY" : -0.00299635,
+    "eyeWidth" : 0.04619975,
+    "jawWidth" : 0.03506839,
+    "animation" : 8,
+    "isCommander" : false,
+    "skinToneId" : "Skin_06",
+    "eyeColorId" : "Eye_06",
+    "hairRootId" : "Hair_00",
+    "hairTipId" : "Hair_00",
+    "tattooColorId" : "Tattoo_04",
+    "lipColorId" : "Lip_01"
+}

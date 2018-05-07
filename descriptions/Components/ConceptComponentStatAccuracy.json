@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatAccuracy",
+    "Name" : "Accuracy",
+    "Details" : "Accuracy decreases the total penalty to hit of a given attack based on its shot difficulty.",
+    "Icon" : ""
+}

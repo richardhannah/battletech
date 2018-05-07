@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatDFADamage",
+    "Name" : "DFA Damage",
+    "Details" : "Damage dealt via 'Death from Above' attacks is based off of the inherent design of the attacking 'Mech's chassis. DFA damage is calculated in two potential hits—one for each leg.",
+    "Icon" : ""
+}

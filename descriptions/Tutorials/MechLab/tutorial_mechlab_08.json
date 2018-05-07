@@ -1,0 +1,6 @@
+{
+    "Id" : "tutorial_mechlab_08",
+    "Name" : "'Mech Location",
+    "Details" : "You can drag components on and off your 'Mech to customize its loadout. Selecting a component in your inventory will highlight all valid hardpoints on the 'Mech. As you add and remove components, keep an eye on your 'Mech's performance bars as well as its weight. You may also increase the amount of armor in each location. This increases the 'Mech's weight but protects the structure from damage.",
+    "Icon" : "07-MechLocation02"
+}

@@ -1,0 +1,26 @@
+{
+    "identifier" : "Bkt_CaptureEscort_InPositionHoldOut_2",
+    "contents" : [
+        {
+            "words" : "Good work, Commander. Hold this position until the package is underway.",
+            "wordsColor" : {
+                "r" : 1,
+                "g" : 1,
+                "b" : 1,
+                "a" : 1
+            },
+            "selectedCastDefId" : "castDef_DariusDefault",
+            "emote" : "Default",
+            "dialogueOrigin" : "pilot",
+            "audioEventEntryIndex" : 0,
+            "audioEventEntryText" : "Audio_Event_CaptureEscort_HoldOut_2",
+            "conversationIdx" : 0,
+            "cameraFocus" : {
+                "EncounterObjectGuid" : ""
+            },
+            "cameraDistance" : "Far",
+            "cameraHeight" : "Default",
+            "revealRadius" : -1
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_ExperiencePerDayCap",
+        "Name" : "Experience",
+        "Details" : "Experience the MechWarrior may spent to train skills.",
+        "Icon" : null
+    },
+    "setResult" : "",
+    "positiveResult" : "",
+    "negativeResult" : "",
+    "temporalSetResult" : "",
+    "temporalPositiveResult" : "",
+    "temporalNegativeResult" : "",
+    "infinitiveSetResult" : "MechWarriors with less than {RES_VALUE.ToString} total [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]] can benefit from this training",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}

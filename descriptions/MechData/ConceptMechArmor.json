@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechArmor",
+    "Name" : "Armor",
+    "Details" : "Armor equipped on a 'Mech is used to protect its vital internal structure, as well as its weapons, ammo, and other critical systems. Damaged armor is automatically removed and replaced after battle. A location's underlying structure can support up to twice its Structure points in Armor.",
+    "Icon" : ""
+}

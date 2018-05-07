@@ -1,0 +1,6 @@
+{
+    "Id" : "LoreMisjump",
+    "Name" : "Misjump",
+    "Details" : "Errors in jump travel are termed misjumps. A misjump causes the JumpShip to move to an unexpected location, sometimes far beyond the 30-light-year maximum range on jumping. Since this frequently appears to place the ship somewhere it cannot refuel or return from, forensic data about misjumps is limited. Experts believe faulty navigational data to be the most common cause of misjumps, but system malfunctions and even spatial anomalies are also potential causes.",
+    "Icon" : ""
+}

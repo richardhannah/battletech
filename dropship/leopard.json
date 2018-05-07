@@ -1,0 +1,68 @@
+{
+   "Description" : {
+      "Id" : "leopard",
+      "Name" : "Hysteria",
+      "Details" : "",
+      "Icon" : "",
+      "Cost" : 65000,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "SupportedLocations" : "DS_LEOPARD",
+   "Modules" : [
+      {
+         "Description" : {
+            "Id" : "",
+            "Name" : "",
+            "Details" : "",
+            "Icon" : "",
+            "Cost" : 0,
+            "Rarity" : 0,
+            "Purchasable" : false
+         },
+         "Location" : "BARRACKS",
+         "Upgrades" : {
+            "items" : [
+               "ExampleTag"
+            ],
+            "tagSetSourceFile" : ""
+         }
+      },
+      {
+         "Description" : {
+            "Id" : "",
+            "Name" : "",
+            "Details" : "",
+            "Icon" : "",
+            "Cost" : 0,
+            "Rarity" : 0,
+            "Purchasable" : false
+         },
+         "Location" : "NAVIGATION",
+         "Upgrades" : {
+            "items" : [
+               "ExampleTag"
+            ],
+            "tagSetSourceFile" : ""
+         }
+      },
+      {
+         "Description" : {
+            "Id" : "",
+            "Name" : "",
+            "Details" : "",
+            "Icon" : "",
+            "Cost" : 0,
+            "Rarity" : 0,
+            "Purchasable" : false
+         },
+         "Location" : "MECH_BAY",
+         "Upgrades" : {
+            "items" : [
+               "ExampleTag"
+            ],
+            "tagSetSourceFile" : ""
+         }
+      }
+   ]
+}

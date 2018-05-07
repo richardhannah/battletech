@@ -1,0 +1,47 @@
+{
+    "ID" : "hardpointdatadef_galleon",
+    "HardpointData" : [
+        {
+            "location" : "leftturret",
+            "weapons" : [
+                [
+                    "chrPrfWeap_galleon_leftturret_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightturret",
+            "weapons" : [
+                [
+                    "chrPrfWeap_galleon_rightturret_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrPrfWeap_galleon_turret_generic_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

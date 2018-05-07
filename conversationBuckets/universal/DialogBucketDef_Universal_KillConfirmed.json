@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_Universal_KillConfirmed",
+   "DialogueContentIDs" : [
+    "Bkt_KillConfirmed_1",
+    "Bkt_KillConfirmed_2",
+    "Bkt_KillConfirmed_3"
+   ]
+}

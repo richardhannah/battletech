@@ -1,0 +1,19 @@
+{
+   "id" : "castDef_ComStarDefault",
+   "internalName" : "ComStarDefault",
+   "firstName" : "Com",
+   "lastName" : "Star",
+   "callsign" : null,
+   "rank" : null,
+   "showRank" : false,
+   "gender" : "None",
+   "faction" : "ComStar",
+   "sgCharType" : "UNSET",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Comstar_default_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

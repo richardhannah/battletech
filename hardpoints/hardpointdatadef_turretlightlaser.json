@@ -1,0 +1,30 @@
+{
+    "ID" : "hardpointdatadef_turretlightlaser",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrPrfWeap_turretLightLaser_turret_generic_bh1",
+                    "chrPrfWeap_turretLightLaser_turret_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_turretLightLaser_turret_generic_bh2",
+                    "chrPrfWeap_turretLightLaser_turret_laser_eh2"
+                ],
+                [
+                    "chrPrfWeap_turretLightLaser_turret_machinegun_ah3"
+                ],
+                [
+                    "chrPrfWeap_turretLightLaser_turret_machinegun_ah4"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

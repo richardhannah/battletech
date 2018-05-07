@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_CaptureBase_GoToNextObj",
+   "DialogueContentIDs" : [
+    "Bkt_CaptureBase_GoToNextObj_1",
+    "Bkt_CaptureBase_GoToNextObj_2",
+    "Bkt_CaptureBase_GoToNextObj_3"   
+   ]
+}

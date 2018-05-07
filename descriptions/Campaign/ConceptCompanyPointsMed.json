@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptCompanyPointsMed",
+    "Name" : "Medical Points",
+    "Details" : "Medical Points are generated each day and spent to heal injured MechWarriors. Medical Points apply to all injured MechWarriors simultaneously.",
+    "Icon" : ""
+}

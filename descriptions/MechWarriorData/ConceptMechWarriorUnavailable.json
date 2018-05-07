@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechWarriorUnavailable",
+    "Name" : "Unavailable",
+    "Details" : "MechWarriors may become unavailable for use in battle as a consequence of events or other game results. They will return to duty after the duration of their unavailability expires.",
+    "Icon" : ""
+}

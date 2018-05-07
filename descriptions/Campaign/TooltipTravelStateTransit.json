@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipTravelStateTransit",
+    "Name" : "In Transit",
+    "Details" : "Travel between planets and jump points can take many days, at a comfortable 1 to 1.5 g acceleration.",
+    "Icon" : ""
+}

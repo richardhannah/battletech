@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_MercenaryDefault",
+   "internalName" : "MercenaryDefault",
+   "firstName" : "",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "Faction Representative",
+   "showRank" : true,
+   "gender" : "None",
+   "faction" : "AuriganMercenaries",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_LocalsRep_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

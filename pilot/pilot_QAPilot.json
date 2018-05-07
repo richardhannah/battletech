@@ -1,0 +1,40 @@
+{
+   "Description" : {
+      "Id" : "pilot_QAPilot",
+      "Name" : "Mr. QA",
+      "FirstName" : null,
+      "LastName" : null,
+      "Callsign" : null,
+      "Gender" : "INVALID_UNSET",
+      "Faction" : "INVALID_UNSET",
+      "Age" : 0,
+      "Details" : "A generic pilot with average skills",
+      "Icon" : ""
+   },
+   "BaseGunnery" : 2,
+   "BonusGunnery" : 0,
+   "BasePiloting" : 3,
+   "BonusPiloting" : 0,
+   "BaseGuts" : 3,
+   "BonusGuts" : 0,
+   "BaseTactics" : 3,
+   "BonusTactics" : 0,
+   "ExperienceUnspent" : 0,
+   "ExperienceSpent" : 0,
+   "Injuries" : 0,
+   "Health" : 3,
+   "LethalInjury" : false,
+   "Incapacitated" : false,
+   "Morale" : 0,
+   "Voice" : "",
+   "abilityDefNames" : null,
+   "AIPersonality" : "QAPersonality",
+   "PilotTags" : {
+      "items" : [
+			"BLACKLISTED",
+         "sample"
+      ],
+      "tagSetSourceFile" : ""
+   },
+   "PilotCost" : 0
+}

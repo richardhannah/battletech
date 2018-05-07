@@ -1,0 +1,6 @@
+{
+    "Id" : "LoreJumpShip",
+    "Name" : "JumpShips",
+    "Details" : "JumpShips are spacegoing vessels capable of faster-than-light travel, using massive Kearny-Fuchida drives to instantaneously 'jump' from one planetary system to another. Typical civilian JumpShip designs dedicate 95% of their mass to the K-F drive and a solar energy collection system to power it, leaving little room for conventional engines. Consequently, these ships are only seen at jump points beyond each star's gravitational proximity limit.\r\n\r\nCommercial interstellar travel involves riding a DropShip from the planet to the jump point, docking the DropShip to a JumpShip for transit to a new system, and then riding the DropShip back down to the destination planet.",
+    "Icon" : ""
+}

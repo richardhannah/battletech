@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipBudgetSectionMechs",
+    "Name" : "BattleMech Upkeep",
+    "Details" : "Keeping a BattleMech in a state of combat readiness is expensive, even above the cost of any specific repairs. Between routine maintenance, resupply of consumables like ammo and armor, and the minor tinkering needed to keep centuries-old war machines operational, the costs add up quickly.\n\nTo reduce this expense, move one or more of your readied 'Mechs to storage. Make sure you keep enough readied 'Mechs that you can deploy a full combat lance, though.",
+    "Icon" : ""
+}

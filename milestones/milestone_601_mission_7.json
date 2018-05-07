@@ -1,0 +1,57 @@
+{
+    "Description" : {
+        "Id" : "milestone_601_mission_7",
+        "Name" : "mission",
+        "Details" : "Mission 7",
+        "Icon" : "",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Scope" : "Company",
+    "Requirements" : [
+        {
+            "Scope" : "Company",
+            "RequirementTags" : {
+                "items" : [],
+                "tagSetSourceFile" : ""
+            },
+            "ExclusionTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "RequirementComparisons" : [
+                {
+                    "obj" : "NextStoryMilestone",
+                    "op" : "Equal",
+                    "val" : 601,
+                    "valueConstant" : null
+                }
+            ]
+        }
+    ],
+    "Results" : [
+        {
+            "Scope" : "Company",
+            "Requirements" : null,
+            "AddedTags" : {},
+            "RemovedTags" : {},
+            "Stats" : [],
+            "Actions" : [
+                {
+                    "Type" : "System_StartContract",
+                    "value" : "Story_7_GunboatDiplomacy_Default",
+                    "valueConstant" : null,
+					"additionalValues" : [
+						"AuriganDirectorate",
+						"AuriganRestoration"
+					]
+                }
+            ],
+            "ForceEvents" : null,
+            "TemporaryResult" : false,
+            "ResultDuration" : 0
+        }
+    ],
+    "Repeatable" : true
+}

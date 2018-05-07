@@ -1,0 +1,212 @@
+{
+   "id" : "audioeventdef_test",
+   "soundbankList" : [
+      "dialog_m020"
+   ],
+   "audioEvents" : [
+      {
+         "k" : "intro1miner",
+         "v" : {
+            "name" : "intro1miner",
+            "comment" : "miner intro",
+            "eventData" : [
+               {
+                  "eventType" : "Event",
+                  "key" : "AudioEventList_vo",
+                  "value" : "vo_stop_missions"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_missions",
+                  "value" : "m020"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_lines_m020",
+                  "value" : "m020_010_manager"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_origin_type",
+                  "value" : "pilot"
+               },
+               {
+                  "eventType" : "Event",
+                  "key" : "AudioEventList_vo",
+                  "value" : "vo_play_missions"
+               }
+            ]
+         }
+      },
+      {
+         "k" : "intro2darius",
+         "v" : {
+            "name" : "intro2darius",
+            "comment" : "A Placeholder Dialog Event. UPDATE ME!",
+            "eventData" : [
+               {
+                  "eventType" : "Event",
+                  "key" : "AudioEventList_vo",
+                  "value" : "vo_stop_missions"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_missions",
+                  "value" : "m020"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_lines_m020",
+                  "value" : "m020_020_darius"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_origin_type",
+                  "value" : "dropship"
+               },
+               {
+                  "eventType" : "Event",
+                  "key" : "AudioEventList_vo",
+                  "value" : "vo_play_missions"
+               }
+            ]
+         }
+      },
+      {
+         "k" : "intro3miner",
+         "v" : {
+            "name" : "intro3miner",
+            "comment" : "A Placeholder Dialog Event. UPDATE ME!",
+            "eventData" : [
+               {
+                  "eventType" : "Event",
+                  "key" : "AudioEventList_vo",
+                  "value" : "vo_stop_missions"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_missions",
+                  "value" : "m020"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_lines_m020",
+                  "value" : "m020_030_miner"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_origin_type",
+                  "value" : "pilot"
+               },
+               {
+                  "eventType" : "Event",
+                  "key" : "AudioEventList_vo",
+                  "value" : "vo_play_missions"
+               }
+            ]
+         }
+      },
+      {
+         "k" : "intro4darius",
+         "v" : {
+            "name" : "intro4darius",
+            "comment" : "A Placeholder Dialog Event. UPDATE ME!",
+            "eventData" : [
+               {
+                  "eventType" : "Event",
+                  "key" : "AudioEventList_vo",
+                  "value" : "vo_stop_missions"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_missions",
+                  "value" : "m020"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_lines_m020",
+                  "value" : "m020_040_darius"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_origin_type",
+                  "value" : "dropship"
+               },
+               {
+                  "eventType" : "Event",
+                  "key" : "AudioEventList_vo",
+                  "value" : "vo_play_missions"
+               }
+            ]
+         }
+      },
+      {
+         "k" : "intro5darius",
+         "v" : {
+            "name" : "intro5darius",
+            "comment" : "A Placeholder Dialog Event. UPDATE ME!",
+            "eventData" : [
+               {
+                  "eventType" : "Event",
+                  "key" : "AudioEventList_vo",
+                  "value" : "vo_stop_missions"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_missions",
+                  "value" : "m020"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_lines_m020",
+                  "value" : "m020_043_darius"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_origin_type",
+                  "value" : "dropship"
+               },
+               {
+                  "eventType" : "Event",
+                  "key" : "AudioEventList_vo",
+                  "value" : "vo_play_missions"
+               }
+            ]
+         }
+      },
+      {
+         "k" : "intro6miner",
+         "v" : {
+            "name" : "intro6miner",
+            "comment" : "A Placeholder Dialog Event. UPDATE ME!",
+            "eventData" : [
+               {
+                  "eventType" : "Event",
+                  "key" : "AudioEventList_vo",
+                  "value" : "vo_stop_missions"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_missions",
+                  "value" : "m020"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_lines_m020",
+                  "value" : "m020_047_miner"
+               },
+               {
+                  "eventType" : "Switch",
+                  "key" : "dialog_origin_type",
+                  "value" : "pilot"
+               },
+               {
+                  "eventType" : "Event",
+                  "key" : "AudioEventList_vo",
+                  "value" : "vo_play_missions"
+               }
+            ]
+         }
+      }
+   ]
+}

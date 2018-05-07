@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_Universal_HostilesInbound",
+   "DialogueContentIDs" : [
+    "Bkt_HostilesInbound_1",
+    "Bkt_HostilesInbound_2",
+    "Bkt_HostilesInbound_3"
+   ]
+}

@@ -1,0 +1,26 @@
+{
+    "identifier" : "Bkt_DefendBase_TurretAPCs_1",
+    "contents" : [
+        {
+            "words" : "Our engineering crews are under way. Keep their APCs protected, and they'll bring those turrets online!",
+            "wordsColor" : {
+                "r" : 1,
+                "g" : 1,
+                "b" : 1,
+                "a" : 1
+            },
+            "selectedCastDefId" : "castDef_DariusDefault",
+            "emote" : "Default",
+            "dialogueOrigin" : "pilot",
+            "audioEventEntryIndex" : 0,
+            "audioEventEntryText" : "Audio_Event_DefendBase_TurretAPC_1",
+            "conversationIdx" : 0,
+            "cameraFocus" : {
+                "EncounterObjectGuid" : ""
+            },
+            "cameraDistance" : "Far",
+            "cameraHeight" : "Default",
+            "revealRadius" : -1
+        }
+    ]
+}

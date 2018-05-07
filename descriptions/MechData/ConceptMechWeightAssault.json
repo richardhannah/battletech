@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechWeightAssault",
+    "Name" : "Class: Assault",
+    "Details" : "Assault BattleMechs are the champions of the battlefield—walking walls of armor and weaponry. Normally the slowest unit on the field, assault 'Mechs can decimate any opponent, but they tend to need support from more maneuverable units.\n\nWith an Initiative of 1, assault 'Mechs take action last in a round.",
+    "Icon" : ""
+}

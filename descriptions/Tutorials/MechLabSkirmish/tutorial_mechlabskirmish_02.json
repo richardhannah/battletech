@@ -1,0 +1,6 @@
+{
+    "Id" : "tutorial_mechlabskirmish_02",
+    "Name" : "'Mech at a Glance",
+    "Details" : "In the upper left corner of the screen, you can see an overview of your 'Mech, including performance bars, the 'Mech's tonnage, its weapon hardpoints, and its Jump Jets. As you make changes, you can refer to the yellow bars for a quick read of your BattleMech's overall performance. Keep an eye on your 'Mech's current tonnage in order to maximize combat effectiveness. There is no advantage in fielding an underweight BattleMech.",
+    "Icon" : "01-MechGlance"
+}

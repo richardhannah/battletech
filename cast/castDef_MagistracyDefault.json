@@ -1,0 +1,19 @@
+{
+   "id" : "castDef_MagistracyDefault",
+   "internalName" : "MagistracyDefault",
+   "firstName" : "Magistracy",
+   "lastName" : "Magistracy of Canopus",
+   "callsign" : null,
+   "rank" : null,
+   "showRank" : false,
+   "gender" : "None",
+   "faction" : "MagistracyOfCanopus",
+   "sgCharType" : "UNSET",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Marik_default_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_DefendBase_TurretAPCs",
+   "DialogueContentIDs" : [
+    "Bkt_DefendBase_TurretAPCs_1",
+    "Bkt_DefendBase_TurretAPCs_2",
+    "Bkt_DefendBase_TurretAPCs_3"    
+   ]
+}

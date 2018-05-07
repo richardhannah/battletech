@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_ExperienceUnspent",
+        "Name" : "Experience",
+        "Details" : "Experience the MechWarrior may spend to train skills.",
+        "Icon" : null
+    },
+    "setResult" : "[[RES_MW,{RES_MW.Callsign}]]'s [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]] is set to {RES_VALUE.ToString}",
+    "positiveResult" : "[[RES_MW,{RES_MW.Callsign}]] gains {RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]]",
+    "negativeResult" : "[[RES_MW,{RES_MW.Callsign}]] loses {RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]]",
+    "temporalSetResult" : "[[RES_MW,{RES_MW.Callsign}]]'s [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]] is set to {RES_VALUE.ToString} for {RES_DURATION.ToString} days",
+    "temporalPositiveResult" : "[[RES_MW,{RES_MW.Callsign}]] gains {RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]] for {RES_DURATION.ToString} days",
+    "temporalNegativeResult" : "[[RES_MW,{RES_MW.Callsign}]] loses {RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]] for {RES_DURATION.ToString} days",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}

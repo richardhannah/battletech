@@ -1,0 +1,40 @@
+{
+    "ID" : "hardpointdatadef_turretheavylaser",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrPrfWeap_turretHeavyLaser_turret_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyLaser_turret_laser_eh2"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyLaser_turret_laser_eh3"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyLaser_turret_laser_eh4"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyLaser_turret_laser_eh5"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyLaser_turret_laser_eh6"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyLaser_turret_machinegun_ah7"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyLaser_turret_machinegun_ah8"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

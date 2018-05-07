@@ -1,0 +1,44 @@
+{
+   "Description" : {
+      "Id" : "pilot_privbeta_gn4-pl4-gt6-tc6",
+      "Name" : "GN-4_PL-4_GT-6_TC-6",
+      "FirstName" : null,
+      "LastName" : null,
+      "Callsign" : null,
+      "Gender" : "INVALID_UNSET",
+      "Faction" : "INVALID_UNSET",
+      "Age" : 0,
+      "Details" : "Private Beta Enemy Pilot",
+      "Icon" : "Bullhorn"
+   },
+   "BaseGunnery" : 4,
+   "BonusGunnery" : 0,
+   "BasePiloting" : 4,
+   "BonusPiloting" : 0,
+   "BaseGuts" : 6,
+   "BonusGuts" : 0,
+   "BaseTactics" : 6,
+   "BonusTactics" : 0,
+   "ExperienceUnspent" : 0,
+   "ExperienceSpent" : 0,
+   "Injuries" : 0,
+   "Health" : 3,
+   "LethalInjury" : false,
+   "Incapacitated" : false,
+   "Morale" : 0,
+   "Voice" : "m_murdock01",
+   "abilityDefNames" : [
+      
+   ],
+   "AIPersonality" : "Undefined",
+   "PilotTags" : {
+      "items" : [
+			"BLACKLISTED",
+         "pilot_release_privatebeta",
+         "pilot_enemy",
+         "points-20"
+      ],
+      "tagSetSourceFile" : ""
+   },
+   "PilotCost" : 0
+}

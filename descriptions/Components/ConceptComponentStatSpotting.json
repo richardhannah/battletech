@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatSpotting",
+    "Name" : "Visual Distance",
+    "Details" : "Visual Distance determines the maximum distance in meters at which a unit is capable of spotting a target from its location on the battlefield. Spotted units can be attacked directly or indirectly by any friendly unit.",
+    "Icon" : ""
+}

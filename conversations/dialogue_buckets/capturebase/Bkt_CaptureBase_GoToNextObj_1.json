@@ -1,0 +1,26 @@
+{
+    "identifier" : "Bkt_CaptureBase_GoToNextObj_1",
+    "contents" : [
+        {
+            "words" : "Good work, Commander. Proceed to the next objective.",
+            "wordsColor" : {
+                "r" : 1,
+                "g" : 1,
+                "b" : 1,
+                "a" : 1
+            },
+            "selectedCastDefId" : "castDef_DariusDefault",
+            "emote" : "Default",
+            "dialogueOrigin" : "pilot",
+            "audioEventEntryIndex" : 0,
+            "audioEventEntryText" : "Audio_Event_CaptureBase_GoToNextObjective_1",
+            "conversationIdx" : 0,
+            "cameraFocus" : {
+                "EncounterObjectGuid" : ""
+            },
+            "cameraDistance" : "Far",
+            "cameraHeight" : "Default",
+            "revealRadius" : -1
+        }
+    ]
+}

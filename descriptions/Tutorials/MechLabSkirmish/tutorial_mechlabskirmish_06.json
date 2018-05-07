@@ -1,0 +1,6 @@
+{
+    "Id" : "tutorial_mechlabskirmish_06",
+    "Name" : "Weapons & Equipment",
+    "Details" : "You can view an individual component's information here. The weight, space, and quantity for each item are displayed in the upper right corner, and weapon damage and Heat generation appear in the upper left corner.",
+    "Icon" : "05-WeaponsEquipment02"
+}

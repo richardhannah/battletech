@@ -1,0 +1,122 @@
+{
+   "Description" : {
+      "Id" : "argo",
+      "Name" : "Argo",
+      "Details" : "",
+      "Icon" : "",
+      "Cost" : 170000,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "SupportedLocations" : "DS_ARGO",
+   "Modules" : [
+      {
+         "Description" : {
+            "Id" : "",
+            "Name" : "",
+            "Details" : "",
+            "Icon" : "",
+            "Cost" : 0,
+            "Rarity" : 0,
+            "Purchasable" : false
+         },
+         "Location" : "BARRACKS",
+         "Upgrades" : {
+            "items" : [
+               "ExampleTag"
+            ],
+            "tagSetSourceFile" : ""
+         }
+      },
+      {
+         "Description" : {
+            "Id" : "",
+            "Name" : "",
+            "Details" : "",
+            "Icon" : "",
+            "Cost" : 0,
+            "Rarity" : 0,
+            "Purchasable" : false
+         },
+         "Location" : "NAVIGATION",
+         "Upgrades" : {
+            "items" : [
+               "ExampleTag"
+            ],
+            "tagSetSourceFile" : ""
+         }
+      },
+      {
+         "Description" : {
+            "Id" : "",
+            "Name" : "",
+            "Details" : "",
+            "Icon" : "",
+            "Cost" : 0,
+            "Rarity" : 0,
+            "Purchasable" : false
+         },
+         "Location" : "MECH_BAY",
+         "Upgrades" : {
+            "items" : [
+               "ExampleTag"
+            ],
+            "tagSetSourceFile" : ""
+         }
+      },
+      {
+         "Description" : {
+            "Id" : "",
+            "Name" : "",
+            "Details" : "",
+            "Icon" : "",
+            "Cost" : 0,
+            "Rarity" : 0,
+            "Purchasable" : false
+         },
+         "Location" : "CMD_CENTER",
+         "Upgrades" : {
+            "items" : [
+               "ExampleTag"
+            ],
+            "tagSetSourceFile" : ""
+         }
+      },
+      {
+         "Description" : {
+            "Id" : "",
+            "Name" : "",
+            "Details" : "",
+            "Icon" : "",
+            "Cost" : 0,
+            "Rarity" : 0,
+            "Purchasable" : false
+         },
+         "Location" : "ENGINEERING",
+         "Upgrades" : {
+            "items" : [
+               "ExampleTag"
+            ],
+            "tagSetSourceFile" : ""
+         }
+      },
+      {
+         "Description" : {
+            "Id" : "",
+            "Name" : "",
+            "Details" : "",
+            "Icon" : "",
+            "Cost" : 0,
+            "Rarity" : 0,
+            "Purchasable" : false
+         },
+         "Location" : "CPT_QUARTER",
+         "Upgrades" : {
+            "items" : [
+               "ExampleTag"
+            ],
+            "tagSetSourceFile" : ""
+         }
+      }
+   ]
+}

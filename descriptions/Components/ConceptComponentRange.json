@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentRange",
+    "Name" : "Range",
+    "Details" : "Range indicates the distance in meters that a weapon is able to fire. Every weapon has an Optimal Range with no attack penalties and a Maximum Range with mild penalties. Some weapons also have a Minimum Range, which has a severe attack penalty.\n\nWeapons are labeled as Close, Standard, Long, Very Long, or Extreme, based on their total range profile.",
+    "Icon" : ""
+}

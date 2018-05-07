@@ -1,0 +1,6 @@
+{
+    "Id" : "UnitMechWarriorSpecial",
+    "Name" : "Ronin",
+    "Details" : "This MechWarrior is a unique character. You may only hire this MechWarrior once; if you fire them, or they are killed, they will not reappear in any Hiring Halls.",
+    "Icon" : ""
+}

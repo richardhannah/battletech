@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_Rescue_AssetUnderFire-Sec",
+   "DialogueContentIDs" : [
+    "Bkt_Rescue_AssetUnderFire-Sec_1",
+    "Bkt_Rescue_AssetUnderFire-Sec_2",
+    "Bkt_Rescue_AssetUnderFire-Sec_3"    
+   ]
+}

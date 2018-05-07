@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatMeleeStabilityDamage",
+    "Name" : "Melee Stability Damage",
+    "Details" : "Melee stability damage is the amount of stability damage dealt specifically by Melee attacks, based off of the inherent design of the attacking 'Mech's chassis.",
+    "Icon" : ""
+}

@@ -1,0 +1,23 @@
+{
+   "id" : "castDef_MadeiraDefault",
+   "internalName" : "MadeiraDefault",
+   "firstName" : "Alexander",
+   "lastName" : "Madeira",
+   "callsign" : null,
+   "rank" : "Lord",
+   "showRank" : true,
+   "gender" : "Male",
+   "faction" : "AuriganRestoration",
+   "sgCharType" : "ALEXANDER",
+   "showRank" : true,
+   "showFirstName" : true,
+   "showCallsign" : false,
+   "showLastName" : true,
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Madeira_default_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

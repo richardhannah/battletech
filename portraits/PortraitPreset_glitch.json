@@ -1,0 +1,50 @@
+{
+    "Description" : {
+        "Id" : "PortraitPreset_glitch",
+        "Name" : "PortraitPreset_glitch",
+        "Details" : "",
+        "Icon" : ""
+    },
+    "DataManager" : null,
+    "backgroundColor" : {
+        "r" : 0,
+        "g" : 0,
+        "b" : 0,
+        "a" : 0
+    },
+    "headMesh" : 1,
+    "hairMesh" : 9,
+    "beardMesh" : 0,
+    "suitMesh" : 0,
+    "scar" : 0,
+    "lightRig" : 1,
+    "cameraPosition" : 1,
+    "complexionTex" : 0,
+    "eyebrowTex" : 2,
+    "tattooTex" : 6,
+    "actualTattooTex" : 0,
+    "weights" : [
+        35,
+        41,
+        26,
+        16,
+        0,
+        0
+    ],
+    "browOffsetY" : -0.00473,
+    "browOffsetZ" : -0.00406,
+    "noseBridgeScale" : 0.2,
+    "noseTipScale" : -0.133,
+    "chinScale" : -0.2,
+    "cheekOffsetY" : 0.00072,
+    "eyeWidth" : 0.0288,
+    "jawWidth" : 0.023,
+    "animation" : 4,
+    "isCommander" : false,
+    "skinToneId" : "Skin_07",
+    "eyeColorId" : "Eye_05",
+    "hairRootId" : "Hair_03",
+    "hairTipId" : "Hair_11",
+    "tattooColorId" : "Tattoo_03",
+    "lipColorId" : "Lip_05"
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptContractPayment",
+    "Name" : "Contract Payment",
+    "Details" : "The payment for a contract is based on the difficulty of the mission and your reputation with the employer. Some contracts have additional objectives that can be completed during the mission for additional pay.",
+    "Icon" : ""
+}

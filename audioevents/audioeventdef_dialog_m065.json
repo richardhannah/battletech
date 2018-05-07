@@ -1,0 +1,408 @@
+{
+    "id" : "audioeventdef_dialog_m065",
+    "soundbankList" : [
+        "dialog_m065"
+    ],
+    "audioEvents" : [
+        {
+            "k" : "m065_310_yang",
+            "v" : {
+                "name" : "m065_310_yang",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m065"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m065",
+                        "value" : "m065_310_yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m065_320_kamea",
+            "v" : {
+                "name" : "m065_320_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m065"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m065",
+                        "value" : "m065_320_kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m065_330_yang",
+            "v" : {
+                "name" : "m065_330_yang",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m065"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m065",
+                        "value" : "m065_330_yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m065_340_ostegaard",
+            "v" : {
+                "name" : "m065_340_ostegaard",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m065"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m065",
+                        "value" : "m065_340_ostergaard"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m065_350_ostegaard",
+            "v" : {
+                "name" : "m065_350_ostegaard",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m065"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m065",
+                        "value" : "m065_350_ostergaard"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m065_360_ostegaard",
+            "v" : {
+                "name" : "m065_360_ostegaard",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m065"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m065",
+                        "value" : "m065_360_ostergaard"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m065_370_ostegaard",
+            "v" : {
+                "name" : "m065_370_ostegaard",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m065"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m065",
+                        "value" : "m065_370_ostergaard"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m065_380_yang",
+            "v" : {
+                "name" : "m065_380_yang",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m065"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m065",
+                        "value" : "m065_380_yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m065_390_yang",
+            "v" : {
+                "name" : "m065_390_yang",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m065"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m065",
+                        "value" : "m065_390_yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m065_400_kamea",
+            "v" : {
+                "name" : "m065_400_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m065"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m065",
+                        "value" : "m065_400_kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m065_410_ostegaard",
+            "v" : {
+                "name" : "m065_410_ostegaard",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m065"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m065",
+                        "value" : "m065_410_ostergaard"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "OnOstegaardArtilleryStrike",
+            "v" : {
+                "name" : "OnOstegaardArtilleryStrike",
+                "comment" : "When Ostegaard blows up your dropship and sends assault mechs after you, that'd be a good time for some music shifts.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "Trigger",
+                        "key" : "environmental_event",
+                        "value" : ""
+                    }
+                ]
+            }
+        }
+    ]
+}

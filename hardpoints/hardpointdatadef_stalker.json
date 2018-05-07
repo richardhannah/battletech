@@ -1,0 +1,154 @@
+{
+    "ID" : "hardpointdatadef_stalker",
+    "HardpointData" : [
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_stalker_centertorso_flamer_eh1",
+                    "chrPrfWeap_stalker_centertorso_laser_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_stalker_leftarm_flamer_eh1",
+                    "chrPrfWeap_stalker_leftarm_laser_eh1",
+                    "chrPrfWeap_stalker_leftarm_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_stalker_leftarm_flamer_eh2",
+                    "chrPrfWeap_stalker_leftarm_laser_eh2",
+                    "chrPrfWeap_stalker_leftarm_ppc_eh2"
+                ],
+				[
+					"chrPrfWeap_stalker_leftarm_srm20_mh1",
+                    "chrPrfWeap_stalker_leftarm_lrm10_mh1",
+                    "chrPrfWeap_stalker_leftarm_lrm15_mh1",
+                    "chrPrfWeap_stalker_leftarm_lrm5_mh1",
+                    "chrPrfWeap_stalker_leftarm_narc_mh1",
+                    "chrPrfWeap_stalker_leftarm_srm2_mh1",
+                    "chrPrfWeap_stalker_leftarm_srm4_mh1",
+                    "chrPrfWeap_stalker_leftarm_srm6_mh1"
+				]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_stalker_lefttorso_ac10_bh1",
+                    "chrPrfWeap_stalker_lefttorso_ac20_bh1",
+                    "chrPrfWeap_stalker_lefttorso_ac2_bh1",
+                    "chrPrfWeap_stalker_lefttorso_ac5_bh1",
+                    "chrPrfWeap_stalker_lefttorso_gauss_bh1",
+                    "chrPrfWeap_stalker_lefttorso_lbx10_bh1",
+                    "chrPrfWeap_stalker_lefttorso_lrm10_mh1",
+                    "chrPrfWeap_stalker_lefttorso_lrm15_mh1",
+                    "chrPrfWeap_stalker_lefttorso_lrm5_mh1",
+                    "chrPrfWeap_stalker_lefttorso_mg_bh1",
+                    "chrPrfWeap_stalker_lefttorso_narc_mh1",
+                    "chrPrfWeap_stalker_lefttorso_srm20_mh1",
+                    "chrPrfWeap_stalker_lefttorso_srm2_mh1",
+                    "chrPrfWeap_stalker_lefttorso_srm4_mh1",
+                    "chrPrfWeap_stalker_lefttorso_srm6_mh1",
+                    "chrPrfWeap_stalker_lefttorso_uac5_bh1"
+                ],
+                [
+                    "chrPrfWeap_stalker_lefttorso_lrm10_mh2",
+                    "chrPrfWeap_stalker_lefttorso_lrm15_mh2",
+                    "chrPrfWeap_stalker_lefttorso_lrm5_mh2",
+                    "chrPrfWeap_stalker_lefttorso_narc_mh2",
+                    "chrPrfWeap_stalker_lefttorso_srm20_mh2",
+                    "chrPrfWeap_stalker_lefttorso_srm2_mh2",
+                    "chrPrfWeap_stalker_lefttorso_srm4_mh2",
+                    "chrPrfWeap_stalker_lefttorso_srm6_mh2"
+                ],
+				[
+					"chrPrfWeap_stalker_lefttorso_laser_eh1",
+					"chrPrfWeap_stalker_lefttorso_flamer_eh1",
+					"chrPrfWeap_stalker_lefttorso_ppc_eh1"
+				]
+            ],
+            "blanks" : [
+                "chrPrfWeap_stalker_lefttorso_blank_eh1",
+                "chrPrfWeap_stalker_lefttorso_blank_mh1",                    
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_stalker_rightarm_flamer_eh1",
+                    "chrPrfWeap_stalker_rightarm_laser_eh1",
+                    "chrPrfWeap_stalker_rightarm_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_stalker_rightarm_flamer_eh2",
+                    "chrPrfWeap_stalker_rightarm_laser_eh2",
+                    "chrPrfWeap_stalker_rightarm_ppc_eh2"
+                ],
+				[
+                    "chrPrfWeap_stalker_rightarm_lrm10_mh1",
+                    "chrPrfWeap_stalker_rightarm_lrm15_mh1",
+                    "chrPrfWeap_stalker_rightarm_lrm5_mh1",
+                    "chrPrfWeap_stalker_rightarm_narc_mh1",
+                    "chrPrfWeap_stalker_rightarm_srm20_mh1",
+                    "chrPrfWeap_stalker_rightarm_srm2_mh1",
+                    "chrPrfWeap_stalker_rightarm_srm4_mh1",
+                    "chrPrfWeap_stalker_rightarm_srm6_mh1"
+				]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_stalker_righttorso_flamer_eh1",
+                    "chrPrfWeap_stalker_righttorso_laser_eh1",
+                    "chrPrfWeap_stalker_righttorso_ppc_eh1"
+                ],
+				[
+					"chrPrfWeap_stalker_righttorso_lrm10_mh1",
+                    "chrPrfWeap_stalker_righttorso_lrm15_mh1",
+                    "chrPrfWeap_stalker_righttorso_lrm5_mh1",
+                    "chrPrfWeap_stalker_righttorso_narc_mh1",
+					"chrPrfWeap_stalker_righttorso_srm20_mh1",
+                    "chrPrfWeap_stalker_righttorso_srm2_mh1",
+                    "chrPrfWeap_stalker_righttorso_srm4_mh1",
+                    "chrPrfWeap_stalker_righttorso_srm6_mh1"
+				]
+            ],
+            "blanks" : [
+                "chrPrfWeap_stalker_righttorso_blank_eh1",
+                "chrPrfWeap_stalker_righttorso_blank_mh1"
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

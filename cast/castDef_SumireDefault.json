@@ -1,0 +1,22 @@
+{
+   "id" : "castDef_SumireDefault",
+   "internalName" : "SumireDefault",
+   "firstName" : "Sumire",
+   "lastName" : "Meyer",
+   "callsign" : null,
+   "rank" : "Navigator",
+   "gender" : "Female",
+   "faction" : "AuriganMercenaries",
+   "sgCharType" : "SUMIRE",
+   "showRank" : true,
+   "showFirstName" : true,
+   "showCallsign" : false,
+   "showLastName" : true,
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Sumire_default_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

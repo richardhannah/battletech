@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_LethalDeathChance",
+        "Name" : "Death Chance - Lethal Wounds",
+        "Details" : "Probability of death from lethal damage",
+        "Icon" : null
+    },
+    "setResult" : "",
+    "positiveResult" : "",
+    "negativeResult" : "",
+    "temporalSetResult" : "",
+    "temporalPositiveResult" : "",
+    "temporalNegativeResult" : "",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : "Chance of death from Lethal damage is {RES_VALUE.ToPercentString} less likely"
+}

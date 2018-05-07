@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_Morale",
+        "Name" : "Morale",
+        "Details" : "The crew Morale.",
+        "Icon" : null
+    },
+    "setResult" : "[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]] set to {RES_VALUE.ToString}",
+    "positiveResult" : "[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]] increased by {RES_VALUE.ToString}",
+    "negativeResult" : "[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]] decreased by {RES_VALUE.ToString}",
+    "temporalSetResult" : "[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]] set to {RES_VALUE.ToString} for {RES_DURATION.ToString} days",
+    "temporalPositiveResult" : "[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]] increased by {RES_VALUE.ToString} for {RES_DURATION.ToString} days",
+    "temporalNegativeResult" : "[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]] decreased by {RES_VALUE.ToString} for {RES_DURATION.ToString} days",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "+{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]]",
+    "infinitiveNegativeResult" : "-{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]]"
+}

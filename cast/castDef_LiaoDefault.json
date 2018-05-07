@@ -1,0 +1,19 @@
+{
+   "id" : "castDef_LiaoDefault",
+   "internalName" : "LiaoDefault",
+   "firstName" : "House",
+   "lastName" : "Liao",
+   "callsign" : null,
+   "rank" : null,
+   "showRank" : false,
+   "gender" : "None",
+   "faction" : "Liao",
+   "sgCharType" : "UNSET",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Liao_default_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "BiomeLunar",
+    "Name" : "Lunar",
+    "Details" : "The Lunar biome is similar to that of the moon of Terra. There is only a trace atmosphere, which makes sinking heat extremely difficult. Rare patches of ice provide some relief, but there is no cover of any kind aside from fields of boulders and the rims of craters. Radiation fields can offer some protection from enemy targeting, but they cause units in them to accumulate dangerous levels of heat.",
+    "Icon" : "uixSvgIcon_biome_Vacuum"
+}

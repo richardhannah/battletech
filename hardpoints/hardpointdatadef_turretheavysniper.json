@@ -1,0 +1,41 @@
+{
+    "ID" : "hardpointdatadef_turretheavysniper",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrPrfWeap_turretHeavySniper_turret_generic_bh1",
+                    "chrPrfWeap_turretHeavySniper_turret_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_turretHeavySniper_turret_ppc_eh2"
+                ],
+                [
+                    "chrPrfWeap_turretHeavySniper_turret_ac2_bh3"
+                ],
+                [
+                    "chrPrfWeap_turretHeavySniper_turret_ac2_bh4"
+                ],
+                [
+                    "chrPrfWeap_turretHeavySniper_turret_ac2_bh5"
+                ],
+                [
+                    "chrPrfWeap_turretHeavySniper_turret_ac2_bh6"
+                ],
+                [
+                    "chrPrfWeap_turretHeavySniper_turret_machinegun_ah7"
+                ],
+                [
+                    "chrPrfWeap_turretHeavySniper_turret_machinegun_ah8"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

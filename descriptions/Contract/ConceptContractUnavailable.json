@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptContractUnavailable",
+    "Name" : "Unavailable",
+    "Details" : "This contract is unavailable because your reputation with this faction or the Mercenary Review Board is too low.",
+    "Icon" : ""
+}

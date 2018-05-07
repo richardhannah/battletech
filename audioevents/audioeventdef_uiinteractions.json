@@ -1,0 +1,173 @@
+{
+    "id" : "audioeventdef_uiinteractions",
+    "soundbankList" : [
+        ""
+    ],
+    "audioEvents" : [
+        {
+            "k" : "Generic-Highlighted",
+            "v" : {
+                "name" : "Generic-Highlighted",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_ui",
+                        "value" : "ui_sim_menu_hover"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Generic-Pressed",
+            "v" : {
+                "name" : "Generic-Pressed",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_ui",
+                        "value" : "ui_sim_menu_select"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "SimGame-Back-Pressed",
+            "v" : {
+                "name" : "SimGame-Back-Pressed",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_ui",
+                        "value" : "ui_sim_back"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "BattleTech.UI.MainMenu-Highlighted",
+            "v" : {
+                "name" : "BattleTech.UI.MainMenu-Highlighted",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_ui",
+                        "value" : "ui_generic_hover"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "BattleTech.UI.MainMenu-Pressed",
+            "v" : {
+                "name" : "BattleTech.UI.MainMenu-Pressed",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_ui",
+                        "value" : "ui_generic_confirm"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "BattleTech.UI.SGLeftNavDrawer-Highlighted",
+            "v" : {
+                "name" : "BattleTech.UI.SGLeftNavDrawer-Highlighted",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_ui",
+                        "value" : "ui_sim_menu_hover"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "BattleTech.UI.SGLeftNavDrawer-Pressed",
+            "v" : {
+                "name" : "BattleTech.UI.SGLeftNavDrawer-Pressed",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_ui",
+                        "value" : "ui_sim_menu_select"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "BattleTech.UI.SGDialogWidget-Show",
+            "v" : {
+                "name" : "BattleTech.UI.SGDialogWidget-Show",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_ui",
+                        "value" : "ui_mission_popup_on"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "BattleTech.UI.SGDialogWidget-Dismiss",
+            "v" : {
+                "name" : "BattleTech.UI.SGDialogWidget-Dismiss",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_ui",
+                        "value" : "ui_mission_popup_off"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "SalvageScreen-ConfirmChoices-Pressed",
+            "v" : {
+                "name" : "SalvageScreen-ConfirmChoices-Pressed",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_ui",
+                        "value" : "ui_salvage_received"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "skirmish_lanceconfirm",
+            "v" : {
+                "name" : "skirmish_lanceconfirm",
+                "comment" : "when the lance configurator is confirmed, outside simgame",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_ui",
+                        "value" : "ui_generic_confirm"
+                    }
+                ]
+            }
+        },
+    ]
+}

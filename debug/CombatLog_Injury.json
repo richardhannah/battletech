@@ -1,0 +1,23 @@
+{
+   "loggerLevels" : [
+      {
+         "k" : "CombatLog.Injury",
+         "v" : "Log"
+      }
+   ],
+   "fileLogAppenders" : [
+      "CombatLog.Injury"
+   ],
+   "debugConsoleFilterLevel" : "Debug",
+   "debugConsoleIncludeFilters" : [
+      
+   ],
+   "debugConsoleExcludeFilters" : [
+      
+   ],
+   "loggerColors" : [
+      
+   ],
+    "filesToLoadOnTopOfThis" : [
+   ]
+}

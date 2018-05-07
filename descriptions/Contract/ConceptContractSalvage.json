@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptContractSalvage",
+    "Name" : "Contract Salvage",
+    "Details" : "The first value, priority salvage, is the number of items you may choose from all the available loot on the battlefield. The second value is the total number of items you'll receive, with the remainder chosen at random. Be aware that if you destroy enemy 'Mech chassis and equipment, those destroyed items will not be available as salvage.",
+    "Icon" : ""
+}

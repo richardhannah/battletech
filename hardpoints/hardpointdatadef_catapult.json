@@ -1,0 +1,122 @@
+{
+    "ID" : "hardpointdatadef_catapult",
+    "HardpointData" : [
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_catapult_centertorso_flamer_eh1",
+                    "chrPrfWeap_catapult_centertorso_laser_eh1"
+                ],
+                [
+                    "chrPrfWeap_catapult_centertorso_flamer_eh2",
+                    "chrPrfWeap_catapult_centertorso_laser_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_catapult_leftarm_flamer_eh1",
+                    "chrPrfWeap_catapult_leftarm_laser_eh1",
+                    "chrPrfWeap_catapult_leftarm_ppc_eh1",
+                    "chrPrfWeap_catapult_leftarm_srm20_mh1"
+                ],
+                [
+                    "chrPrfWeap_catapult_leftarm_srm20_mh2"
+                ],
+                [
+                    "chrPrfWeap_catapult_leftarm_lrm15_mh3"
+                ]
+            ],
+            "blanks" : [
+                "chrPrfWeap_catapult_leftarm_blank_eh1"
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_catapult_lefttorso_ac10_bh1",
+                    "chrPrfWeap_catapult_lefttorso_ac20_bh1",
+                    "chrPrfWeap_catapult_lefttorso_ac2_bh1",
+                    "chrPrfWeap_catapult_lefttorso_ac5_bh1",
+                    "chrPrfWeap_catapult_lefttorso_gauss_bh1",
+                    "chrPrfWeap_catapult_lefttorso_lbx10_bh1",
+                    "chrPrfWeap_catapult_lefttorso_mg_bh1",
+                    "chrPrfWeap_catapult_lefttorso_uac5_bh1"
+                ],
+				[
+                    "chrPrfWeap_catapult_lefttorso_flamer_eh1",
+                    "chrPrfWeap_catapult_lefttorso_laser_eh1",
+                    "chrPrfWeap_catapult_lefttorso_ppc_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_catapult_rightarm_flamer_eh1",
+                    "chrPrfWeap_catapult_rightarm_laser_eh1",
+                    "chrPrfWeap_catapult_rightarm_ppc_eh1",
+                    "chrPrfWeap_catapult_rightarm_srm20_mh1"
+                ],
+                [
+                    "chrPrfWeap_catapult_rightarm_srm20_mh2"
+                ],
+                [
+                    "chrPrfWeap_catapult_rightarm_lrm15_mh3"
+                ]
+            ],
+            "blanks" : [
+                "chrPrfWeap_catapult_rightarm_blank_eh1"
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_catapult_righttorso_ac10_bh1",
+                    "chrPrfWeap_catapult_righttorso_ac20_bh1",
+                    "chrPrfWeap_catapult_righttorso_ac2_bh1",
+                    "chrPrfWeap_catapult_righttorso_ac5_bh1",
+                    "chrPrfWeap_catapult_righttorso_gauss_bh1",
+                    "chrPrfWeap_catapult_righttorso_lbx10_bh1",
+                    "chrPrfWeap_catapult_righttorso_mg_bh1",
+                    "chrPrfWeap_catapult_righttorso_uac5_bh1"
+                ],
+				[
+                    "chrPrfWeap_catapult_righttorso_flamer_eh1",
+                    "chrPrfWeap_catapult_righttorso_laser_eh1",
+                    "chrPrfWeap_catapult_righttorso_ppc_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

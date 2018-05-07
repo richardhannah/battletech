@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_Mastiff01",
+    "internalName" : "Mastiff01",
+    "firstName" : "Raju",
+    "lastName" : "Montgomery",
+    "callsign" : "Mastiff",
+    "rank" : "Captain of the Guard",
+    "gender" : "Male",
+    "faction" : "AuriganMercenaries",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : true,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Mastiff01_def_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

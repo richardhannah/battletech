@@ -1,0 +1,25 @@
+{
+   "identifier" : "mapStory_storyEncounter7_inter_IntroConvo",
+   "contents" : [
+      {
+         "words" : "The Lord Regent's transport is en route to the bunker, moving at a good clip. His escort is configured for speed, so resistance should be light.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "I've marked an ambush site on your map. Move fast, and good hunting.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}

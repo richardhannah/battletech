@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptCompanyFinances",
+    "Name" : "Company Finances",
+    "Details" : "Your operating costs, due at each Financial Report. The pips indicate the number of months you can stay afloat.\n\nShould your funds ever hit zero, your company will fail entirely and cease operations.",
+    "Icon" : ""
+}

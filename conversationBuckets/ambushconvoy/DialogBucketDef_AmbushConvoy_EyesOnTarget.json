@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_AmbushConvoy_EyesOnTarget",
+   "DialogueContentIDs" : [
+    "Bkt_AmbushConvoy_EyesOnTarget_1",
+    "Bkt_AmbushConvoy_EyesOnTarget_2",
+    "Bkt_AmbushConvoy_EyesOnTarget_3"   
+   ]
+}

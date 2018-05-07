@@ -1,0 +1,6 @@
+{
+    "Id" : "CampaignResultsOutOfFunds",
+    "Name" : "Out Of Funds",
+    "Details" : "You've gone bankrupt. Without enough C-Bills to maintain your ship, your 'Mechs, and the salaries of your crew, you have no choice but to sell off your remaining hardware and disband your company. Perhaps someday you'll find a way to return with a new investor…",
+    "Icon" : "uixTxrSpot_CampaignOutcomeOutOfFunds"
+}

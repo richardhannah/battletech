@@ -1,0 +1,17 @@
+{
+   "identifier" : "DefaultMissionEnd_Failure",
+   "contents" : [
+      {
+         "words" : "Well. That just happened. (TODO - Finailize default failure)",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "selectedCastDefId" : "castDef_None",
+         "emote" : "Default",
+         "audioName" : ""
+      }
+   ]
+}

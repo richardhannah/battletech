@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_CaptureBase_AreaNotClear",
+   "DialogueContentIDs" : [
+    "Bkt_CaptureBase_AreaNotClear_1",
+    "Bkt_CaptureBase_AreaNotClear_2",
+    "Bkt_CaptureBase_AreaNotClear_3"   
+   ]
+}

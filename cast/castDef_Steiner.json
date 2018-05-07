@@ -1,0 +1,19 @@
+{
+   "id" : "castDef_Steiner",
+   "internalName" : "Steiner",
+   "firstName" : "Steiner",
+   "lastName" : "Lyran Commonwealth",
+   "callsign" : null,
+   "rank" : null,
+   "showRank" : false,
+   "gender" : "None",
+   "faction" : "Steiner",
+   "sgCharType" : "UNSET",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Steiner_default_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "tutorial_mechlab_04",
+    "Name" : "Hardpoints",
+    "Details" : "There are four types of hardpoints: Ballistic, Energy, Missile, and Support. Ballistic weapons generate little Heat but require ammo that can explode if hit in combat. Energy weapons require no ammo but generate large amounts of Heat. Missile weapons require ammo and generate moderate Heat, but they can destabilize an enemy. Support weapons automatically fire after a Melee attack.",
+    "Icon" : "03-Hardpoints02"
+}

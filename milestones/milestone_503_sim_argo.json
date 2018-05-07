@@ -1,0 +1,85 @@
+{
+    "Description" : {
+        "Id" : "milestone_503_sim_argo",
+        "Name" : "sim",
+        "Details" : "Sim game phase",
+        "Icon" : "",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Scope" : "Company",
+    "Requirements" : [
+        {
+            "Scope" : "Company",
+            "RequirementTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "ExclusionTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "RequirementComparisons" : [
+                {
+                    "obj" : "NextStoryMilestone",
+                    "op" : "Equal",
+                    "val" : 503,
+                    "valueConstant" : null
+                }
+            ]
+        }
+    ],
+    "Results" : [
+        {
+            "Scope" : "Company",
+            "Requirements" : null,
+            "AddedTags" : {
+				"items" : [
+					"oc10_post_war_council"
+				],
+                "tagSetSourceFile" : ""
+			},
+            "RemovedTags" : {},
+            "Stats" : [],
+            "Actions" : [
+				{
+					"Type" : "System_SimGameCharacterVisible",
+					"value" : false,
+					"additionalValues" : [
+						"Kamea"
+					]
+				},
+				{
+                    "Type" : "System_AddContract",
+                    "value" : "trav_restoration_3_smithonDefense",
+                    "valueConstant" : null,
+					"additionalValues" : [
+						"TaurianConcordat",
+						"AuriganRestoration",
+						"starsystemdef_Smithon"
+					]
+                },
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Artru",
+					"additionalValues" : [ "starsystemdef_Artru" ]
+                },	
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_RegisRoost",
+					"additionalValues" : [ "starsystemdef_RegisRoost" ]
+                },	
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Katinka",
+					"additionalValues" : [ "starsystemdef_Katinka" ]
+                }
+            ],
+            "ForceEvents" : null,
+            "TemporaryResult" : false,
+            "ResultDuration" : 0
+        }
+    ],
+    "Repeatable" : false
+}

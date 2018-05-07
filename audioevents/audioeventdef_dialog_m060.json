@@ -1,0 +1,233 @@
+{
+    "id" : "audioeventdef_dialog_m060",
+    "soundbankList" : [
+        "dialog_m060"
+    ],
+    "audioEvents" : [
+        {
+            "k" : "m060_410_farah",
+            "v" : {
+                "name" : "m060_410_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m060"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m060",
+                        "value" : "m060_410_farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m060_420_yang",
+            "v" : {
+                "name" : "m060_420_yang",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m060"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m060",
+                        "value" : "m060_420_yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m060_430_sumire",
+            "v" : {
+                "name" : "m060_430_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m060"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m060",
+                        "value" : "m060_430_sumire"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m060_440_sumire",
+            "v" : {
+                "name" : "m060_440_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m060"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m060",
+                        "value" : "m060_440_sumire"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m060_450_farah",
+            "v" : {
+                "name" : "m060_450_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m060"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m060",
+                        "value" : "m060_450_farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "m060_460_sumire",
+            "v" : {
+                "name" : "m060_460_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_missions"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_missions",
+                        "value" : "m060"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_lines_m060",
+                        "value" : "m060_460_sumire"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_missions"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "event_klaxon",
+            "v" : {
+                "name" : "event_klaxon",
+                "comment" : "The SFX for the base klaxon Farah sets off",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_play",
+                        "value" : "play_mission060_klaxon"
+                    }
+                ]
+            }
+        }
+    ]
+}

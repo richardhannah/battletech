@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechPerformanceMelee",
+    "Name" : "Performance: Melee",
+    "Details" : "The relative Melee strength of a 'Mech is determined by its tonnage and any Melee modifiers the chassis might have.",
+    "Icon" : ""
+}

@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_SE03_PirateLeaderDefault",
+    "internalName" : "SE03_PirateLeaderDefault",
+    "firstName" : "Grim",
+    "lastName" : "Sybil",
+    "callsign" : "",
+    "rank" : "Pirate Queen",
+    "gender" : "Female",
+    "faction" : "AuriganPirates",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_SE03_PirateLeader_def_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

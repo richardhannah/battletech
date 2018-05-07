@@ -1,0 +1,38 @@
+{
+   "id" : "audioeventdef_musictriggers_simgame",
+   "soundbankList" : [
+      ""
+   ],
+   "audioEvents" : [
+      {
+         "k" : "argo_fuel_level",
+         "v" : {
+            "name" : "argo_fuel_level",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "argo_fuel_level",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "argo_distance_from_destination",
+         "v" : {
+            "name" : "argo_distance_from_destination",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "argo_distance_from_destination",
+                  "value" : ""
+               }
+            ]
+         }
+      }
+   ]
+}

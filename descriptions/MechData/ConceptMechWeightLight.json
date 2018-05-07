@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechWeightLight",
+    "Name" : "Class: Light",
+    "Details" : "Light BattleMechs are generally the quickest units on the field, but mount little in the way of armor or weapons. Good for scouting and spotting for heavier units, their maneuverability also allows them to perform surprise strikes and flanking movements with ease.\n\nWith an Initiative of 4, light 'Mechs take action first in a round.",
+    "Icon" : ""
+}

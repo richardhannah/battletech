@@ -1,0 +1,62 @@
+{
+    "Description" : {
+        "Id" : "milestone_530_mission_itromAttack",
+        "Name" : "mission",
+        "Details" : "Restoration Mission: itrom attack",
+        "Icon" : "",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Scope" : "Company",
+    "Requirements" : [
+        {
+            "Scope" : "Company",
+            "RequirementTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "ExclusionTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "RequirementComparisons" : [
+                {
+                    "obj" : "NextStoryMilestone",
+                    "op" : "Equal",
+                    "val" : 530,
+                    "valueConstant" : null
+                }
+            ]
+        }
+    ],
+    "Results" : [
+        {
+            "Scope" : "Company",
+            "Requirements" : null,
+            "AddedTags" : {
+				"items" : [
+					"AARCompleteNotificationsDisabled"
+				],
+                "tagSetSourceFile" : ""
+			},
+            "RemovedTags" : {},
+            "Stats" : [],
+            "Actions" : [
+                {
+                    "Type" : "System_StartContract",
+					"value" : "Itrom_Attack_Default",
+                    "valueConstant" : null,
+					"additionalValues" : [
+						"AuriganDirectorate",
+						"AuriganRestoration"
+					]
+                }
+            ],
+            "ForceEvents" : null,
+            "TemporaryResult" : false,
+            "ResultDuration" : 0
+        }
+    ],
+    "Repeatable" : true
+}

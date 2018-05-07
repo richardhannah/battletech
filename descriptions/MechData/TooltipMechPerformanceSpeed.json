@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechPerformanceSpeed",
+    "Name" : "Performance: Movement",
+    "Details" : "The relative movement capability of a 'Mech is determined by totaling its movement speed and, to a lesser degree, its jump capability.",
+    "Icon" : ""
+}

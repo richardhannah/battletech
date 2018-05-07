@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_SimGameResultAction_MechWarrior_Kill",
+        "Name" : "Kill",
+        "Details" : "Remove MW from company by death",
+        "Icon" : null
+    },
+    "setResult" : "[[RES_MW,{RES_MW.Callsign}]] dies",
+    "positiveResult" : "",
+    "negativeResult" : "",
+    "temporalSetResult" : "[[RES_MW,{RES_MW.Callsign}]] dies for {RES_DURATION.ToString} days",
+    "temporalPositiveResult" : "",
+    "temporalNegativeResult" : "",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}

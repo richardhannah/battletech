@@ -1,0 +1,281 @@
+{
+   "profileID" : null,
+   "LoggerLevels" : [
+      {
+         "k" : "AI",
+         "v" : "Debug"
+      },
+      {
+         "k" : "AI.BehaviorNodes",
+         "v" : "Debug"
+      },
+      {
+         "k" : "AI.DecisionMaking",
+         "v" : "Debug"
+      },
+      {
+         "k" : "AI.TurnOrder",
+         "v" : "Debug"
+      },
+      {
+         "k" : "Analytics",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Analytics.Google",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Analytics.Log",
+         "v" : "Warning"
+      },
+      {
+         "k" : "AuditUtilities",
+         "v" : "Warning"
+      },
+      {
+         "k" : "BattleTech.Contract",
+         "v" : "Warning"
+      },
+      {
+         "k" : "BattleTech.Network.Client",
+         "v" : "Warning"
+      },
+      {
+         "k" : "BattleTech.Network.Core",
+         "v" : "Warning"
+      },
+      {
+         "k" : "BattleTech.Network.Server",
+         "v" : "Warning"
+      },
+      {
+         "k" : "BattleTechServerGameVerification",
+         "v" : "Warning"
+      },
+      {
+         "k" : "BattleTechServerGameVerification.ClientData",
+         "v" : "Warning"
+      },
+      {
+         "k" : "BattleTechServerGameVerification.MechData",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Camera",
+         "v" : "Warning"
+      },
+      {
+         "k" : "ClientAPI",
+         "v" : "Warning"
+      },
+      {
+         "k" : "ClientBeginLoadingMessage",
+         "v" : "Warning"
+      },
+      {
+         "k" : "ClientBeginPlayingMessage",
+         "v" : "Warning"
+      },
+      {
+         "k" : "ClientEcounterReadyMessage",
+         "v" : "Warning"
+      },
+      {
+         "k" : "ClientGameSetup",
+         "v" : "Warning"
+      },
+      {
+         "k" : "CombatLog.AbilitiesAndEffects",
+         "v" : "Warning"
+      },
+      {
+         "k" : "CombatLog.ActorActivation",
+         "v" : "Warning"
+      },
+      {
+         "k" : "CombatLog.Attacking",
+         "v" : "Warning"
+      },
+      {
+         "k" : "CombatLog.Heat",
+         "v" : "Warning"
+      },
+      {
+         "k" : "CombatLog.Initialization",
+         "v" : "Warning"
+      },
+      {
+         "k" : "CombatLog.MechDFASequence",
+         "v" : "Warning"
+      },
+      {
+         "k" : "CombatLog.MechFallSequence",
+         "v" : "Warning"
+      },
+      {
+         "k" : "CombatLog.MechImpacts",
+         "v" : "Warning"
+      },
+      {
+         "k" : "CombatLog.MechImpacts_Debug",
+         "v" : "Warning"
+      },
+      {
+         "k" : "CombatLog.MechJumpSequence",
+         "v" : "Warning"
+      },
+      {
+         "k" : "CombatLog.MechMeleeSequence",
+         "v" : "Warning"
+      },
+      {
+         "k" : "CombatLog.RoundSequence",
+         "v" : "Warning"
+      },
+      {
+         "k" : "CONSOLE",
+         "v" : "Warning"
+      },
+      {
+         "k" : "ContentStrings",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Data.AssetBundleManager",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Data.DataManager",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Data.MemberInfoHelper",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Data.MetaDataDatabase",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Data.ResourceLocator",
+         "v" : "Warning"
+      },
+      {
+         "k" : "DataLoader",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Debug.DebugSettings",
+         "v" : "Warning"
+      },
+      {
+         "k" : "DebugBridge",
+         "v" : "Warning"
+      },
+      {
+         "k" : "DebugBridge.INTERNAL",
+         "v" : "Warning"
+      },
+      {
+         "k" : "DictionaryPersistentStore",
+         "v" : "Warning"
+      },
+      {
+         "k" : "ErrorLog.Pilot",
+         "v" : "Warning"
+      },
+      {
+         "k" : "FSM.StateMachine",
+         "v" : "Warning"
+      },
+      {
+         "k" : "FX.FXBank",
+         "v" : "Warning"
+      },
+      {
+         "k" : "FX.FXGroup",
+         "v" : "Warning"
+      },
+      {
+         "k" : "FX.FXParticleSystem",
+         "v" : "Warning"
+      },
+      {
+         "k" : "GAMELOGIC",
+         "v" : "Warning"
+      },
+      {
+         "k" : "GameSetupNetworkMessage",
+         "v" : "Warning"
+      },
+      {
+         "k" : "GameVerificationModule",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Generic",
+         "v" : "Warning"
+      },
+      {
+         "k" : "InvocationHandler",
+         "v" : "Warning"
+      },
+      {
+         "k" : "LoggerUpdate",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Logging.View",
+         "v" : "Warning"
+      },
+      {
+         "k" : "NetworkRandomCallstacks",
+         "v" : "Warning"
+      },
+      {
+         "k" : "NetworkRandomValues",
+         "v" : "Warning"
+      },
+      {
+         "k" : "OtherClient",
+         "v" : "Warning"
+      },
+      {
+         "k" : "PoolManager",
+         "v" : "Warning"
+      },
+      {
+         "k" : "PreviousRandomReport",
+         "v" : "Warning"
+      },
+      {
+         "k" : "QNET",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Serialization",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Tests",
+         "v" : "Warning"
+      },
+      {
+         "k" : "UI",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Unity",
+         "v" : "Warning"
+      },
+      {
+         "k" : "Utilities",
+         "v" : "Warning"
+      },
+      {
+         "k" : "VersionManifest",
+         "v" : "Warning"
+      }
+   ]
+}

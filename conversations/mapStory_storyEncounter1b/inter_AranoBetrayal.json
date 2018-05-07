@@ -1,0 +1,55 @@
+{
+   "identifier" : "inter_AranoBetrayal",
+   "contents" : [
+      {
+         "words" : "Sir Raju. Lady Kamea. You're running late.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "What're you doing here, lads? You should be at the tourney grounds.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "Change of plans. We'll escort Lady Kamea the rest of the way to the tournament.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "Who authorized this? I didn't sign off on any change of plans--",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "We don't have time for this. To hell with it, lads - weapons hot. You know what to do.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}

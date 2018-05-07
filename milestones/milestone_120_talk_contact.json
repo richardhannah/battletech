@@ -1,0 +1,69 @@
+{
+    "Description" : {
+        "Id" : "milestone_120_talk_contact",
+        "Name" : "conversation",
+        "Details" : "Conversations",
+        "Icon" : "",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Scope" : "Company",
+    "Requirements" : [
+        {
+            "Scope" : "Company",
+            "RequirementTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "ExclusionTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "RequirementComparisons" : [
+                {
+                    "obj" : "NextStoryMilestone",
+                    "op" : "Equal",
+                    "val" : 120,
+                    "valueConstant" : null
+                },
+				{
+                    "obj" : "MissionsComplete",
+                    "op" : "GreaterThanOrEqual",
+                    "val" : 2,
+                    "valueConstant" : null
+                }
+            ]
+        }
+    ],
+    "Results" : [
+        {
+            "Scope" : "Company",
+            "Requirements" : null,
+            "AddedTags" : {},
+            "RemovedTags" : {},
+            "Stats" : [
+				{
+					"typeString" : "System.Int32",
+                    "name" : "NextStoryMilestone",
+                    "value" : 1,
+                    "valueConstant" : null
+				}
+            ],
+            "Actions" : [
+                {
+                    "Type" : "System_StartConversation",
+                    "value" : "59b97620623035ac140051ed",
+                    "additionalValues" : [
+						"CONTACT",
+						"The Rimward Frontier"
+					]
+                }
+            ],
+            "ForceEvents" : null,
+            "TemporaryResult" : false,
+            "ResultDuration" : 0
+        }
+    ],
+    "Repeatable" : false
+}

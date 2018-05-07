@@ -1,0 +1,6 @@
+{
+    "Id" : "BiomeDesert",
+    "Name" : "Desert",
+    "Details" : "The Desert biome is a rocky, windswept wasteland with little vegetation and little water. The extreme heat makes it more difficult for 'Mechs to sink heat. Fields of crystalline mineral deposits interfere with targeting systems, making it harder to shoot into them, as well as to shoot out of them.",
+    "Icon" : "uixSvgIcon_biome_Heated"
+}

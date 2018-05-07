@@ -1,0 +1,17 @@
+{
+   "identifier" : "DefaultMissionStart",
+   "contents" : [
+      {
+         "words" : "Here we go. (TODO- Default Mission Start dialogue - need to consider mad libs, randomization, etc.)",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "selectedCastDefId" : "castDef_None",
+         "emote" : "Default",
+         "audioName" : ""
+      }
+   ]
+}

@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_ContractBonusRewardPct",
+        "Name" : "Objective Bonus Reward",
+        "Details" : "Extra payment for completing a specific objective",
+        "Icon" : null
+    },
+    "setResult" : "Contract bonus payment {RES_VALUE.ToPercentString}",
+    "positiveResult" : "Contract payment increased by {RES_VALUE.ToPercentString}",
+    "negativeResult" : "Contract payment decreased by {RES_VALUE.ToPercentString}",
+    "temporalSetResult" : "Contract bonus payment {RES_VALUE.ToPercentString} for {RES_DURATION.ToString} days",
+    "temporalPositiveResult" : "Contract payment increased by {RES_VALUE.ToPercentString} for {RES_DURATION.ToString} days",
+    "temporalNegativeResult" : "Contract payment decreased by {RES_VALUE.ToPercentString} for {RES_DURATION.ToString} days",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}

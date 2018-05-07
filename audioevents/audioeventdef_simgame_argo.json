@@ -1,0 +1,433 @@
+{
+    "id" : "audioeventdef_simgame_argo",
+    "soundbankList" : [
+        "dialog_sim"
+    ],
+    "audioEvents" : [
+        {
+            "k" : "travel_retracthab",
+            "v" : {
+                "name" : "travel_retracthab",
+                "comment" : "retract hab ring for leaving orbit",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "ambient_space"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_501_retractHab"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "travel_leaveorbit",
+            "v" : {
+                "name" : "travel_leaveorbit",
+                "comment" : "leave orbit",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "ambient_space"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_502_leaveOrbit"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "travel_flipburn",
+            "v" : {
+                "name" : "travel_flipburn",
+                "comment" : "midway through travel",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "ambient_space"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_503_flipBurn"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "travel_docking",
+            "v" : {
+                "name" : "travel_docking",
+                "comment" : "dock with jumpship",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "ambient_space"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_504_docking"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "travel_jumping",
+            "v" : {
+                "name" : "travel_jumping",
+                "comment" : "when the jump happens",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "ambient_space"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_505_jumping"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "travel_undock",
+            "v" : {
+                "name" : "travel_undock",
+                "comment" : "undock from the jumpship",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "ambient_space"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_506_dockingClear"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    },
+                    {
+                        "eventType" : "Trigger",
+                        "key" : "jump_end",
+                        "value" : ""
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "travel_reachorbit",
+            "v" : {
+                "name" : "travel_reachorbit",
+                "comment" : "when you arrive in orbit",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "ambient_space"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_507_orbit"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "travel_deployhab",
+            "v" : {
+                "name" : "travel_deployhab",
+                "comment" : "as hab ring deploys",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "ambient_space"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_508_deployHab"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "travel_habcomplete",
+            "v" : {
+                "name" : "travel_habcomplete",
+                "comment" : "hab ring finished deploying",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "ambient_space"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_509_habDeployed"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "whoosh_leopard_small",
+            "v" : {
+                "name" : "whoosh_leopard_small",
+                "comment" : "travel sfx, leopard small whoosh",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_whoosh",
+                        "value" : "whoosh_leopard_small"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "whoosh_leopard_medium",
+            "v" : {
+                "name" : "whoosh_leopard_medium",
+                "comment" : "travel sfx, leopard medium whoosh",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_whoosh",
+                        "value" : "whoosh_leopard_medium"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "whoosh_leopard_large",
+            "v" : {
+                "name" : "whoosh_leopard_large",
+                "comment" : "travel sfx, leopard large whoosh",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_whoosh",
+                        "value" : "whoosh_leopard_large"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "whoosh_argo_short",
+            "v" : {
+                "name" : "whoosh_argo_short",
+                "comment" : "travel sfx, argo small whoosh",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_whoosh",
+                        "value" : "whoosh_argo_short"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "whoosh_argo_medium",
+            "v" : {
+                "name" : "whoosh_argo_medium",
+                "comment" : "travel sfx, argo medium whoosh",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_whoosh",
+                        "value" : "whoosh_argo_medium"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "whoosh_argo_large",
+            "v" : {
+                "name" : "whoosh_argo_large",
+                "comment" : "travel sfx, argo large whoosh",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_whoosh",
+                        "value" : "whoosh_argo_large"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "jump_start",
+            "v" : {
+                "name" : "jump_start",
+                "comment" : "beginning of jump sequence",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_jump",
+                        "value" : "jump_start"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "jump_end",
+            "v" : {
+                "name" : "jump_end",
+                "comment" : "end of jump sequence",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_jump",
+                        "value" : "jump_end"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "docking_dock",
+            "v" : {
+                "name" : "docking_dock",
+                "comment" : "attach to jumpship",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_docking",
+                        "value" : "docking_dock"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "docking_release",
+            "v" : {
+                "name" : "docking_release",
+                "comment" : "detach from jumpship",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_docking",
+                        "value" : "docking_release"
+                    }
+                ]
+            }
+        }
+    ]
+}

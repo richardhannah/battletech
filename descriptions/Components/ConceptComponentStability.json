@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStability",
+    "Name" : "Stability Damage",
+    "Details" : "Stability damage is the amount of force a weapon impacts its target with. Depending on the total amount of stability damage dealt by an attack, the target may become UNSTEADY or even suffer a Knockdown.",
+    "Icon" : ""
+}

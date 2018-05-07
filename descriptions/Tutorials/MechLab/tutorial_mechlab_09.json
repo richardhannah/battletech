@@ -1,0 +1,6 @@
+{
+    "Id" : "tutorial_mechlab_09",
+    "Name" : "Dismount",
+    "Details" : "While you are working, weapons and equipment removed from your 'Mech during a refit are stored here, in the Dismount window. Remounting components from the Dismount window incurs no cost, freeing you to explore new configurations easily. Once you have reviewed and confirmed a refit, remounting removed components will incur a cost, both in time and C-Bills.",
+    "Icon" : "08-Dismount"
+}

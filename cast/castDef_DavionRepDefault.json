@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_DavionRepDefault",
+    "internalName" : "DavionRepDefault",
+    "firstName" : "Alexandria",
+    "lastName" : "Cunningham",
+    "callsign" : "",
+    "rank" : "Federated Suns Liaison",
+    "gender" : "Female",
+    "faction" : "Davion",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_DavionRep_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

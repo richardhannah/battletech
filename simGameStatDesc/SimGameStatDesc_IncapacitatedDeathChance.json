@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_IncapacitatedDeathChance",
+        "Name" : "Death Chance - Incapacitation",
+        "Details" : "Probability of death from incapacitating damage",
+        "Icon" : null
+    },
+    "setResult" : "",
+    "positiveResult" : "",
+    "negativeResult" : "",
+    "temporalSetResult" : "",
+    "temporalPositiveResult" : "",
+    "temporalNegativeResult" : "",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : "Chance of death from Incapacitating damage is {RES_VALUE.ToPercentString} less likely"
+}

@@ -1,0 +1,70 @@
+{
+    "Description" : {
+        "Id" : "milestone_202_notify_centurion",
+        "Name" : "sim",
+        "Details" : "pause notification",
+        "Icon" : "",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Scope" : "Company",
+    "Requirements" : [
+        {
+            "Scope" : "Company",
+            "RequirementTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "ExclusionTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "RequirementComparisons" : [
+                {
+                    "obj" : "NextStoryMilestone",
+                    "op" : "Equal",
+                    "val" : 202,
+                    "valueConstant" : null
+                }
+            ]
+        }
+    ],
+    "Results" : [
+        {
+            "Scope" : "Company",
+            "Requirements" : null,
+            "AddedTags" : {},
+            "RemovedTags" : {},
+            "Stats" : [
+                {
+                    "typeString" : "System.Int32",
+                    "name" : "NextStoryMilestone",
+                    "value" : 1,
+                    "valueConstant" : ""
+                }
+            ],
+            "Actions" : [			
+                {
+                    "Type" : "System_PauseNotification",
+                    "value" : "Good news, Commander. Once Doc Murad and her crew got that wrecked ship safely away, they found most of a [[DM.MechDefs[mechdef_centurion_CN9-AS],Centurion]] in its cargo hold. It's not equipped for combat yet, but with a little love and attention, I think I could return it to service. Swing by the Mech Bay to check it and order a Refit.",
+					"additionalValues" : [
+						"Centurion CN9-A",
+						"castDef_YangDefault"
+					],
+                    "valueConstant" : null
+                },
+				{
+					"Type" : "Mech_AddRoster",
+					"value" : "mechdef_centurion_CN9-AS",
+					"valueConstant" : null,
+					"additionalValues" : null
+				}
+            ],
+            "ForceEvents" : null,
+            "TemporaryResult" : false,
+            "ResultDuration" : 0
+        }
+    ],
+    "Repeatable" : false
+}

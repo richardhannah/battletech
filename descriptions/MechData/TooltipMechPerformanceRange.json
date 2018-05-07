@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechPerformanceRange",
+    "Name" : "Performance: Range",
+    "Details" : "The relative range of a 'Mech is determined by calculating the average range of all its weapon systems.",
+    "Icon" : ""
+}

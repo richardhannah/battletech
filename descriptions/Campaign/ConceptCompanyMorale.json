@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptCompanyMorale",
+    "Name" : "Company Morale",
+    "Details" : "The overall morale of your crew and MechWarriors, out of a maximum possible 50 points. Morale is carried over into battle, where you can use it to trigger special actions to increase your MechWarriors' effectiveness. Morale can be raised by more lavish spending on salaries and luxuries, as well as by constructing recreational upgrades in the DropShip. Be careful: if your Morale is too low, you may encounter negative events.",
+    "Icon" : ""
+}

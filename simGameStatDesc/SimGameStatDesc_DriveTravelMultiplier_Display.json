@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_DriveTravelMultiplier_Display",
+        "Name" : "Drive Travel Mult",
+        "Details" : "Display value for DriveTravelMultiplier",
+        "Icon" : null
+    },
+    "setResult" : "",
+    "positiveResult" : "",
+    "negativeResult" : "",
+    "temporalSetResult" : "",
+    "temporalPositiveResult" : "",
+    "temporalNegativeResult" : "",
+    "infinitiveSetResult" : "Travel time to and from Jump Points reduced by {RES_VALUE.ToString}%",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}

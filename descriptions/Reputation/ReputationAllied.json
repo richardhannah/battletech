@@ -1,0 +1,6 @@
+{
+    "Id" : "ReputationAllied",
+    "Name" : "Reputation: Allied",
+    "Details" : "At Allied reputation, you are a trusted agent of this faction and will be offered its most sensitive and difficult missions. You receive a 15% bonus payment for contracts and a 10% discount in shops in systems this faction controls.",
+    "Icon" : "uixTxrIcon_rep_+3"
+}

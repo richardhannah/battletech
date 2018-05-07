@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptCompanyOperatingCosts",
+    "Name" : "Operating Costs",
+    "Details" : "DropShips require ongoing maintenance, fuel, and supplies to stay in operation. Additionally, each battle-ready 'Mech incurs an ongoing maintenance cost, and upgrades to the DropShip's internal systems will also increase the overall operating costs. To reduce operating costs, move 'Mechs to storage.",
+    "Icon" : ""
+}

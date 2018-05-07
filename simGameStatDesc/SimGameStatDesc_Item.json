@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_Item",
+        "Name" : "Item",
+        "Details" : "generic item result strings",
+        "Icon" : null
+    },
+    "setResult" : "You now have exactly {RES_VALUE.ToString}x [[RES_OBJ,{RES_OBJ.Description.Name}]]",
+    "positiveResult" : "You gain {RES_VALUE.ToString}x [[RES_OBJ,{RES_OBJ.Description.Name}]]",
+    "negativeResult" : "You lose {RES_VALUE.ToString}x [[RES_OBJ,{RES_OBJ.Description.Name}]]",
+    "temporalSetResult" : "You now have exactly {RES_VALUE.ToString}x [[RES_OBJ,{RES_OBJ.Description.Name}]] for {RES_DURATION.ToString} days",
+    "temporalPositiveResult" : "You gain {RES_VALUE.ToString}x [[RES_OBJ,{RES_OBJ.Description.Name}]] for {RES_DURATION.ToString} days",
+    "temporalNegativeResult" : "You lose {RES_VALUE.ToString}x [[RES_OBJ,{RES_OBJ.Description.Name}]] for {RES_DURATION.ToString} days",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}

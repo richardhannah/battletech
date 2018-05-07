@@ -1,0 +1,6 @@
+{
+    "Id" : "StatMechWarriorGuts",
+    "Name" : "Guts",
+    "Details" : "Guts improves the maximum health of MechWarriors. It also reduces the penalty from weapon recoil and increases the threshold of Heat that triggers Overheated.",
+    "Icon" : ""
+}

@@ -1,0 +1,57 @@
+{
+   "ID" : "mechlabincludedef_template",
+   "Tags" : {
+      "items" : null,
+      "tagSetSourceFile" : ""
+   },
+   "data" : [
+      {
+         "resourceType" : "ChassisDef",
+         "entries" : [
+            
+         ]
+      },
+      {
+         "resourceType" : "MechDef",
+         "entries" : [
+            
+         ]
+      },
+      {
+         "resourceType" : "WeaponDef",
+         "entries" : [
+            
+         ]
+      },
+      {
+         "resourceType" : "JumpJetDef",
+         "entries" : [
+            
+         ]
+      },
+      {
+         "resourceType" : "HeatSinkDef",
+         "entries" : [
+            
+         ]
+      },
+      {
+         "resourceType" : "UpgradeDef",
+         "entries" : [
+            
+         ]
+      },
+      {
+         "resourceType" : "PilotDef",
+         "entries" : [
+            
+         ]
+      },
+      {
+         "resourceType" : "LanceDef",
+         "entries" : [
+            
+         ]
+      }
+   ]
+}

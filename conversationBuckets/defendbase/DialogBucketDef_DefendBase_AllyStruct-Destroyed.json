@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_DefendBase_AllyStruct-Destroyed",
+   "DialogueContentIDs" : [
+    "Bkt_DefendBase_AllyStruct-Destroyed_1",
+    "Bkt_DefendBase_AllyStruct-Destroyed_2",
+    "Bkt_DefendBase_AllyStruct-Destroyed_3"    
+   ]
+}

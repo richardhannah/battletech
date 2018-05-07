@@ -1,0 +1,15 @@
+{
+   "identifier" : "CaptureEscortAndDefend_TurretWarning",
+   "contents" : [
+      {
+         "words" : "Commander be advised: Enemy turrets are detected in there area. Keep an eye open for long range attacks.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}

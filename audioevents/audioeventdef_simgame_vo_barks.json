@@ -1,0 +1,1478 @@
+{
+    "id" : "audioeventdef_simgame_vo_barks",
+    "soundbankList" : [
+        "dialog_sim"
+    ],
+    "audioEvents" : [
+        {
+            "k" : "store_newmechwarriors",
+            "v" : {
+                "name" : "store_newmechwarriors",
+                "comment" : "When 1 or more mechwarriors are purchased",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "computer"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_651_newMechwarriors"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "store_newmechs",
+            "v" : {
+                "name" : "store_newmechs",
+                "comment" : "When 1 or more mechs are purchased",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "computer"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_652_newBattlemechs"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "store_newweapons",
+            "v" : {
+                "name" : "store_newweapons",
+                "comment" : "when 1 or more weapons are purchased",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "computer"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_653_newWeapons"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "store_newequipment",
+            "v" : {
+                "name" : "store_newequipment",
+                "comment" : "when 1 or more equipemnt items are purchased",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "computer"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_654_newEquipment"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "contract_lanceconfirm",
+            "v" : {
+                "name" : "contract_lanceconfirm",
+                "comment" : "when the lance configurator is confirmed and a mission is launched",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "computer"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_655_deployContract"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "contract_accept",
+            "v" : {
+                "name" : "contract_accept",
+                "comment" : "when a contract is accepted and you proceed to negotiation",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_700_acceptContract"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "contract_negotiationcomplete",
+            "v" : {
+                "name" : "contract_negotiationcomplete",
+                "comment" : "when you confirm negotiation and proceed to lance config",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_710_lanceConfig"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "contract_missionsuccess",
+            "v" : {
+                "name" : "contract_missionsuccess",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_720_missionReturnSuccess"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "contract_missionfailed",
+            "v" : {
+                "name" : "contract_missionfailed",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_725_missionReturnFailure"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "notification_lowfunds",
+            "v" : {
+                "name" : "notification_lowfunds",
+                "comment" : "pause notification for low funds",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_740_lowFunds"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "notification_travelcomplete",
+            "v" : {
+                "name" : "notification_travelcomplete",
+                "comment" : "pause notification when all travel has finished",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "sumire"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_510_arrival"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "notification_mechreadycomplete",
+            "v" : {
+                "name" : "notification_mechreadycomplete",
+                "comment" : "when a mech has finished being readied",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_820_mechAvailable"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "notification_salvagemechavailable",
+            "v" : {
+                "name" : "notification_salvagemechavailable",
+                "comment" : "when a salvaged mech can be assembled",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_830_salvageMechAvailable"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "notification_workqueuecomplete",
+            "v" : {
+                "name" : "notification_workqueuecomplete",
+                "comment" : "when all current work queue tasks are complete",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_840_workComplete"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "travel_confirmcourse",
+            "v" : {
+                "name" : "travel_confirmcourse",
+                "comment" : "when you confirm a course from the navigation screen",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "sumire"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_400_confirm"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "workqueue_schedulerefit",
+            "v" : {
+                "name" : "workqueue_schedulerefit",
+                "comment" : "when you confirm a refit order",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_800_scheduleRefit"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "workqueue_readymech",
+            "v" : {
+                "name" : "workqueue_readymech",
+                "comment" : "when you confirm readying a mech",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_810_readyMech"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "workqueue_scheduleargoupgrade",
+            "v" : {
+                "name" : "workqueue_scheduleargoupgrade",
+                "comment" : "when you confirm an argo upgrade",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_850_scheduleUpgrade"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "workqueue_argoupgradecomplete",
+            "v" : {
+                "name" : "workqueue_argoupgradecomplete",
+                "comment" : "when an argo upgrade is complete",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_860_upgradeComplete"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "simgeneric_mechwarriortraining",
+            "v" : {
+                "name" : "simgeneric_mechwarriortraining",
+                "comment" : "when you confirm training for a mechwarrior",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_870_confirmTraining"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "simgeneric_quarterlyreport",
+            "v" : {
+                "name" : "simgeneric_quarterlyreport",
+                "comment" : "when the quarterly report appears",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_750_quarterlyReport"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_darius_first",
+            "v" : {
+                "name" : "enterroom_darius_first",
+                "comment" : "enter room darius, first visit",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_100_enterRoom_1st"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_darius_news",
+            "v" : {
+                "name" : "enterroom_darius_news",
+                "comment" : "enter room darius, when theres new dialogue",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_150_enterRoomNews"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_darius",
+            "v" : {
+                "name" : "enterroom_darius",
+                "comment" : "enter room darius, generic",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_110_enterRoom"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_sumire_first",
+            "v" : {
+                "name" : "enterroom_sumire_first",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "sumire"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_100_enterRoom_1st"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_sumire_news",
+            "v" : {
+                "name" : "enterroom_sumire_news",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "sumire"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_150_enterRoomNews"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_sumire",
+            "v" : {
+                "name" : "enterroom_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "sumire"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_110_enterRoom"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_farah_first",
+            "v" : {
+                "name" : "enterroom_farah_first",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_100_enterRoom_1st"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_farah_news",
+            "v" : {
+                "name" : "enterroom_farah_news",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_150_enterRoomNews"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_farah",
+            "v" : {
+                "name" : "enterroom_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_110_enterRoom"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_yang_first",
+            "v" : {
+                "name" : "enterroom_yang_first",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_100_enterRoom_1st"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_yang_news",
+            "v" : {
+                "name" : "enterroom_yang_news",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_150_enterRoomNews"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_yang",
+            "v" : {
+                "name" : "enterroom_yang",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_110_enterRoom"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_alexander_news",
+            "v" : {
+                "name" : "enterroom_alexander_news",
+                "comment" : "enter room alexander, when he has new dialogue",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "alexander"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_150_enterRoomNews"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_alexander",
+            "v" : {
+                "name" : "enterroom_alexander",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "alexander"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_110_enterRoom"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_kamea_news",
+            "v" : {
+                "name" : "enterroom_kamea_news",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_150_enterRoomNews"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "enterroom_kamea",
+            "v" : {
+                "name" : "enterroom_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_110_enterRoom"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "charinteract_darius",
+            "v" : {
+                "name" : "charinteract_darius",
+                "comment" : "when you click on darius",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_200_greeting"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "charinteract_darius_complete",
+            "v" : {
+                "name" : "charinteract_darius_complete",
+                "comment" : "when you exit conversation with darius",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "darius"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_300_goodbye"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "charinteract_sumire",
+            "v" : {
+                "name" : "charinteract_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "sumire"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_200_greeting"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "charinteract_sumire_complete",
+            "v" : {
+                "name" : "charinteract_sumire_complete",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "sumire"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+						"value" : "simgame_300_goodbye"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "charinteract_farah",
+            "v" : {
+                "name" : "charinteract_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_200_greeting"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "charinteract_farah_complete",
+            "v" : {
+                "name" : "charinteract_farah_complete",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "farah"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_300_goodbye"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "charinteract_yang",
+            "v" : {
+                "name" : "charinteract_yang",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_200_greeting"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "charinteract_yang_complete",
+            "v" : {
+                "name" : "charinteract_yang_complete",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "yang"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_300_goodbye"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "charinteract_alexander",
+            "v" : {
+                "name" : "charinteract_alexander",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "alexander"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_200_greeting"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "charinteract_alexander_complete",
+            "v" : {
+                "name" : "charinteract_alexander_complete",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "alexander"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_300_goodbye"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "charinteract_kamea",
+            "v" : {
+                "name" : "charinteract_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_200_greeting"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "charinteract_kamea_complete",
+            "v" : {
+                "name" : "charinteract_kamea_complete",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_simgame"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_characters",
+                        "value" : "kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_simgame_lines",
+                        "value" : "simgame_300_goodbye"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_simgame"
+                    }
+                ]
+            }
+        }
+    ]
+}

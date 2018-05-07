@@ -1,0 +1,26 @@
+{
+    "identifier" : "Bkt_DestroyBase_EnemyStruct-Damaged_2",
+    "contents" : [
+        {
+            "words" : "I'm reading heavy damage to an enemy structure! Bring it down!",
+            "wordsColor" : {
+                "r" : 1,
+                "g" : 1,
+                "b" : 1,
+                "a" : 1
+            },
+            "selectedCastDefId" : "castDef_DariusDefault",
+            "emote" : "Default",
+            "dialogueOrigin" : "pilot",
+            "audioEventEntryIndex" : 0,
+            "audioEventEntryText" : "Audio_Event_DestroyBase_EnemyStructDamaged_2",
+            "conversationIdx" : 0,
+            "cameraFocus" : {
+                "EncounterObjectGuid" : ""
+            },
+            "cameraDistance" : "Far",
+            "cameraHeight" : "Default",
+            "revealRadius" : -1
+        }
+    ]
+}

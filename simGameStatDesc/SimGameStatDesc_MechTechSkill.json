@@ -1,0 +1,22 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_MechTechSkill",
+        "Name" : "Tech Points",
+        "Details" : "Tech Points are generated each day and spent to repair or customize BattleMechs. Tech Points only apply to one 'Mech task at a time, so additional tasks are queued to be worked on next.",
+        "Icon" : null
+    },
+    "setResult" : "[[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Points]] are set to {RES_VALUE.ToString}",
+    "positiveResult" : "+{RES_VALUE.ToString} permanent change to [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Points]]",
+    "negativeResult" : "-{RES_VALUE.ToString} permanent change to [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Points]]",
+
+    "temporalSetResult" : "[[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Points]] are set to {RES_VALUE.ToString} for {RES_DURATION.ToString} days",
+    "temporalPositiveResult" : "The company gains a +{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Point]] boost for {RES_DURATION.ToString} days",
+    "temporalNegativeResult" : "The company suffers a -{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Point]] penalty for {RES_DURATION.ToString} days",
+
+	"temporalPositiveResultEnd" : "The +{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Point]] boost has expired",
+    "temporalNegativeResultEnd" : "The -{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Point]] penalty has expired",	
+	
+    "infinitiveSetResult" : "[[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Points]] are set to {RES_VALUE.ToString}",
+    "infinitivePositiveResult" : "+{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Points]]",
+    "infinitiveNegativeResult" : "-{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Points]]"
+}

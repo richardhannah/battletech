@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptCompanyExpenseLevel",
+    "Name" : "Expense Level",
+    "Details" : "This is the current level of expenditure for your company's operating costs, ranging from spartan to extravagant. The specific level determines how far your company's funds will stretch and whether Morale is positively or negatively impacted.",
+    "Icon" : ""
+}

@@ -1,0 +1,1840 @@
+{
+    "id" : "audioeventdef_encounters_generic",
+    "soundbankList" : [
+        "dialog_procedural"
+    ],
+    "audioEvents" : [
+        {
+            "k" : "Audio_Event_RegionOccupied",
+            "v" : {
+                "name" : "Audio_Event_RegionOccupied",
+                "comment" : "This happens when the player takes possession of one of the objective areas, this is a positive outcome. They are moving forward and making progress. Should be a positive shift in tone. ",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_EscortUnitLost",
+            "v" : {
+                "name" : "Audio_Event_EscortUnitLost",
+                "comment" : "Played when an escort unit is destroyed. This is a bad outcome. Player is meant to ensure the survival of theses units. ",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_EnemyReinforcement",
+            "v" : {
+                "name" : "Audio_Event_EnemyReinforcement",
+                "comment" : "Plays when the enemy forces are boosted by reinforcements. Bad outcome. Should be ominous/negative.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_EscapeZoneReached",
+            "v" : {
+                "name" : "Audio_Event_EscapeZoneReached",
+                "comment" : "Plays when the player has reached an area in order to escape/extract friendly units.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_FriendlyReinforcement",
+            "v" : {
+                "name" : "Audio_Event_FriendlyReinforcement",
+                "comment" : "When the player is bolstered by friendly reinforcements. ",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_DefendTargetDestroyed",
+            "v" : {
+                "name" : "Audio_Event_DefendTargetDestroyed",
+                "comment" : "Plays when a friendly target the player is tasked with defending is destroyed. This is a bit more generic, and the target may not be a human/personnel target, could be a building.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_EnemyLanceDestroyed",
+            "v" : {
+                "name" : "Audio_Event_EnemyLanceDestroyed",
+                "comment" : "Plays when you eliminate an entire enemy lance. This is typically associated with an objective when it fires. ",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_EnemyTargetDestroyed",
+            "v" : {
+                "name" : "Audio_Event_EnemyTargetDestroyed",
+                "comment" : "Plays when the player is able to destroy a target (mech, vehicle, building), that is a target for an objective. More generic. A positive outcome, progress towards completion. ",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_TimerAdvance",
+            "v" : {
+                "name" : "Audio_Event_TimerAdvance",
+                "comment" : "Plays when a timer advances for objective. It is neutral, not positive or negative.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_TimerCompletes",
+            "v" : {
+                "name" : "Audio_Event_TimerCompletes",
+                "comment" : "Plays when a timer is finished or completed for objective. It is neutral, not positive or negative.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_EscapeActivated",
+            "v" : {
+                "name" : "Audio_Event_EscapeActivated",
+                "comment" : "When the players escape area is active and now they have to flee to it.",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_TargetFleeing",
+            "v" : {
+                "name" : "Audio_Event_TargetFleeing",
+                "comment" : "Plays when target is attempting to flee the players units. Clinging on to life. ",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_Universal_HostilesInbound_1",
+            "v" : {
+                "name" : "Audio_Event_Universal_HostilesInbound_1",
+                "comment" : "Hostiles Inbound VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0101_hostilesInbound"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Universal_HostilesInbound_2",
+            "v" : {
+                "name" : "Audio_Event_Universal_HostilesInbound_2",
+                "comment" : "Hostiles Inbound VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0102_hostilesInbound"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Universal_HostilesInbound_3",
+            "v" : {
+                "name" : "Audio_Event_Universal_HostilesInbound_3",
+                "comment" : "Hostiles Inbound VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0103_hostilesInbound"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_Universal_Escape_1",
+            "v" : {
+                "name" : "Audio_Event_Universal_Escape_1",
+                "comment" : "Escape Instruction VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0131_escape"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Universal_Escape_2",
+            "v" : {
+                "name" : "Audio_Event_Universal_Escape_2",
+                "comment" : "Escape Instruction VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0132_escape"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Universal_Escape_3",
+            "v" : {
+                "name" : "Audio_Event_Universal_Escape_3",
+                "comment" : "Escape Instruction VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0133_escape"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_Universal_KillConfirmed_1",
+            "v" : {
+                "name" : "Audio_Event_Universal_KillConfirmed_1",
+                "comment" : "Kill Confirmed VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0111_killConfirmed"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Universal_KillConfirmed_2",
+            "v" : {
+                "name" : "Audio_Event_Universal_KillConfirmed_2",
+                "comment" : "Kill Confirmed VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0112_killConfirmed"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Universal_KillConfirmed_3",
+            "v" : {
+                "name" : "Audio_Event_Universal_KillConfirmed_3",
+                "comment" : "Kill Confirmed VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0113_killConfirmed"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_Universal_TargetDestroyed_1",
+            "v" : {
+                "name" : "Audio_Event_Universal_TargetDestroyed_1",
+                "comment" : "Target Destroyed VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0121_priTarDestroyed_all"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Universal_TargetDestroyed_2",
+            "v" : {
+                "name" : "Audio_Event_Universal_TargetDestroyed_2",
+                "comment" : "Target Destroyed VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0122_priTarDestroyed_all"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Universal_TargetDestroyed_3",
+            "v" : {
+                "name" : "Audio_Event_Universal_TargetDestroyed_3",
+                "comment" : "Target Destroyed VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0123_priTarDestroyed_all"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_AmbushConvoy_EyesOn_1",
+            "v" : {
+                "name" : "Audio_Event_AmbushConvoy_EyesOn_1",
+                "comment" : "Spotted Cpnvoy Target",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0201_ambushConvoy_eyesOnTarget"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_AmbushConvoy_EyesOn_2",
+            "v" : {
+                "name" : "Audio_Event_AmbushConvoy_EyesOn_2",
+                "comment" : "Spotted Cpnvoy Target",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0202_ambushConvoy_eyesOnTarget"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_AmbushConvoy_EyesOn_3",
+            "v" : {
+                "name" : "Audio_Event_AmbushConvoy_EyesOn_3",
+                "comment" : "Spotted Cpnvoy Target",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0203_ambushConvoy_eyesOnTarget"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_AmbushConvoy_TargetDamaged_1",
+            "v" : {
+                "name" : "Audio_Event_AmbushConvoy_TargetDamaged_1",
+                "comment" : "Damaged a unit in the target convoy",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0211_ambushConvoy_priTarDamaged"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_AmbushConvoy_TargetDamaged_2",
+            "v" : {
+                "name" : "Audio_Event_AmbushConvoy_TargetDamaged_2",
+                "comment" : "Damaged a unit in the target convoy",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0212_ambushConvoy_priTarDamaged"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_AmbushConvoy_TargetDamaged_3",
+            "v" : {
+                "name" : "Audio_Event_AmbushConvoy_TargetDamaged_3",
+                "comment" : "Damaged a unit in the target convoy",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0213_ambushConvoy_priTarDamaged"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_Assassinate_AmbushWarning_1",
+            "v" : {
+                "name" : "Audio_Event_Assassinate_AmbushWarning_1",
+                "comment" : "Ambush Warning VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0311_assassinate_ambushWarning"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Assassinate_AmbushWarning_2",
+            "v" : {
+                "name" : "Audio_Event_Assassinate_AmbushWarning_2",
+                "comment" : "Ambush Warning VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0312_assassinate_ambushWarning"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Assassinate_AmbushWarning_3",
+            "v" : {
+                "name" : "Audio_Event_Assassinate_AmbushWarning_3",
+                "comment" : "Ambush Warning VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0313_assassinate_ambushWarning"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_Assassinate_TargetDamaged_1",
+            "v" : {
+                "name" : "Audio_Event_Assassinate_TargetDamaged_1",
+                "comment" : "Assassination Target Damage VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0301_assassinate_tarDamaged"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Assassinate_TargetDamaged_2",
+            "v" : {
+                "name" : "Audio_Event_Assassinate_TargetDamaged_2",
+                "comment" : "Assassination Target Damage VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0302_assassinate_tarDamaged"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Assassinate_TargetDamaged_3",
+            "v" : {
+                "name" : "Audio_Event_Assassinate_TargetDamaged_3",
+                "comment" : "Assassination Target Damage VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0303_assassinate_tarDamaged"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_Assassinate_TargetFleeing_1",
+            "v" : {
+                "name" : "Audio_Event_Assassinate_TargetFleeing_1",
+                "comment" : "Assassination Target is trying to flee the field VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0321_assassinate_targetFleeing"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Assassinate_TargetFleeing_2",
+            "v" : {
+                "name" : "Audio_Event_Assassinate_TargetFleeing_2",
+                "comment" : "Assassination Target is trying to flee the field VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0322_assassinate_targetFleeing"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Assassinate_TargetFleeing_3",
+            "v" : {
+                "name" : "Audio_Event_Assassinate_TargetFleeing_3",
+                "comment" : "Assassination Target is trying to flee the field VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0323_assassinate_targetFleeing"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_CaptureBase_AreaNotClear_1",
+            "v" : {
+                "name" : "Audio_Event_CaptureBase_AreaNotClear_1",
+                "comment" : "Lance hasn't been killed yet, but player enters region VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0401_captureBase_areaNotClear"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_CaptureBase_AreaNotClear_2",
+            "v" : {
+                "name" : "Audio_Event_CaptureBase_AreaNotClear_2",
+                "comment" : "Lance hasn't been killed yet, but player enters region VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0402_captureBase_areaNotClear"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_CaptureBase_AreaNotClear_3",
+            "v" : {
+                "name" : "Audio_Event_CaptureBase_AreaNotClear_3",
+                "comment" : "Lance hasn't been killed yet, but player enters region VO",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0403_captureBase_areaNotClear"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_CaptureBase_GoToNextObjective_1",
+            "v" : {
+                "name" : "Audio_Event_CaptureBase_GoToNextObjective_1",
+                "comment" : "Enemies killed, but havent reached the recon area.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0411_captureBase_goToNextObj"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_CaptureBase_GoToNextObjective_2",
+            "v" : {
+                "name" : "Audio_Event_CaptureBase_GoToNextObjective_2",
+                "comment" : "Enemies killed, but havent reached the recon area.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0412_captureBase_goToNextObj"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_CaptureBase_GoToNextObjective_3",
+            "v" : {
+                "name" : "Audio_Event_CaptureBase_GoToNextObjective_3",
+                "comment" : "Enemies killed, but havent reached the recon area.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0413_captureBase_goToNextObj"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_CaptureEscort_HoldOut_1",
+            "v" : {
+                "name" : "Audio_Event_CaptureEscort_HoldOut_1",
+                "comment" : "In position at extraction point, need to hold out for a time",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0501_captureEscort_inPositionHoldOut"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_CaptureEscort_HoldOut_2",
+            "v" : {
+                "name" : "Audio_Event_CaptureEscort_HoldOut_2",
+                "comment" : "In position at extraction point, need to hold out for a time",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0502_captureEscort_inPositionHoldOut"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_CaptureEscort_HoldOut_3",
+            "v" : {
+                "name" : "Audio_Event_CaptureEscort_HoldOut_3",
+                "comment" : "In position at extraction point, need to hold out for a time",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0503_captureEscort_inPositionHoldOut"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_CaptureEscort_ObjectiveSecured_1",
+            "v" : {
+                "name" : "Audio_Event_CaptureEscort_ObjectiveSecured_1",
+                "comment" : "Player units have secured the convoy rally point.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0511_captureEscort_objSecured"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_CaptureEscort_ObjectiveSecured_2",
+            "v" : {
+                "name" : "Audio_Event_CaptureEscort_ObjectiveSecured_2",
+                "comment" : "Player units have secured the convoy rally point.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0512_captureEscort_objSecured"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_CaptureEscort_ObjectiveSecured_3",
+            "v" : {
+                "name" : "Audio_Event_CaptureEscort_ObjectiveSecured_3",
+                "comment" : "Player units have secured the convoy rally point.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0513_captureEscort_objSecured"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_DefendBase_AllyReinforcements_1",
+            "v" : {
+                "name" : "Audio_Event_DefendBase_AllyReinforcements_1",
+                "comment" : "Notifiying the player of the 'halfway' point that friendly relief is coming. ",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0611_defendBase_allyReinforcements"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_DefendBase_AllyReinforcements_2",
+            "v" : {
+                "name" : "Audio_Event_DefendBase_AllyReinforcements_2",
+                "comment" : "Notifiying the player of the 'halfway' point that friendly relief is coming. ",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0612_defendBase_allyReinforcements"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_DefendBase_AllyStructDamaged_1",
+            "v" : {
+                "name" : "Audio_Event_DefendBase_AllyStructDamaged_1",
+                "comment" : "Informing the player one of the defend structure taking damage. ",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0621_defendBase_allyStruct_damage"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_DefendBase_AllyStructDamaged_2",
+            "v" : {
+                "name" : "Audio_Event_DefendBase_AllyStructDamaged_2",
+                "comment" : "Informing the player one of the defend structure taking damage. ",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0622_defendBase_allyStruct_damage"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_DefendBase_AllyStructDamaged_3",
+            "v" : {
+                "name" : "Audio_Event_DefendBase_AllyStructDamaged_3",
+                "comment" : "Informing the player one of the defend structure taking damage. ",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0623_defendBase_allyStruct_damage"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_DefendBase_AllyStructDestroyed_1",
+            "v" : {
+                "name" : "Audio_Event_DefendBase_AllyStructDestroyed_1",
+                "comment" : "Warns the player that a target building has been destroyed.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0631_defendBase_allyStruct_destroyed"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_DefendBase_AllyStructDestroyed_2",
+            "v" : {
+                "name" : "Audio_Event_DefendBase_AllyStructDestroyed_2",
+                "comment" : "Warns the player that a target building has been destroyed.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0632_defendBase_allyStruct_destroyed"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_DefendBase_AllyStructDestroyed_3",
+            "v" : {
+                "name" : "Audio_Event_DefendBase_AllyStructDestroyed_3",
+                "comment" : "Warns the player that a target building has been destroyed.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0633_defendBase_allyStruct_destroyed"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_DefendBase_TurretAPC_1",
+            "v" : {
+                "name" : "Audio_Event_DefendBase_TurretAPC_1",
+                "comment" : "Triggers when the Turrets are becoming active.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0601_defendBase_turretApcs"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_DefendBase_TurretAPC_2",
+            "v" : {
+                "name" : "Audio_Event_DefendBase_TurretAPC_2",
+                "comment" : "Triggers when the Turrets are becoming active.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0602_defendBase_turretApcs"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_DefendBase_TurretAPC_3",
+            "v" : {
+                "name" : "Audio_Event_DefendBase_TurretAPC_3",
+                "comment" : "Triggers when the Turrets are becoming active.",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0603_defendBase_turretApcs"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_DestroyBase_EnemyStructDamaged_1",
+            "v" : {
+                "name" : "Audio_Event_DestroyBase_EnemyStructDamaged_1",
+                "comment" : "Enemy Structure taking damage",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0701_destroyBase_enemyStruct_damaged"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_DestroyBase_EnemyStructDamaged_2",
+            "v" : {
+                "name" : "Audio_Event_DestroyBase_EnemyStructDamaged_2",
+                "comment" : "Enemy Structure taking damage",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0702_destroyBase_enemyStruct_damaged"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_DestroyBase_EnemyStructDamaged_3",
+            "v" : {
+                "name" : "Audio_Event_DestroyBase_EnemyStructDamaged_3",
+                "comment" : "Enemy Structure taking damage",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0703_destroyBase_enemyStruct_damaged"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_DestroyBase_EnemyStructDestroyed_1",
+            "v" : {
+                "name" : "Audio_Event_DestroyBase_EnemyStructDestroyed_1",
+                "comment" : "Enemy Structure destroyed",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0711_destroyBase_enemyStruct_destroyed"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_DestroyBase_EnemyStructDestroyed_2",
+            "v" : {
+                "name" : "Audio_Event_DestroyBase_EnemyStructDestroyed_2",
+                "comment" : "Enemy Structure destroyed",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0712_destroyBase_enemyStruct_destroyed"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_DestroyBase_EnemyStructDestroyed_3",
+            "v" : {
+                "name" : "Audio_Event_DestroyBase_EnemyStructDestroyed_3",
+                "comment" : "Enemy Structure destroyed",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0713_destroyBase_enemyStruct_destroyed"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_Rescue_PrimaryAssetDamaged_1",
+            "v" : {
+                "name" : "Audio_Event_Rescue_PrimaryAssetDamaged_1",
+                "comment" : "Primary Asset Damaged",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0801_rescue_assetUnderFire"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Rescue_PrimaryAssetDamaged_2",
+            "v" : {
+                "name" : "Audio_Event_Rescue_PrimaryAssetDamaged_2",
+                "comment" : "Primary Asset Damaged",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0802_rescue_assetUnderFire"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Rescue_PrimaryAssetDamaged_3",
+            "v" : {
+                "name" : "Audio_Event_Rescue_PrimaryAssetDamaged_3",
+                "comment" : "Primary Asset Damaged",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0803_rescue_assetUnderFire"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_Rescue_SecondaryAssetDamaged_1",
+            "v" : {
+                "name" : "Audio_Event_Rescue_SecondaryAssetDamaged_1",
+                "comment" : "Secondary Asset Damaged",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0811_rescue_assetUnderFire_sec"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Rescue_SecondaryAssetDamaged_2",
+            "v" : {
+                "name" : "Audio_Event_Rescue_SecondaryAssetDamaged_2",
+                "comment" : "Secondary Asset Damaged",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0812_rescue_assetUnderFire_sec"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Rescue_SecondaryAssetDamaged_3",
+            "v" : {
+                "name" : "Audio_Event_Rescue_SecondaryAssetDamaged_3",
+                "comment" : "Secondary Asset Damaged",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0813_rescue_assetUnderFire_sec"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_Rescue_PrimaryAssetInHand_1",
+            "v" : {
+                "name" : "Audio_Event_Rescue_PrimaryAssetInHand_1",
+                "comment" : "Primary Asset In Hand",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0821_rescue_assetInHand"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Rescue_PrimaryAssetInHand_2",
+            "v" : {
+                "name" : "Audio_Event_Rescue_PrimaryAssetInHand_2",
+                "comment" : "Primary Asset In Hand",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0822_rescue_assetInHand"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Rescue_PrimaryAssetInHand_3",
+            "v" : {
+                "name" : "Audio_Event_Rescue_PrimaryAssetInHand_3",
+                "comment" : "Primary Asset In Hand",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0823_rescue_assetInHand"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Audio_Event_Rescue_SecondaryAssetInHand_1",
+            "v" : {
+                "name" : "Audio_Event_Rescue_SecondaryAssetInHand_1",
+                "comment" : "Secondary Asset In Hand",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0831_rescue_assetInHand_sec"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Rescue_SecondaryAssetInHand_2",
+            "v" : {
+                "name" : "Audio_Event_Rescue_SecondaryAssetInHand_2",
+                "comment" : "Secondary Asset In Hand",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0832_rescue_assetInHand_sec"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        },
+		{
+            "k" : "Audio_Event_Rescue_SecondaryAssetInHand_3",
+            "v" : {
+                "name" : "Audio_Event_Rescue_SecondaryAssetInHand_3",
+                "comment" : "Secondary Asset In Hand",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_procedural_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_procedural_mission",
+                        "value" : "vo_bkt_0833_rescue_assetInHand_sec"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_procedural_mission"
+                    }
+                ]
+            }
+        }
+    ]
+}

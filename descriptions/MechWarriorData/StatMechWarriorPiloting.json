@@ -1,0 +1,6 @@
+{
+    "Id" : "StatMechWarriorPiloting",
+    "Name" : "Piloting",
+    "Details" : "Piloting increases Melee hit chance and base Sprint distance. It also improves the threshold of stability that triggers UNSTEADY and increase the maximum level of Evasion possible from movement.",
+    "Icon" : ""
+}

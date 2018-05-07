@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_ExperiencePerDay",
+        "Name" : "Experience",
+        "Details" : "Experience the MechWarrior may spent to train skills.",
+        "Icon" : null
+    },
+    "setResult" : "",
+    "positiveResult" : "",
+    "negativeResult" : "",
+    "temporalSetResult" : "",
+    "temporalPositiveResult" : "",
+    "temporalNegativeResult" : "",
+    "infinitiveSetResult" : "MechWarriors gain {RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]] each day",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}
