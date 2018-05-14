@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_SE02_OpForDefault",
+    "internalName" : "SE02_OpForDefault",
+    "firstName" : "Security",
+    "lastName" : "Chief",
+    "callsign" : "",
+    "rank" : "Majesty Metals & Manufacturing",
+    "gender" : "Male",
+    "faction" : "Faction_Neutral",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_SE02_OpForRep_def_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

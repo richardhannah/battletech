@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_TeamLeader_TargetsAlly",
+    "internalName" : "TeamLeader_TargetsAlly",
+    "firstName" : "Target's Ally Leader",
+    "lastName" : "Target's Ally Leader",
+    "callsign" : null,
+    "rank" : null,
+    "gender" : "None",
+    "faction" : "Faction_TargetsAlly",
+    "sgCharType" : "UNSET",
+    "showRank" : false,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : false,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Computer_def_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechPerformanceFirepower",
+    "Name" : "Performance: Firepower",
+    "Details" : "The relative firepower of a 'Mech is determined by totaling the possible damage of all its weapons.",
+    "Icon" : ""
+}

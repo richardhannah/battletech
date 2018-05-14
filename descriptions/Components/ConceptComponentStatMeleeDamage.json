@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatMeleeDamage",
+    "Name" : "Melee Damage",
+    "Details" : "Melee damage is the amount of damage dealt specifically by Melee attacks, based off of the inherent design of the attacking 'Mech's chassis.",
+    "Icon" : ""
+}

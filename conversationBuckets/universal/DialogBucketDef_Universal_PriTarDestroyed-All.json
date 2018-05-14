@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_Universal_PriTarDestroyed-All",
+   "DialogueContentIDs" : [
+    "Bkt_PriTarDestroyed-All_1",
+    "Bkt_PriTarDestroyed-All_2",
+    "Bkt_PriTarDestroyed-All_3"
+   ]
+}

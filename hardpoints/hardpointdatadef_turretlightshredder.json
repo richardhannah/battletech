@@ -1,0 +1,28 @@
+{
+    "ID" : "hardpointdatadef_turretlightshredder",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrPrfWeap_turretLightShredder_turret_srm6_mh1"
+                ],
+                [
+                    "chrPrfWeap_turretLightShredder_turret_srm6_mh2"
+                ],
+                [
+                    "chrPrfWeap_turretLightShredder_turret_flamer_ah3"
+                ],
+                [
+                    "chrPrfWeap_turretLightShredder_turret_flamer_ah4"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

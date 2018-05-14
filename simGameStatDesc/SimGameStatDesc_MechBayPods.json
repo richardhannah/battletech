@@ -1,0 +1,19 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_MechBayPods",
+        "Name" : "MeyBay Pods (Rows)",
+        "Details" : "Number of rows in the MechBay",
+        "Icon" : null
+    },
+    "setResult" : "",
+    "positiveResult" : "",
+    "negativeResult" : "",
+    "temporalSetResult" : "",
+    "temporalPositiveResult" : "",
+    "temporalNegativeResult" : "",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : "",
+
+	"hidden": true
+}

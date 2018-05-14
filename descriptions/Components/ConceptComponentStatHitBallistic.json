@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHitBallistic",
+    "Name" : "Ballistic Targeting",
+    "Details" : "Ballistic Targeting affects the overall accuracy of all equipped Ballistic weapons, relative to their current attack difficulty.",
+    "Icon" : ""
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "tutorial_mechlab_07",
+    "Name" : "'Mech Location",
+    "Details" : "Each location on a BattleMech is covered in armor that protects vital internal structure. If a location's orange internal structure number is reduced to zero, that location and all its components are destroyed and the 'Mech cannot be fielded. Armor is automatically replaced after a battle, but structure must be manually repaired, which takes time and C-Bills.",
+    "Icon" : "06-MechLocation01"
+}

@@ -1,0 +1,41 @@
+{
+    "Description" : {
+        "Id" : "Random",
+        "Name" : "Random",
+        "Details" : "",
+        "Icon" : ""
+    },
+    "backgroundColor" : {
+        "r" : 0,
+        "g" : 0,
+        "b" : 0,
+        "a" : 0
+    },
+    "headMesh" : 0,
+    "hairMesh" : 0,
+    "beardMesh" : 1,
+    "suitMesh" : 0,
+    "complexionTex" : 1,
+    "eyebrowTex" : 4,
+    "weights" : [
+        51.48769,
+        10.58728,
+        34.48749,
+        2.613914,
+        0.821404,
+        0.002231827
+    ],
+    "browOffsetY" : -0.003922351,
+    "browOffsetZ" : 0.0001604318,
+    "noseBridgeScale" : 0.164663,
+    "noseTipScale" : 0.274889,
+    "chinScale" : 0.1974962,
+    "cheekOffsetY" : 0.001264765,
+    "eyeWidth" : 0.04999978,
+    "jawWidth" : 0.08874998,
+    "animation" : 4,
+    "skinToneId" : "Skin_04",
+    "eyeColorId" : "Eye_02",
+    "hairRootId" : "Hair_09",
+    "hairTipId" : "Hair_09"
+}

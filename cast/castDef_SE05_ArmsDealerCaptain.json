@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_SE05_ArmsDealerCaptain",
+    "internalName" : "SE05_ArmsDealerCaptain",
+    "firstName" : "Newgrange",
+    "lastName" : "Captain",
+    "callsign" : null,
+    "rank" : "Unidentified Smugglers",
+    "gender" : "Male",
+    "faction" : "NoFaction",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_SE05_ArmsDealerCaptain_def_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

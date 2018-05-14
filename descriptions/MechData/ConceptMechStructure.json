@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechStructure",
+    "Name" : "Structure",
+    "Details" : "The internal structure of a 'Mech is the framework that supports the armor, equipment, and weapons. When the structure in a location is depleted, that location is destroyed. Structure is derived from the 'Mech's overall tonnage and cannot be modified.",
+    "Icon" : ""
+}

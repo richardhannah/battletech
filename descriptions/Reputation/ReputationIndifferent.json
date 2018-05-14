@@ -1,0 +1,6 @@
+{
+    "Id" : "ReputationIndifferent",
+    "Name" : "Reputation: Indifferent",
+    "Details" : "At Indifferent reputation, this faction has no firm opinions about your company. You pay a standard 10% markup in shops in systems this faction controls.",
+    "Icon" : "uixTxrIcon_rep_0"
+}

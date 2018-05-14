@@ -1,0 +1,22 @@
+{
+   "id" : "castDef_DariusDefault",
+   "internalName" : "DariusDefault",
+   "firstName" : "Darius",
+   "lastName" : "Oliveira",
+   "callsign" : null,
+   "rank" : "Executive Officer",
+   "gender" : "Male",
+   "faction" : "AuriganMercenaries",
+   "sgCharType" : "DARIUS",
+   "showRank" : true,
+   "showFirstName" : true,
+   "showCallsign" : false,
+   "showLastName" : true,
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Darius_default_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

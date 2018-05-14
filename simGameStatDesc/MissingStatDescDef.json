@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "MissingStatDescDef",
+        "Name" : "StatDescriptionDef for the specified item does NOT EXIST",
+        "Details" : "StatDescriptionDef for the specified item does NOT EXIST in the BattleTech\\Assets\\StreamingAssets(Source)\\data\\simGameStatDesc folder. See console output for additional details!",
+        "Icon" : ""
+    },
+    "setResult" : "",
+    "positiveResult" : "",
+    "negativeResult" : "",
+    "temporalSetResult" : "",
+    "temporalPositiveResult" : "",
+    "temporalNegativeResult" : "",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}

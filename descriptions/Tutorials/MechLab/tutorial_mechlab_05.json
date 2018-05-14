@@ -1,0 +1,6 @@
+{
+    "Id" : "tutorial_mechlab_05",
+    "Name" : "Weapons & Equipment",
+    "Details" : "On the left corner of the screen is a list of all the weapons and equipment (components) in your inventory. If a component cannot be equipped because the component does not have an associated hardpoint, it will be identified by diagonal stripes.",
+    "Icon" : "04-WeaponsEquipment01"
+}

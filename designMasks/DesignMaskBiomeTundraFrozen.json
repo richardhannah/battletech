@@ -1,0 +1,10 @@
+{
+	"Description" : {
+		"Id" : "DesignMaskBiomeTundraFrozen",
+		"Name" : "TUNDRA BIOME",
+		"Details" : "Tundra biomes increase a unit's Heat-sinking ability by 10%.",
+		"Icon" : "uixSvgIcon_biome_Cooled"
+	},
+    "heatSinkMultiplier" : 1.1,
+    "heatPerTurn" : 0
+}

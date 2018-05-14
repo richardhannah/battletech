@@ -1,0 +1,50 @@
+{
+    "Description" : {
+        "Id" : "PortraitPreset_dekker",
+        "Name" : "PortraitPreset_dekker",
+        "Details" : "",
+        "Icon" : ""
+    },
+    "DataManager" : null,
+    "backgroundColor" : {
+        "r" : 0,
+        "g" : 0,
+        "b" : 0,
+        "a" : 0
+    },
+    "headMesh" : 0,
+    "hairMesh" : 0,
+    "beardMesh" : 4,
+    "suitMesh" : 2,
+    "scar" : 6,
+    "lightRig" : 1,
+    "cameraPosition" : 1,
+    "complexionTex" : 1,
+    "eyebrowTex" : 5,
+    "tattooTex" : 0,
+    "actualTattooTex" : 0,
+    "weights" : [
+        12,
+        17,
+        39,
+        0,
+        23,
+        41
+    ],
+    "browOffsetY" : 0.006378509,
+    "browOffsetZ" : 0.001248399,
+    "noseBridgeScale" : -0.05798505,
+    "noseTipScale" : -0.2955348,
+    "chinScale" : 0.119,
+    "cheekOffsetY" : -0.004470311,
+    "eyeWidth" : -0.031,
+    "jawWidth" : 0.019,
+    "animation" : 2,
+    "isCommander" : false,
+    "skinToneId" : "Skin_00",
+    "eyeColorId" : "Eye_02",
+    "hairRootId" : "Hair_03",
+    "hairTipId" : "Hair_03",
+    "tattooColorId" : "Tattoo_08",
+    "lipColorId" : "Lip_01"
+}

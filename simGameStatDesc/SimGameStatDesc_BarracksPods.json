@@ -1,0 +1,19 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_BarracksPods",
+        "Name" : "Barracks Pods (Rooms)",
+        "Details" : "The number of rooms for housing MechWarriors",
+        "Icon" : null
+    },
+    "setResult" : "",
+    "positiveResult" : "",
+    "negativeResult" : "",
+    "temporalSetResult" : "",
+    "temporalPositiveResult" : "",
+    "temporalNegativeResult" : "",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : "",
+
+	"hidden": true
+}

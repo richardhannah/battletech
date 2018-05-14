@@ -1,0 +1,6 @@
+{
+    "Id" : "LoreConsecutiveDrops",
+    "Name" : "Consecutive Drops",
+    "Details" : "This contract will require consecutive drops, without any opportunity for repair or refit between drops. It should not be attempted until you possess enough 'Mechs and MechWarriors to field two complete, high-tonnage lances.",
+    "Icon" : ""
+}

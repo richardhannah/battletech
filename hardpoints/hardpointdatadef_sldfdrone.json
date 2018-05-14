@@ -1,0 +1,36 @@
+{
+    "ID" : "hardpointdatadef_sldfdrone",
+    "HardpointData" : [
+        {
+            "location" : "front",
+            "weapons" : [
+                [
+                    "chrPrfWeap_sldfdrone_front_generic_mh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrPrfWeap_sldfdrone_turret_generic_eh1"
+                ],
+                [
+                    "chrPrfWeap_sldfdrone_turret_generic_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

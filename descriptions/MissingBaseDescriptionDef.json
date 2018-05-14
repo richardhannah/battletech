@@ -1,0 +1,6 @@
+{
+    "Id" : "MissingBaseDescriptionDef",
+    "Name" : "BaseDescriptionDef for the specified item does NOT EXIST",
+    "Details" : "BaseDescriptionDef for the specified item does NOT EXIST in the BattleTech\\Assets\\StreamingAssets(Source)\\data\\descriptions folder. See console output for additional details!",
+    "Icon" : ""
+}

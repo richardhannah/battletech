@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatStabilityDefense",
+    "Name" : "Stability Defense",
+    "Details" : "Stability Defense provides a global decrease to the amount of stability damage taken from all incoming attacks, further impacted by environmental factors.",
+    "Icon" : ""
+}

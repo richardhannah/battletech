@@ -1,0 +1,69 @@
+{
+    "Description" : {
+        "Id" : "milestone_303_notify_argoUpgrades",
+        "Name" : "sim",
+        "Details" : "pause notification",
+        "Icon" : "",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Scope" : "Company",
+    "Requirements" : [
+        {
+            "Scope" : "Company",
+            "RequirementTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "ExclusionTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "RequirementComparisons" : [
+                {
+                    "obj" : "NextStoryMilestone",
+                    "op" : "Equal",
+                    "val" : 303,
+                    "valueConstant" : null
+                }
+            ]
+        }
+    ],
+    "Results" : [
+        {
+            "Scope" : "Company",
+            "Requirements" : null,
+            "AddedTags" : {},
+            "RemovedTags" : {},
+            "Stats" : [
+                {
+                    "typeString" : "System.Int32",
+                    "name" : "NextStoryMilestone",
+                    "value" : 1,
+                    "valueConstant" : ""
+                }
+            ],
+            "Actions" : [			
+                {
+                    "Type" : "System_SetDropship",
+                    "value" : "Argo",
+                    "valueConstant" : null
+                },
+                {
+                    "Type" : "System_PauseNotification",
+                    "value" : "The <i>Argo</i> is… not in good shape, Commander. But with time, money, and some of Chief Virtanen's technical resources, we can address most of the major problems… maybe even make this place nice again. I'll be in Engineering if you want to know more.",
+					"additionalValues" : [
+						"Argo Upgrades",
+						"castDef_FarahDefault"
+					],
+                    "valueConstant" : null
+                }		
+            ],
+            "ForceEvents" : null,
+            "TemporaryResult" : false,
+            "ResultDuration" : 0
+        }
+    ],
+    "Repeatable" : false
+}

@@ -1,0 +1,533 @@
+{
+   "id" : "audioeventdef_musictriggers_combat",
+   "soundbankList" : [
+      ""
+   ],
+   "audioEvents" : [
+      {
+         "k" : "critical_hit_enemy",
+         "v" : {
+            "name" : "critical_hit_enemy",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "critical_hit_enemy",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "critical_hit_friendly",
+         "v" : {
+            "name" : "critical_hit_friendly",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "critical_hit_friendly",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "friendly_mech_destroyed",
+         "v" : {
+            "name" : "friendly_mech_destroyed",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "friendly_mech_destroyed",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "enemy_mech_destroyed",
+         "v" : {
+            "name" : "enemy_mech_destroyed",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "enemy_mech_destroyed",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "friendly_warrior_killed",
+         "v" : {
+            "name" : "friendly_warrior_killed",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "friendly_warrior_killed",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "enemy_warrior_killed",
+         "v" : {
+            "name" : "enemy_warrior_killed",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "enemy_warrior_killed",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "friendly_warrior_injured",
+         "v" : {
+            "name" : "friendly_warrior_injured",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "friendly_warrior_injured",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "enemy_warrior_injured",
+         "v" : {
+            "name" : "enemy_warrior_injured",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "enemy_warrior_injured",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "friendly_mech_crippled",
+         "v" : {
+            "name" : "friendly_mech_crippled",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "friendly_mech_crippled",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "enemy_mech_crippled",
+         "v" : {
+            "name" : "enemy_mech_crippled",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "enemy_mech_crippled",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "supplies_acquired",
+         "v" : {
+            "name" : "supplies_acquired",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "supplies_acquired",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "dfa_engaged",
+         "v" : {
+            "name" : "dfa_engaged",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "dfa_engaged",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "fire_engaged",
+         "v" : {
+            "name" : "fire_engaged",
+            "comment" : "",
+            "isMusicEvent" : false,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "fire_engaged",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "last_friendly_standing",
+         "v" : {
+            "name" : "last_friendly_standing",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "last_friendly_standing",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "last_enemy_standing",
+         "v" : {
+            "name" : "last_enemy_standing",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "last_enemy_standing",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "melee_engaged",
+         "v" : {
+            "name" : "melee_engaged",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "melee_engaged",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "melee_hit",
+         "v" : {
+            "name" : "melee_hit",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "melee_hit",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "jump_jets_engaged",
+         "v" : {
+            "name" : "jump_jets_engaged",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "jump_jets_engaged",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "friendly_mech_falling",
+         "v" : {
+            "name" : "friendly_mech_falling",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "friendly_mech_falling",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "enemy_mech_falling",
+         "v" : {
+            "name" : "enemy_mech_falling",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "enemy_mech_falling",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "dfa_success",
+         "v" : {
+            "name" : "dfa_success",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "dfa_success",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "friendly_overheating",
+         "v" : {
+            "name" : "friendly_overheating",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "friendly_overheating",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "mechwarrior_morale_up",
+         "v" : {
+            "name" : "mechwarrior_morale_up",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "mechwarrior_morale_up",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "turret_destroyed",
+         "v" : {
+            "name" : "turret_destroyed",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "turret_destroyed",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+	  {
+         "k" : "final_blow",
+         "v" : {
+            "name" : "final_blow",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "final_blow",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "friendly_mech_standup",
+         "v" : {
+            "name" : "friendly_mech_standup",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "friendly_mech_standup",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "friendly_mech_restart",
+         "v" : {
+            "name" : "friendly_mech_restart",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "friendly_mech_restart",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "friendly_turn",
+         "v" : {
+            "name" : "friendly_turn",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "friendly_turn",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "enemy_turn",
+         "v" : {
+            "name" : "enemy_turn",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "enemy_turn",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "environmental_event",
+         "v" : {
+            "name" : "environmental_event",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "environmental_event",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "rally",
+         "v" : {
+            "name" : "rally",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "rally",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "enemy_on_sensors",
+         "v" : {
+            "name" : "enemy_on_sensors",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "enemy_on_sensors",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+	  {
+         "k" : "base_captured",
+         "v" : {
+            "name" : "base_captured",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "base_captured",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+	  {
+         "k" : "friendly_convoy_intercepted",
+         "v" : {
+            "name" : "friendly_convoy_intercepted",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "friendly_convoy_intercepted",
+                  "value" : ""
+               }
+            ]
+         }
+      },
+      {
+         "k" : "enemy_convoy_intercepted",
+         "v" : {
+            "name" : "enemy_convoy_intercepted",
+            "comment" : "",
+            "isMusicEvent" : true,
+            "eventData" : [
+               {
+                  "eventType" : "Trigger",
+                  "key" : "enemy_convoy_intercepted",
+                  "value" : ""
+               }
+            ]
+         }
+      }
+   ]
+}

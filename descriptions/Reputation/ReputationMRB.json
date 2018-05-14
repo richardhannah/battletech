@@ -1,0 +1,6 @@
+{
+    "Id" : "ReputationMRB",
+    "Name" : "Mercenary Review Board Rating",
+    "Details" : "Your rating with the Mercenary Review Board indicates how trusted and effective your mercenary company is. A high MRB rating will earn you respect from fellow mercenaries and MechWarriors-for-hire.",
+    "Icon" : "uixTxrLogo_MercenaryReviewBoard"
+}

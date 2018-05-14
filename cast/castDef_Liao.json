@@ -1,0 +1,19 @@
+{
+   "id" : "castDef_Liao",
+   "internalName" : "Liao",
+   "firstName" : "Liao",
+   "lastName" : "Capellan Confederation",
+   "callsign" : null,
+   "rank" : null,
+   "showRank" : false,
+   "gender" : "None",
+   "faction" : "Liao",
+   "sgCharType" : "UNSET",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Liao_default_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_Injuries",
+        "Name" : "Injuries",
+        "Details" : "MechWarriors with Injuries are sent to the MedBay, and will not be available until they recover.",
+        "Icon" : null
+    },
+    "setResult" : "[[RES_MW,{RES_MW.Callsign}]]'s [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], Injuries]] set to {RES_VALUE.ToString}",
+    "positiveResult" : "[[RES_MW,{RES_MW.Callsign}]] suffers {RES_VALUE.ToString}x [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], Injury]]",
+    "negativeResult" : "[[RES_MW,{RES_MW.Callsign}]]'s [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], Injuries]] are reduced by {RES_VALUE.ToString}",
+    "temporalSetResult" : "[[RES_MW,{RES_MW.Callsign}]]'s [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], Injuries]] set to {RES_VALUE.ToString} for {RES_DURATION.ToString} days",
+    "temporalPositiveResult" : "[[RES_MW,{RES_MW.Callsign}]] suffers {RES_VALUE.ToString}x [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], Injury]] for {RES_DURATION.ToString} days",
+    "temporalNegativeResult" : "[[RES_MW,{RES_MW.Callsign}]]'s [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], Injuries]] are reduced by {RES_VALUE.ToString} for {RES_DURATION.ToString} days",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}

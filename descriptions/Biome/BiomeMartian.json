@@ -1,0 +1,6 @@
+{
+    "Id" : "BiomeMartian",
+    "Name" : "Martian",
+    "Details" : "The Martian biome is similar to that of the fourth planet of Terra's solar system. The thin atmosphere makes it difficult to sink heat, and it can suddenly whip up dust into swirling storms that provide some amount of cover. Radiation fields can offer some protection from enemy targeting, but they cause units in them to accumulate dangerous levels of heat.",
+    "Icon" : "uixSvgIcon_biome_PartialVacuum"
+}

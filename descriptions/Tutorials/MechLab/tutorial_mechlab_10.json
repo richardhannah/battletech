@@ -1,0 +1,6 @@
+{
+    "Id" : "tutorial_mechlab_10",
+    "Name" : "'Mech-Wide Shortcuts",
+    "Details" : "Across the top of the screen, there are helpful shortcuts for a few common tasks. \"Repair All\" repairs all the structure damage on a 'Mech. \"Strip Equipment\" removes all weapons and equipment from a 'Mech chassis. \"Strip Armor\" removes all the armor from a 'Mech, while \"Max Armor\" distributes armor across the entire 'Mech up to the 'Mech's maximum tonnage.",
+    "Icon" : "09-MechwideShortcuts"
+}

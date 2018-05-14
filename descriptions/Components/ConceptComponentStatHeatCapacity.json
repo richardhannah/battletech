@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHeatCapacity",
+    "Name" : "Heat Capacity",
+    "Details" : "Heat Capacity determines the thresholds at which a 'Mech becomes Overheated or suffers a Shutdown. Each 'Mech is able to store 100 points of Heat as a baseline.",
+    "Icon" : ""
+}

@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_SE03_CanopianMarineDefault",
+    "internalName" : "SE03_CanopianMarineDefault",
+    "firstName" : "Joe",
+    "lastName" : "Soldier",
+    "callsign" : null,
+    "rank" : "Canopian Marine",
+    "gender" : "Male",
+    "faction" : "MagistracyOfCanopus",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : false,
+    "showCallsign" : false,
+    "showLastName" : false,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_SE03_CanopianMarine_def_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

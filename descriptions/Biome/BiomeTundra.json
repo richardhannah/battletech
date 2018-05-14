@@ -1,0 +1,6 @@
+{
+    "Id" : "BiomeTundra",
+    "Name" : "Tundra",
+    "Details" : "The Tundra biome is a cold boreal forest, with icy peaks and barren permafrost. Heat sinks slightly more readily in this biome, but occasional pockets of geothermally heated hot springs can reduce heat efficiency for any 'Mech that stands in them.",
+    "Icon" : "uixSvgIcon_biome_Cooled"
+}

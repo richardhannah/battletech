@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_Assassinate_TarDamaged",
+   "DialogueContentIDs" : [
+    "Bkt_Assassinate_TarDamaged_1",
+    "Bkt_Assassinate_TarDamaged_2",
+    "Bkt_Assassinate_TarDamaged_3"  
+   ]
+}

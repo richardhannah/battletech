@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptContractOutcomeBadFaithFailure",
+    "Name" : "Bad Faith",
+    "Details" : "If you retreat or fail and you do not complete at least one mission objective and defeat at least one enemy unit, the attempt is considered to be in bad faith. You will not be paid, and you will lose reputation with the employer's faction as well as with the Mercenary Review Board.",
+    "Icon" : ""
+}

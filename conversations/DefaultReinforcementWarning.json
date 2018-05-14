@@ -1,0 +1,17 @@
+{
+   "identifier" : "Conversation Charlie",
+   "contents" : [
+      {
+         "words" : "Commander. The enemy had deployed reinforcements and they are inbound. Expect increased resistance. ",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "selectedCastDefId" : "castDef_DariusDefault",
+         "emote" : "Default",
+         "audioName" : ""
+      }
+   ]
+}

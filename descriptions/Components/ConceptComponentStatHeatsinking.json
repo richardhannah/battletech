@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHeatsinking",
+    "Name" : "Heat Sinking",
+    "Details" : "A 'Mech's Heat Sinking capability determines the amount of Heat points that are dissipated at the end of each of that 'Mech's actions. This can be impacted positively or negatively by environmental factors.",
+    "Icon" : ""
+}

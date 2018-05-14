@@ -1,0 +1,207 @@
+{
+    "Description" : {
+        "Id" : "debug_milestone",
+        "Name" : "cinematic",
+        "Details" : "A cinematic for stuff",
+        "Icon" : "",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Scope" : "Company",
+    "Requirements" : [
+        {
+            "Scope" : "Company",
+            "RequirementTags" : {
+                "items" : [
+					"debug_milestone"
+				],
+                "tagSetSourceFile" : ""
+            },
+            "ExclusionTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "RequirementComparisons" : [
+			
+			]
+        }
+    ],
+    "Results" : [
+        {
+            "Scope" : "Company",
+            "Requirements" : null,
+            "AddedTags" : {			    
+				"items" : [
+				/*	"SYSTEM_UseEvents", */
+					"SYSTEM_UseTime",
+				/*	"story_panzyr_ready", */
+					"map_travel_1"
+				/*	"map_travel_2",
+					"map_travel_3"   */
+				],
+                "tagSetSourceFile" : ""
+			},
+            "RemovedTags" : {},
+            "Stats" : [
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_LRM_LRM15_1-Telos",
+                    "value" : 2,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_PPC_PPC_2-Tiegart",
+                    "value" : 1,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_Laser_SmallLaser_0-STOCK",
+                    "value" : 2,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_SRM_SRM6_2-Holly",
+                    "value" : 1,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_Flamer_Flamer_0-STOCK",
+                    "value" : 1,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_Laser_LargeLaser_1-Intek",
+                    "value" : 1,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_Laser_LargeLaser_1-Diverse_Optics",
+                    "value" : 1,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_Autocannon_AC10_0-STOCK",
+                    "value" : 2,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_LRM_LRM10_0-STOCK",
+                    "value" : 1,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_PPC_PPC_0-STOCK",
+                    "value" : 1,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_Autocannon_AC5_1-Defiance",
+                    "value" : 1,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_MachineGun_MachineGun_0-STOCK",
+                    "value" : 1,
+                    "valueConstant" : ""
+                }
+            ],
+            "Actions" : [   
+
+/*
+			{
+                    "Type" : "System_AddContract",
+                    "value" : "trav_rest_attack_0_panzyr",
+                    "valueConstant" : null,
+					"additionalValues" : [
+						"AuriganDirectorate",
+						"AuriganRestoration",
+						"starsystemdef_Panzyr"
+					]
+                },
+				{
+                    "Type" : "System_AddContract",
+                    "value" : "Panzyr_Attack_Default",
+                    "valueConstant" : null,
+					"additionalValues" : [
+						"AuriganDirectorate",
+						"AuriganRestoration",
+						"starsystemdef_Panzyr"
+					]
+                },
+				{
+                    "Type" : "System_AddContract",
+					"value" : "Story_1A_Retreat_Default",
+                    "valueConstant" : null,
+					"additionalValues" : [
+						"AuriganDirectorate",
+						"AuriganRestoration"
+					]
+                },
+				{
+                    "Type" : "System_AddContract",
+					"value" : "Story_8_Locura_Default",
+                    "valueConstant" : null,
+					"additionalValues" : [
+						"AuriganDirectorate",
+						"AuriganRestoration"
+					]
+                },
+				
+*/				
+
+                {
+                    "Type" : "System_SetContractScope",
+                    "value" : "TUTORIAL",
+                    "valueConstant" : null
+                },
+                {
+                    "Type" : "Company_TravelTo",
+                    "value" : "starsystemdef_UrCruinne",
+                    "valueConstant" : null
+                },
+
+				
+		/* You're going to need a ship to do anything */
+				
+                {
+                    "Type" : "System_SetDropship",
+                    "value" : "Leopard",
+                    "valueConstant" : null
+                },				
+				
+		/* informational popup */
+				
+				{
+                    "Type" : "System_PauseNotification",
+                    "value" : "Running the results in file StreamingAssetsSource/ data/ milestones/ debug_milestone.json",
+					"additionalValues" : [ "debug_milestone" ],
+                    "valueConstant" : null
+				}			
+			],
+            "ForceEvents" : [
+				{
+					"Scope" : "MechWarrior",
+					"EventID" : "forcedevent_leopard_lastCup",
+					"MinDaysWait" : 6,
+					"MaxDaysWait" : 11,
+					"Probability" : 100
+				}
+			],
+            "TemporaryResult" : false,
+            "ResultDuration" : 0
+        }
+    ],
+    "Repeatable" : false
+}

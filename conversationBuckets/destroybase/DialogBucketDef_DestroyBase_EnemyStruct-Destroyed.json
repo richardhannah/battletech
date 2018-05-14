@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_DestroyBase_EnemyStruct-Destroyed",
+   "DialogueContentIDs" : [
+    "Bkt_DestroyBase_EnemyStruct-Destroyed_1",
+    "Bkt_DestroyBase_EnemyStruct-Destroyed_2",
+    "Bkt_DestroyBase_EnemyStruct-Destroyed_3" 
+   ]
+}

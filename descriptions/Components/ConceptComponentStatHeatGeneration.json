@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHeatGeneration",
+    "Name" : "Heat Generation",
+    "Details" : "Weapons generate varying amounts of Heat based on their class and type. Specialized Thermal Exchangers can be mounted to reduce the overall Heat that equipped weapons generate by a percentage.",
+    "Icon" : ""
+}

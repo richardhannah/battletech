@@ -1,0 +1,19 @@
+{
+   "id" : "castDef_testKaylee",
+   "internalName" : "testKaylee",
+   "firstName" : "Kaylee",
+   "lastName" : "Eck",
+   "callsign" : "Kiddo Biddo",
+   "rank" : "Mechwarrior",
+   "showRank" : true,
+   "gender" : "Female",
+   "faction" : "Liao",
+   "sgCharType" : "UNSET",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/kaylee.jpg"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

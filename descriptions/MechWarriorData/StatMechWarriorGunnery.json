@@ -1,0 +1,6 @@
+{
+    "Id" : "StatMechWarriorGunnery",
+    "Name" : "Gunnery",
+    "Details" : "Gunnery determines the chance to hit with ranged weaponry. Higher skill is an effective counter to Evasion and environmental effects that hamper targeting.",
+    "Icon" : ""
+}

@@ -1,0 +1,352 @@
+{
+    "Description" : {
+        "Id" : "quickstart_m7",
+        "Name" : "cinematic",
+        "Details" : "quickstart milestone for testing",
+        "Icon" : "",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Scope" : "Company",
+    "Requirements" : [
+        {
+            "Scope" : "Company",
+            "RequirementTags" : {
+                "items" : [
+					"quickstart_m7"
+				],
+                "tagSetSourceFile" : ""
+            },
+            "ExclusionTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "RequirementComparisons" : []
+        }
+    ],
+    "Results" : [
+        {
+            "Scope" : "Company",
+            "Requirements" : null,
+            "AddedTags" : {			    
+				"items" : [
+					"SYSTEM_UseEvents",
+					"SYSTEM_UseTime", 
+					"map_travel_1",
+					"map_travel_2",
+					"map_travel_2a",
+					"oc01_post_se2",
+					"oc02_post_intro_centrella",
+					"oc03_post_intro_kamea",
+					"oc04_post_argo",
+					"oc05_post_panzyr_attack",
+					"oc06_post_smithon_attack",
+					"oc07_post_se5",
+					"oc08_post_unearthed_secrets",
+					"oc09_post_damage_report",
+					"oc10_post_war_council",
+					"oc11_post_smithon_defense",
+					"oc12_post_itrom_attack"
+				],
+                "tagSetSourceFile" : ""
+			},
+            "RemovedTags" : {},
+            "Stats" : [
+                {
+                    "typeString" : "System.Int32",
+                    "name" : "NextStoryMilestone",
+                    "value" : 552,
+					"set" : true,
+                    "valueConstant" : ""
+                },
+                {
+                    "typeString" : "System.Int32",
+                    "name" : "MissionsComplete",
+                    "value" : 0,
+					"set" : true,
+                    "valueConstant" : ""
+                },				
+                {
+                    "typeString" : "System.Int32",
+                    "name" : "Funds",
+                    "value" : 2500000,
+					"set" : true,
+                    "valueConstant" : ""
+                },
+                {
+                    "typeString" : "System.Single",
+                    "name" : "Difficulty",
+                    "value" : 7,
+					"set" : true,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_LRM_LRM15_1-Telos",
+                    "value" : 2,
+                    "valueConstant" : ""
+                },
+                {
+                    "typeString" : "System.Int32",
+                    "name" : "Reputation.AuriganRestoration",
+                    "value" : 45,
+					"set" : true,
+                    "valueConstant" : ""
+                },
+                {
+                    "typeString" : "System.Int32",
+                    "name" : "Reputation.AuriganDirectorate",
+                    "value" : -50,
+					"set" : true,
+                    "valueConstant" : ""
+                }
+            ],
+            "Actions" : [
+                {
+                    "Type" : "System_ToggleIgnoredContractEmployers",
+                    "value" : true,
+					"additionalValues" : [ "TaurianConcordat", "AuriganDirectorate" ]
+                },
+                {
+                    "Type" : "StarSystem_SetCurBreadcrumbOverride",
+                    "value" : 1,
+					"additionalValues" : [ "starsystemdef_UrCruinne" ]
+                },
+                {
+                    "Type" : "System_AddDisplayedFaction",
+                    "value" : "AuriganRestoration"
+                },
+                {
+                    "Type" : "System_SetContractScope",
+                    "value" : "MID_CAMPAIGN",
+                    "valueConstant" : null
+                },
+                {
+                    "Type" : "System_SetDropship",
+                    "value" : "Argo",
+                    "valueConstant" : null
+                },
+                {
+                    "Type" : "System_SetTargetBreadcrumbSystem",
+                    "value" : "starsystemdef_Weldry",
+                    "valueConstant" : null
+                },				
+                {
+                    "Type" : "Company_TravelTo",
+                    "value" : "starsystemdef_Itrom",
+                    "valueConstant" : null
+                },
+
+
+				{
+					"Type" : "System_SimGameCharacterVisible",
+					"value" : true,
+					"additionalValues" : [
+						"Farah"
+					]
+				},
+				{
+					"Type" : "System_SimGameCharacterVisible",
+					"value" : false,
+					"additionalValues" : [
+						"Alexander",
+						"Kamea"
+					]
+				},
+
+
+				{
+					"Type" : "Ship_AddUpgrade",
+					"value" : "argoUpgrade_power1",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "Ship_AddUpgrade",
+					"value" : "argoUpgrade_mechBay2",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+
+
+				{
+					"Type" : "Mech_AddRoster",
+					"value" : "mechdef_centurion_CN9-A",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "Mech_AddRoster",
+					"value" : "mechdef_vindicator_VND-1R",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "Mech_AddRoster",
+					"value" : "mechdef_trebuchet_TBT-5N",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "Mech_AddRoster",
+					"value" : "mechdef_dragon_DRG-1N",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "Mech_AddRoster",
+					"value" : "mechdef_thunderbolt_TDR-5S",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "Mech_AddRoster",
+					"value" : "mechdef_highlander_HGN-732b",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+
+
+				{
+					"Type" : "MechWarrior_Fire",
+					"value" : "pilot_sim_starter_behemoth",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "MechWarrior_Fire",
+					"value" : "pilot_sim_starter_dekker",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "MechWarrior_Fire",
+					"value" : "pilot_sim_starter_glitch",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "MechWarrior_Fire",
+					"value" : "pilot_sim_starter_medusa",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "MechWarrior_AddRoster",
+					"value" : "pilot_sim_starter_behemoth_d4",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "MechWarrior_AddRoster",
+					"value" : "pilot_sim_starter_dekker_d4",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "MechWarrior_AddRoster",
+					"value" : "pilot_sim_starter_glitch_d4",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "MechWarrior_AddRoster",
+					"value" : "pilot_sim_starter_medusa_d4",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+				{
+					"Type" : "MechWarrior_AddRoster",
+					"value" : "pilot_sim_starter_shoe_d4",
+					"valueConstant" : null,
+					"additionalValues" : null
+				},
+
+
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Weldry",
+					"additionalValues" : [ "starsystemdef_Weldry_Flipped" ]
+                },
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Fjaldr",
+					"additionalValues" : [ "starsystemdef_Fjaldr_Flipped" ]
+                },
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Ichlangis",
+					"additionalValues" : [ "starsystemdef_Ichlangis_Flipped" ]
+                },
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Panzyr",
+					"additionalValues" : [ "starsystemdef_Panzyr_Flipped" ]
+                },
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Bringdam",
+					"additionalValues" : [ "starsystemdef_Bringdam_Flipped" ]
+                },
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_RyansFate",
+					"additionalValues" : [ "starsystemdef_RyansFate_Flipped" ]
+                },
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Mechdur",
+					"additionalValues" : [ "starsystemdef_Mechdur_Flipped" ]
+                },
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Smithon",
+					"additionalValues" : [ "starsystemdef_Smithon_Flipped" ]
+                },
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Umgard",
+					"additionalValues" : [ "starsystemdef_Umgard_Flipped" ]
+                },
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Enkra",
+					"additionalValues" : [ "starsystemdef_Enkra_Flipped" ]
+                },
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Zangul",
+					"additionalValues" : [ "starsystemdef_Zangul_Flipped" ]
+                },
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Itrom",
+					"additionalValues" : [ "starsystemdef_Itrom_Flipped" ]
+                },
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Mangzhangdian",
+					"additionalValues" : [ "starsystemdef_Mangzhangdian_Flipped" ]
+                },
+				
+				
+		/* informational popup */
+				
+				{
+                    "Type" : "System_PauseNotification",
+                    "value" : "Starting from Milestone 552",
+					"additionalValues" : [
+						"quickstart_m7",
+						"castDef_Computer"
+					],
+                    "valueConstant" : null
+				}					
+			],
+            "ForceEvents" : [],
+            "TemporaryResult" : false,
+            "ResultDuration" : 0
+        }
+    ],
+    "Repeatable" : false
+}

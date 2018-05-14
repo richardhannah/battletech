@@ -1,0 +1,124 @@
+{
+    "ID" : "hardpointdatadef_wolverine",
+    "HardpointData" : [
+        {
+            "location" : "head",
+            "weapons" : [
+                [
+                    "chrPrfWeap_wolverine_head_flamer_eh1",
+                    "chrPrfWeap_wolverine_head_laser_eh1"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_wolverine_lefttorso_lrm10_mh1",
+                    "chrPrfWeap_wolverine_lefttorso_lrm5_mh1",
+                    "chrPrfWeap_wolverine_lefttorso_narc_mh1",
+                    "chrPrfWeap_wolverine_lefttorso_srm2_mh1",
+                    "chrPrfWeap_wolverine_lefttorso_srm4_mh1",
+                    "chrPrfWeap_wolverine_lefttorso_srm6_mh1"
+                ],
+                [
+                    "chrPrfWeap_wolverine_lefttorso_lrm10_mh2",
+                    "chrPrfWeap_wolverine_lefttorso_lrm5_mh2",
+                    "chrPrfWeap_wolverine_lefttorso_narc_mh2",
+                    "chrPrfWeap_wolverine_lefttorso_srm2_mh2",
+                    "chrPrfWeap_wolverine_lefttorso_srm4_mh2",
+                    "chrPrfWeap_wolverine_lefttorso_srm6_mh2"
+                ],
+                [
+                    "chrPrfWeap_wolverine_lefttorso_lrm10_mh3",
+                    "chrPrfWeap_wolverine_lefttorso_lrm5_mh3",
+                    "chrPrfWeap_wolverine_lefttorso_narc_mh3",
+                    "chrPrfWeap_wolverine_lefttorso_srm2_mh3",
+                    "chrPrfWeap_wolverine_lefttorso_srm4_mh3",
+                    "chrPrfWeap_wolverine_lefttorso_srm6_mh3"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_wolverine_rightarm_ac10_bh1",
+                    "chrPrfWeap_wolverine_rightarm_ac5_bh1",
+                    "chrPrfWeap_wolverine_rightarm_flamer_eh1",
+                    "chrPrfWeap_wolverine_rightarm_gauss_bh1",
+                    "chrPrfWeap_wolverine_rightarm_laser_eh1",
+                    "chrPrfWeap_wolverine_rightarm_lbx_bh1",
+                    "chrPrfWeap_wolverine_rightarm_mg_bh1",
+                    "chrPrfWeap_wolverine_rightarm_ppc_eh1",
+                    "chrPrfWeap_wolverine_rightarm_uac5_bh1"
+                ],
+                [
+                    "chrPrfWeap_wolverine_rightarm_ac5_bh2",
+                    "chrPrfWeap_wolverine_rightarm_flamer_eh2",
+                    "chrPrfWeap_wolverine_rightarm_laser_eh2",
+                    "chrPrfWeap_wolverine_rightarm_mg_bh2",
+                    "chrPrfWeap_wolverine_rightarm_ppc_eh2"
+                ],
+                [
+                    "chrPrfWeap_wolverine_rightarm_flamer_eh3",
+                    "chrPrfWeap_wolverine_rightarm_laser_eh3"
+                ],
+                [
+                    "chrPrfWeap_wolverine_rightarm_flamer_eh4",
+                    "chrPrfWeap_wolverine_rightarm_laser_eh4",
+                    "chrPrfWeap_wolverine_rightarm_ppc_eh4"
+                ],
+                [
+                    "chrPrfWeap_wolverine_rightarm_flamer_eh5",
+                    "chrPrfWeap_wolverine_rightarm_laser_eh5"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_wolverine_righttorso_lrm10_mh1",
+                    "chrPrfWeap_wolverine_righttorso_lrm5_mh1",
+                    "chrPrfWeap_wolverine_righttorso_narc_mh1",
+                    "chrPrfWeap_wolverine_righttorso_srm2_mh1",
+                    "chrPrfWeap_wolverine_righttorso_srm4_mh1",
+                    "chrPrfWeap_wolverine_righttorso_srm6_mh1"
+                ],
+                [
+                    "chrPrfWeap_wolverine_righttorso_lrm10_mh2",
+                    "chrPrfWeap_wolverine_righttorso_lrm5_mh2",
+                    "chrPrfWeap_wolverine_righttorso_narc_mh2",
+                    "chrPrfWeap_wolverine_righttorso_srm2_mh2",
+                    "chrPrfWeap_wolverine_righttorso_srm4_mh2",
+                    "chrPrfWeap_wolverine_righttorso_srm6_mh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

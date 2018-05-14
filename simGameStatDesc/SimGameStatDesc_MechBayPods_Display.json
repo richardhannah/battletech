@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_MechBayPods_Display",
+        "Name" : "MeyBay Pods (Rows)",
+        "Details" : "Display value for MechBayPods",
+        "Icon" : null
+    },
+    "setResult" : "",
+    "positiveResult" : "",
+    "negativeResult" : "",
+    "temporalSetResult" : "",
+    "temporalPositiveResult" : "",
+    "temporalNegativeResult" : "",
+    "infinitiveSetResult" : "The MechBay supports up to {RES_VALUE.ToString} BattleMechs ready for battle",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}

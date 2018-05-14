@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechHardpointEnergy",
+    "Name" : "Energy Hardpoints",
+    "Details" : "A 'Mech can mount a limited number of weapons of each type, represented by 'hardpoints.' Energy hardpoints can mount Energy weapon systems, including Medium Lasers, Large Lasers, and PPCs.",
+    "Icon" : "uixSvgIcon_weapon_Energy"
+}

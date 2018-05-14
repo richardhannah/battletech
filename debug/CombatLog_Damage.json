@@ -1,0 +1,27 @@
+{
+   "loggerLevels" : [
+      {
+         "k" : "CombatLog.HitMin",
+         "v" : "Log"
+      },
+      {
+         "k" : "CombatLog.Damage",
+         "v" : "Log"
+      }
+   ],
+   "fileLogAppenders" : [
+      "CombatLog.Damage"
+   ],
+   "debugConsoleFilterLevel" : "Debug",
+   "debugConsoleIncludeFilters" : [
+      
+   ],
+   "debugConsoleExcludeFilters" : [
+      
+   ],
+   "loggerColors" : [
+      
+   ],
+    "filesToLoadOnTopOfThis" : [
+   ]
+}

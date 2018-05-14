@@ -1,0 +1,19 @@
+{
+	"ID" : "faction_Template",
+	"Name" : "Draconis Combine",
+	"ShortName" : "Kurita",
+	"Demonym" : "Kuritan",
+	"Government" : "Combine",
+	"Allies" : {
+		"items" : [],
+		"tagSetSourceFile" : ""
+    },
+	"Enemies" : {
+		"items" : [],
+		"tagSetSourceFile" : ""
+    },
+	"Presence" : 1.0,
+	"DefaultCombatLeaderCastDefId" : "castDef_Kurita",
+	"HeraldryDefId" : ""
+	
+}

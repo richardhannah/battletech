@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_SE06_SLDFArmoryComputerDefault",
+    "internalName" : "SE06_SLDFArmoryComputerDefault",
+    "firstName" : "Armory",
+    "lastName" : "Computer",
+    "callsign" : null,
+    "rank" : "Star League Defense Force",
+    "gender" : "None",
+    "faction" : "NoFaction",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_SE06_SLDFComputer_def_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

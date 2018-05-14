@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_SimGameResultAction_MechWarrior_Fire",
+        "Name" : "Fire",
+        "Details" : "Remove MW from company by pink slip",
+        "Icon" : null
+    },
+    "setResult" : "[[RES_MW,{RES_MW.Callsign}]] is no longer with the company",
+    "positiveResult" : "",
+    "negativeResult" : "",
+    "temporalSetResult" : "[[RES_MW,{RES_MW.Callsign}]] is no longer with the company for {RES_DURATION.ToString} days",
+    "temporalPositiveResult" : "",
+    "temporalNegativeResult" : "",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}

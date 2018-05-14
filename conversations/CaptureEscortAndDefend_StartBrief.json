@@ -1,0 +1,25 @@
+{
+   "identifier" : "CaptureEscortAndDefend_StartBrief",
+   "contents" : [
+      {
+         "words" : "Listen up. We're in contact with friendly forces. They are holed up in the target structure. ",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "We need to secure the surrounding area so that they can exit the building and make their way to the extraction point. Keep them safe at all costs.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}

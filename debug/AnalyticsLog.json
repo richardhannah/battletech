@@ -1,0 +1,31 @@
+{
+   "loggerLevels" : [
+      {
+         "k" : "Analytics",
+         "v" : "Debug"
+      },
+      {
+         "k" : "Analytics.Log",
+         "v" : "Debug"
+      },
+      {
+         "k" : "Analytics.Google",
+         "v" : "Debug"
+      }
+   ],
+   "fileLogAppenders" : [
+      "Analytics"
+   ],
+   "debugConsoleFilterLevel" : "Debug",
+   "debugConsoleIncludeFilters" : [
+      
+   ],
+   "debugConsoleExcludeFilters" : [
+      
+   ],
+   "loggerColors" : [
+      
+   ],
+   "filesToLoadOnTopOfThis" : [
+   ],
+}

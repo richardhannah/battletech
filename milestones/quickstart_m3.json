@@ -1,0 +1,137 @@
+{
+    "Description" : {
+        "Id" : "quickstart_m3",
+        "Name" : "cinematic",
+        "Details" : "quickstart milestone for testing",
+        "Icon" : "",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Scope" : "Company",
+    "Requirements" : [
+        {
+            "Scope" : "Company",
+            "RequirementTags" : {
+                "items" : [
+					"quickstart_m3"
+				],
+                "tagSetSourceFile" : ""
+            },
+            "ExclusionTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "RequirementComparisons" : []
+        }
+    ],
+    "Results" : [
+        {
+            "Scope" : "Company",
+            "Requirements" : null,
+            "AddedTags" : {			    
+				"items" : [
+					"SYSTEM_UseTime", 
+					"map_travel_1",
+					"oc01_post_se2"
+				],
+                "tagSetSourceFile" : ""
+			},
+            "RemovedTags" : {},
+            "Stats" : [
+                {
+                    "typeString" : "System.Int32",
+                    "name" : "NextStoryMilestone",
+                    "value" : 131,
+					"set" : true,
+                    "valueConstant" : ""
+                },
+                {
+                    "typeString" : "System.Int32",
+                    "name" : "MissionsComplete",
+                    "value" : 1,
+					"set" : true,
+                    "valueConstant" : ""
+                },
+                {
+                    "typeString" : "System.Int32",
+                    "name" : "Funds",
+                    "value" : 600000,
+					"set" : true,
+                    "valueConstant" : ""
+                },
+                {
+                    "typeString" : "System.Single",
+                    "name" : "Difficulty",
+                    "value" : 2,
+					"set" : true,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_LRM_LRM15_1-Telos",
+                    "value" : 2,
+                    "valueConstant" : ""
+                }
+            ],
+            "Actions" : [
+                {
+                    "Type" : "System_ToggleIgnoredContractEmployers",
+                    "value" : true,
+					"additionalValues" : [ "TaurianConcordat", "AuriganDirectorate" ]
+                },
+                {
+                    "Type" : "StarSystem_SetCurBreadcrumbOverride",
+                    "value" : 1,
+					"additionalValues" : [ "starsystemdef_UrCruinne" ]
+                },
+                {
+                    "Type" : "System_SetContractScope",
+                    "value" : "TUTORIAL",
+                    "valueConstant" : null
+                },
+                {
+                    "Type" : "System_SetDropship",
+                    "value" : "Leopard",
+                    "valueConstant" : null
+                },
+                {
+                    "Type" : "System_SetTargetBreadcrumbSystem",
+                    "value" : "starsystemdef_Detroit",
+                    "valueConstant" : null
+                },
+                {
+                    "Type" : "Company_TravelTo",
+                    "value" : "starsystemdef_Bellerophon",
+                    "valueConstant" : null
+                },
+				{
+					"Type" : "System_SimGameCharacterVisible",
+					"value" : false,
+					"additionalValues" : [
+						"Kamea",
+						"Alexander",
+						"Farah"
+					]
+				},
+			
+				
+		/* informational popup */
+				
+				{
+                    "Type" : "System_PauseNotification",
+                    "value" : "Starting from Milestone 131",
+					"additionalValues" : [
+						"quickstart_m3",
+						"castDef_Computer"
+					],
+                    "valueConstant" : null
+				}					
+			],
+            "ForceEvents" : [],
+            "TemporaryResult" : false,
+            "ResultDuration" : 0
+        }
+    ],
+    "Repeatable" : false
+}

@@ -1,0 +1,29 @@
+{
+   "ID" : "genderedoptionslistdef_template",
+   "optionsList" : [
+      {
+         "k" : "None",
+         "v" : [
+            
+         ]
+      },
+      {
+         "k" : "Female",
+         "v" : [
+            
+         ]
+      },
+      {
+         "k" : "Male",
+         "v" : [
+            
+         ]
+      },
+      {
+         "k" : "NonBinary",
+         "v" : [
+            
+         ]
+      }
+   ]
+}

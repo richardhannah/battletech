@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_Universal_Escape",
+   "DialogueContentIDs" : [
+		"Bkt_Escape_1",
+		"Bkt_Escape_2",
+		"Bkt_Escape_3"
+   ]
+}

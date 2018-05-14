@@ -1,0 +1,29 @@
+{
+    "ID" : "hardpointdatadef_turretlrm",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrPrfWeap_turretlrm_turret_generic_eh1",
+                    "chrPrfWeap_turretlrm_turret_lrm15_mh1"
+                ],
+                [
+                    "chrPrfWeap_turretlrm_turret_lrm15_mh2"
+                ],
+                [
+                    "chrPrfWeap_turretlrm_turret_machinegun_ah3"
+                ],
+                [
+                    "chrPrfWeap_turretlrm_turret_machinegun_ah4"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

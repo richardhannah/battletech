@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_RE_Itrom_DirMWDefault",
+    "internalName" : "RE_Itrom_DirMWDefault",
+    "firstName" : "Directorate",
+    "lastName" : "MechWarrior",
+    "callsign" : null,
+    "rank" : "Aurigan Directorate",
+    "gender" : "Male",
+    "faction" : "AuriganDirectorate",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_DirectorateDefault_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

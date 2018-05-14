@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatMoraleGain",
+    "Name" : "Morale Generation",
+    "Details" : "Morale Generation impacts the amount of Morale that a team gains at the beginning of each combat round that can be spent on Morale abilities.",
+    "Icon" : ""
+}

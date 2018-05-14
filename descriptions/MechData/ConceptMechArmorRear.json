@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechArmor",
+    "Name" : "Armor (Rear)",
+    "Details" : "Armor equipped on a 'Mech is used to protect its vital internal structure, as well as its weapons, ammo, and other critical systems. Damaged armor is automatically removed and replaced after battle. A location's underlying structure can support up to twice its Structure points in Armor. Torso locations are armored in both the front and rear, and each facing has its own Armor value and maximum.",
+    "Icon" : ""
+}

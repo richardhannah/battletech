@@ -1,0 +1,6 @@
+{
+    "Id" : "ReputationHated",
+    "Name" : "Reputation: Hated",
+    "Details" : "At Hated reputation, this faction deeply distrusts you and works with you only grudgingly. You receive 50% less payment for contracts and pay a 50% markup in shops in systems this faction controls.",
+    "Icon" : "uixTxrIcon_rep_-2"
+}

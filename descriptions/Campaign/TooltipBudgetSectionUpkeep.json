@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipBudgetSectionUpkeep",
+    "Name" : "Argo Upkeep",
+    "Details" : "The <i>Argo</i> is a large, complex, and poorly understood piece of hardware on which your life depends, as well as your livelihood. Keeping it operational is the most important quarterly expense your company has, and this encompasses repairs, maintenance, supply replenishment, and a degree of luck.\n\nYou cannot reduce this expense; this is the baseline operating cost of the <i>Argo</i>.",
+    "Icon" : ""
+}

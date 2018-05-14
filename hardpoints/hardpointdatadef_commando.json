@@ -1,0 +1,88 @@
+{
+    "ID" : "hardpointdatadef_commando",
+    "HardpointData" : [
+        {
+            "location" : "centertorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_commando_centertorso_lrm10_mh1",
+                    "chrPrfWeap_commando_centertorso_lrm5_mh1",
+                    "chrPrfWeap_commando_centertorso_narc_mh1",
+                    "chrPrfWeap_commando_centertorso_srm2_mh1",
+                    "chrPrfWeap_commando_centertorso_srm4_mh1",
+                    "chrPrfWeap_commando_centertorso_srm6_mh1"
+                ],
+                [
+                    "chrPrfWeap_commando_centertorso_lrm5_mh2",
+                    "chrPrfWeap_commando_centertorso_srm2_mh2",
+                    "chrPrfWeap_commando_centertorso_srm4_mh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_commando_leftarm_flamer_eh1",
+                    "chrPrfWeap_commando_leftarm_laser_eh1",
+                    "chrPrfWeap_commando_leftarm_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_commando_leftarm_flamer_eh2",
+                    "chrPrfWeap_commando_leftarm_laser_eh2",
+                    "chrPrfWeap_commando_leftarm_ppc_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_commando_rightarm_flamer_eh1",
+                    "chrPrfWeap_commando_rightarm_laser_eh1",
+                    "chrPrfWeap_commando_rightarm_lrm10_mh1",
+                    "chrPrfWeap_commando_rightarm_lrm5_mh1",
+                    "chrPrfWeap_commando_rightarm_narc_mh1",
+                    "chrPrfWeap_commando_rightarm_ppc_eh1",
+                    "chrPrfWeap_commando_rightarm_srm2_mh1",
+                    "chrPrfWeap_commando_rightarm_srm4_mh1",
+                    "chrPrfWeap_commando_rightarm_srm6_mh1"
+                ],
+                [
+                    "chrPrfWeap_commando_rightarm_flamer_eh2",
+                    "chrPrfWeap_commando_rightarm_laser_eh2",
+                    "chrPrfWeap_commando_rightarm_lrm10_mh2",
+                    "chrPrfWeap_commando_rightarm_lrm5_mh2",
+                    "chrPrfWeap_commando_rightarm_narc_mh2",
+                    "chrPrfWeap_commando_rightarm_ppc_eh2",
+                    "chrPrfWeap_commando_rightarm_srm2_mh2",
+                    "chrPrfWeap_commando_rightarm_srm4_mh2",
+                    "chrPrfWeap_commando_rightarm_srm6_mh2"
+                ],
+                [
+                    "chrPrfWeap_commando_rightarm_flamer_eh3",
+                    "chrPrfWeap_commando_rightarm_laser_eh3",
+                    "chrPrfWeap_commando_rightarm_ppc_eh3"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

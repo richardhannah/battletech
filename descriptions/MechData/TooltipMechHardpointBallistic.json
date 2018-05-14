@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechHardpointBallistic",
+    "Name" : "Ballistic Hardpoints",
+    "Details" : "A 'Mech can mount a limited number of weapons of each type, represented by 'hardpoints.' Ballistic hardpoints can mount Autocannon weapon systems, including the AC/2, AC/5, AC/10, and AC/20.",
+    "Icon" : "uixSvgIcon_weapon_Ballistic"
+}

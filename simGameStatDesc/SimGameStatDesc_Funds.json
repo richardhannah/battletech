@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_Funds",
+        "Name" : "Funds",
+        "Details" : "The company's money.",
+        "Icon" : null
+    },
+    "setResult" : "You now have exactly \u00A2{RES_VALUE.ToCommaSeparatedString}",
+    "positiveResult" : "You gain \u00A2{RES_VALUE.ToCommaSeparatedString}",
+    "negativeResult" : "You lose \u00A2{RES_VALUE.ToCommaSeparatedString}",
+    "temporalSetResult" : "You now have exactly \u00A2{RES_VALUE.ToCommaSeparatedString} for {RES_DURATION.ToString} days",
+    "temporalPositiveResult" : "You gain \u00A2{RES_VALUE.ToCommaSeparatedString} for {RES_DURATION.ToString} days",
+    "temporalNegativeResult" : "You lose \u00A2{RES_VALUE.ToCommaSeparatedString} for {RES_DURATION.ToString} days",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}

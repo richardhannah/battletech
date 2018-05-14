@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_BarracksPods_Display",
+        "Name" : "Barracks Pods (Rooms)",
+        "Details" : "Display value for BarracksPods",
+        "Icon" : null
+    },
+    "setResult" : "",
+    "positiveResult" : "",
+    "negativeResult" : "",
+    "temporalSetResult" : "",
+    "temporalPositiveResult" : "",
+    "temporalNegativeResult" : "",
+    "infinitiveSetResult" : "The Barracks support up to {RES_VALUE.ToString} MechWarriors",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}

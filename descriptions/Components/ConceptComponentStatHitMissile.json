@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHitMissile",
+    "Name" : "Missile Targeting",
+    "Details" : "Missile Targeting affects the overall accuracy of all equipped Missile weapons, relative to their current attack difficulty.",
+    "Icon" : ""
+}

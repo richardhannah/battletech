@@ -1,0 +1,22 @@
+{
+   "id" : "castDef_testEck",
+   "internalName" : "testEck",
+   "firstName" : "Chris",
+   "lastName" : "Eck",
+   "callsign" : "Eck",
+   "rank" : "Commander",
+   "showRank" : true,
+   "gender" : "Male",
+   "faction" : "Liao",
+   "sgCharType" : "UNSET",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/eck.png"
+   },
+   "emotePotraitList" : [
+      {
+         "emote" : "Sad",
+         "portraitAssetPath" : "Assets/Level Design/Maps/mapGeneral_cragMire_vLow/mapGeneral_cragMire_vLow_preview.png"
+      }
+   ]
+}

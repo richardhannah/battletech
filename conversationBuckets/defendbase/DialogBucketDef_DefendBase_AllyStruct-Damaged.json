@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_DefendBase_AllyStruct-Damaged",
+   "DialogueContentIDs" : [
+    "Bkt_DefendBase_AllyStruct-Damaged_1",
+    "Bkt_DefendBase_AllyStruct-Damaged_2",
+    "Bkt_DefendBase_AllyStruct-Damaged_3"    
+   ]
+}

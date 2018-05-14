@@ -1,0 +1,19 @@
+{
+   "id" : "castDef_SteinerDefault",
+   "internalName" : "SteinerDefault",
+   "firstName" : "House",
+   "lastName" : "Steiner",
+   "callsign" : null,
+   "rank" : null,
+   "showRank" : false,
+   "gender" : "None",
+   "faction" : "Steiner",
+   "sgCharType" : "UNSET",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Steiner_default_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

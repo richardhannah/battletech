@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_TeamLeader_Employer",
+    "internalName" : "TeamLeader_Employer",
+    "firstName" : "Employer Leader",
+    "lastName" : "Employer Leader",
+    "callsign" : null,
+    "rank" : null,
+    "gender" : "None",
+    "faction" : "Faction_Employer",
+    "sgCharType" : "UNSET",
+    "showRank" : false,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : false,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Computer_def_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

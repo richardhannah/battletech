@@ -1,0 +1,43 @@
+{
+   "ID" : "genderedoptionslistdef_mechwarriorPortraits",
+   "optionsList" : [
+      {
+         "k" : "None",
+         "v" : [
+            
+         ]
+      },
+      {
+         "k" : "Female",
+         "v" : [
+            "Apex",
+            "Arclight",
+            "Buckshot",
+            "Gargoyle",
+            "Mockingbird",
+            "Overload",
+            "Showboat",
+            "Wildfire"
+         ]
+      },
+      {
+         "k" : "Male",
+         "v" : [
+            "Bullhorn",
+            "Bulwark",
+            "Kraken",
+            "Myrmidon",
+            "Ozone",
+            "Paradise",
+            "Sumo",
+            "Witness"
+         ]
+      },
+      {
+         "k" : "NonBinary",
+         "v" : [
+            
+         ]
+      }
+   ]
+}

@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_FarahDefault",
+    "internalName" : "FarahDefault",
+    "firstName" : "Dr. Farah",
+    "lastName" : "Murad",
+    "callsign" : null,
+    "rank" : "Engineer",
+    "gender" : "Female",
+    "faction" : "AuriganMercenaries",
+    "sgCharType" : "FARAH",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Farah_default_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

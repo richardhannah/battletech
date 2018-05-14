@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_Assassinate_TargetFleeing",
+   "DialogueContentIDs" : [
+    "Bkt_Assassinate_TargetFleeing_1",
+    "Bkt_Assassinate_TargetFleeing_2",
+    "Bkt_Assassinate_TargetFleeing_3"   
+   ]
+}

@@ -1,0 +1,15 @@
+{
+   "Description" : {
+      "Id" : "buildingdef_SolidIce",
+      "Name" : "Solid Ice",
+      "Details" : "A body of water that is frozen solid.",
+      "Icon" : "",
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "Destructible" : false,
+   "StructurePoints" : 0,
+   "Opacity" : 100,
+   "TerrainMask" : "Water"
+}

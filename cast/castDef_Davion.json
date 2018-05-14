@@ -1,0 +1,19 @@
+{
+   "id" : "castDef_Davion",
+   "internalName" : "Davion",
+   "firstName" : "Davion",
+   "lastName" : "Federated Suns",
+   "callsign" : null,
+   "rank" : null,
+   "showRank" : false,
+   "gender" : "None",
+   "faction" : "Davion",
+   "sgCharType" : "UNSET",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Davion_default_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

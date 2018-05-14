@@ -1,0 +1,75 @@
+{
+    "Description" : {
+        "Id" : "milestone_140_cinematic_jumpToAxylus",
+        "Name" : "cinematic",
+        "Details" : "A cinematic for stuff",
+        "Icon" : "",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Scope" : "Company",
+    "Requirements" : [
+        {
+            "Scope" : "Company",
+            "RequirementTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "ExclusionTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "RequirementComparisons" : [
+                {
+                    "obj" : "NextStoryMilestone",
+                    "op" : "Equal",
+                    "val" : 140,
+                    "valueConstant" : null
+                }
+            ]
+        }
+    ],
+    "Results" : [
+        {
+            "Scope" : "Company",
+            "Requirements" : null,
+            "AddedTags" : {
+				"items" : [
+					"AARCompleteNotificationsDisabled"
+				],
+                "tagSetSourceFile" : ""			
+			},
+            "RemovedTags" : {},
+            "Stats" : [
+				{
+					"typeString" : "System.Int32",
+                    "name" : "NextStoryMilestone",
+					"value" : 1,
+					"valueConstant" : null
+				}
+            ],
+            "Actions" : [
+/* commented out because it doesn't yet exist
+				{
+                    "Type" : "System_PlayVideo",
+                    "value" : "",
+                    "valueConstant" : null
+                }
+*/				{
+                    "Type" : "System_PauseNotification",
+                    "value" : "Commander, I'm setting a course for Lady Centrella's JumpShip. It's strange, though… this moon it's taking us to, Axylus, doesn't appear on any of my maps. Which leads me to wonder: where, exactly, are we going, and how do they intend to get us there?",
+					"additionalValues" : [
+						"Axylus",
+						"castDef_SumireDefault"
+					],
+                    "valueConstant" : null
+                }				
+            ],
+            "ForceEvents" : [],
+            "TemporaryResult" : false,
+            "ResultDuration" : 0
+        }
+    ],
+    "Repeatable" : true
+}

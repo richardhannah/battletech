@@ -1,0 +1,78 @@
+{
+    "Description" : {
+        "Id" : "milestone_401_sim_argo",
+        "Name" : "sim",
+        "Details" : "Sim game phase",
+        "Icon" : "",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Scope" : "Company",
+    "Requirements" : [
+        {
+            "Scope" : "Company",
+            "RequirementTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "ExclusionTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "RequirementComparisons" : [
+                {
+                    "obj" : "NextStoryMilestone",
+                    "op" : "Equal",
+                    "val" : 401,
+                    "valueConstant" : null
+                }
+            ]
+        }
+    ],
+    "Results" : [
+        {
+            "Scope" : "Company",
+            "Requirements" : null,
+            "AddedTags" : {
+			    "items" : [
+					"map_travel_story_6"
+				],
+                "tagSetSourceFile" : ""
+			},
+            "RemovedTags" : {},
+            "Stats" : [],
+            "Actions" : [			
+				{
+                    "Type" : "System_AddContract",
+                    "value" : "trav_story_6a_graverobbing",
+                    "valueConstant" : null,
+					"additionalValues" : [
+						"Nautilus",
+						"AuriganRestoration",
+						"starsystemdef_Artru"
+					]
+                },	
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Artru",
+					"additionalValues" : [ "starsystemdef_Artru_Contested" ]
+                },	
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_RegisRoost",
+					"additionalValues" : [ "starsystemdef_RegisRoost_Contested" ]
+                },	
+				{
+                    "Type" : "StarSystem_SetActiveDef",
+                    "value" : "starsystemdef_Katinka",
+					"additionalValues" : [ "starsystemdef_Katinka_Contested" ]
+                }
+			],
+            "ForceEvents" : null,
+            "TemporaryResult" : false,
+            "ResultDuration" : 0
+        }
+    ],
+    "Repeatable" : false
+}

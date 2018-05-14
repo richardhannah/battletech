@@ -1,0 +1,19 @@
+{
+   "id" : "castDef_MarikDefault",
+   "internalName" : "MarikDefault",
+   "firstName" : "House",
+   "lastName" : "Marik",
+   "callsign" : null,
+   "rank" : null,
+   "showRank" : false,
+   "gender" : "None",
+   "faction" : "Marik",
+   "sgCharType" : "UNSET",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Marik_default_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

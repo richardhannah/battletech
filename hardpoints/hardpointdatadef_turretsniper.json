@@ -1,0 +1,31 @@
+{
+    "ID" : "hardpointdatadef_turretsniper",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrPrfWeap_turretsniper_turret_generic_eh1",
+                    "chrPrfWeap_turretsniper_turret_generic_mh1",
+                    "chrPrfWeap_turretsniper_turret_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_turretsniper_turret_generic_eh2",
+                    "chrPrfWeap_turretsniper_turret_ppc_eh2"
+                ],
+                [
+                    "chrPrfWeap_turretsniper_turret_machinegun_ah3"
+                ],
+                [
+                    "chrPrfWeap_turretsniper_turret_machinegun_ah4"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

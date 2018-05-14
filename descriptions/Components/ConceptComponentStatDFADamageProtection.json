@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatDFADamageProtection",
+    "Name" : "DFA Damage (Self)",
+    "Details" : "'Death from Above' attacks inherently deal substantial damage to the attacker as well as their target—each leg of the attacking 'Mech will be damaged regardless of the success of the attack.",
+    "Icon" : ""
+}

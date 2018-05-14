@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_FactionRepDefault",
+   "internalName" : "FactionRepDefault",
+   "firstName" : "",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "Faction Representative",
+   "showRank" : true,
+   "gender" : "None",
+   "faction" : "NoFaction",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_LocalsRep_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

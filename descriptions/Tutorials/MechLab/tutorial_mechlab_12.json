@@ -1,0 +1,6 @@
+{
+    "Id" : "tutorial_mechlab_12",
+    "Name" : "Revert and Confirm",
+    "Details" : "When you are finished refitting your 'Mech, you can confirm or revert your changes. Reverting your refit will restore your 'Mech to its previous state at no cost. Choosing \"Confirm\" will bring up a work order detailing the cost in time and C-Bills to complete the refit.",
+    "Icon" : "11-CancelReview"
+}

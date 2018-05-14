@@ -1,0 +1,22 @@
+{
+   "loggerLevels" : [
+      {
+         "k" : "CombatLog.Heat",
+         "v" : "Log"
+      }
+   ],
+   "fileLogAppenders" : [
+   ],
+   "debugConsoleFilterLevel" : "Debug",
+   "debugConsoleIncludeFilters" : [
+      
+   ],
+   "debugConsoleExcludeFilters" : [
+      
+   ],
+   "loggerColors" : [
+      
+   ],
+    "filesToLoadOnTopOfThis" : [
+   ]
+}

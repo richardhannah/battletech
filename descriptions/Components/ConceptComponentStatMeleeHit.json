@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatMeleeHit",
+    "Name" : "Melee Hit",
+    "Details" : "Melee Hit is the overall accuracy of all Melee attacks, relative to their current action's difficulty.",
+    "Icon" : ""
+}

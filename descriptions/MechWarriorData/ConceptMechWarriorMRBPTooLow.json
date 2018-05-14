@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechWarriorMRBPTooLow",
+    "Name" : "MRB Rating Too Low",
+    "Details" : "This MechWarrior can't be hired, because your company's Mercenary Review Board rating is too low.",
+    "Icon" : ""
+}

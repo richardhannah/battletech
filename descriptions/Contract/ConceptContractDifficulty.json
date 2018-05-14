@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptContractDifficulty",
+    "Name" : "Difficulty Rating",
+    "Details" : "A contract's Difficulty Rating indicates Darius's best guess at the overall difficulty of the contract, based on available intel and the details provided by the employer. The higher the Difficulty Rating of a contract, the more Drop Tonnage is recommended.",
+    "Icon" : ""
+}

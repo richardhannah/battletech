@@ -1,0 +1,91 @@
+{
+    "ID" : "hardpointdatadef_enforcer",
+    "HardpointData" : [
+        {
+            "location" : "leftarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_enforcer_leftarm_ac10_bh1",
+                    "chrPrfWeap_enforcer_leftarm_ac2_bh1",
+                    "chrPrfWeap_enforcer_leftarm_ac5_bh1",
+                    "chrPrfWeap_enforcer_leftarm_flamer_eh1",
+                    "chrPrfWeap_enforcer_leftarm_gauss_bh1",
+                    "chrPrfWeap_enforcer_leftarm_laser_eh1",
+                    "chrPrfWeap_enforcer_leftarm_lbx10_bh1",
+                    "chrPrfWeap_enforcer_leftarm_mg_bh1",
+                    "chrPrfWeap_enforcer_leftarm_ppc_eh1",
+                    "chrPrfWeap_enforcer_leftarm_uac5_bh1"
+                ],
+                [
+                    "chrPrfWeap_enforcer_leftarm_ac2_bh2",
+                    "chrPrfWeap_enforcer_leftarm_ac5_bh2",
+                    "chrPrfWeap_enforcer_leftarm_flamer_eh2",
+                    "chrPrfWeap_enforcer_leftarm_laser_eh2",
+                    "chrPrfWeap_enforcer_leftarm_mg_bh2",
+                    "chrPrfWeap_enforcer_leftarm_ppc_eh2"
+                ],
+                [
+                    "chrPrfWeap_enforcer_leftarm_flamer_eh3",
+                    "chrPrfWeap_enforcer_leftarm_laser_eh3",
+                    "chrPrfWeap_enforcer_leftarm_ppc_eh3"
+                ]
+            ],
+            "blanks" : [
+                "chrPrfWeap_enforcer_leftarm_blank_bh1",
+                "chrPrfWeap_enforcer_leftarm_blank_eh1"
+            ],
+            "mountingPoints" : [
+                "chrPrfWeap_enforcer_leftarm_hardpoint_bh1",
+                "chrPrfWeap_enforcer_leftarm_hardpoint_eh1"
+            ]
+        },
+        {
+            "location" : "lefttorso",
+            "weapons" : [
+                [
+                    "chrPrfWeap_enforcer_lefttorso_flamer_eh1",
+                    "chrPrfWeap_enforcer_lefttorso_laser_eh1",
+                    "chrPrfWeap_enforcer_lefttorso_ppc_eh1"
+                ],
+                [
+                    "chrPrfWeap_enforcer_lefttorso_flamer_eh2",
+                    "chrPrfWeap_enforcer_lefttorso_laser_eh2",
+                    "chrPrfWeap_enforcer_lefttorso_ppc_eh2"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        },
+        {
+            "location" : "rightarm",
+            "weapons" : [
+                [
+                    "chrPrfWeap_enforcer_rightarm_ac10_bh1",
+                    "chrPrfWeap_enforcer_rightarm_ac20_bh1",
+                    "chrPrfWeap_enforcer_rightarm_ac2_bh1",
+                    "chrPrfWeap_enforcer_rightarm_ac5_bh1",
+                    "chrPrfWeap_enforcer_rightarm_gauss_bh1",
+                    "chrPrfWeap_enforcer_rightarm_lbx10_bh1",
+                    "chrPrfWeap_enforcer_rightarm_mg_bh1",
+                    "chrPrfWeap_enforcer_rightarm_uac5_bh1"
+                ],
+                [
+                    "chrPrfWeap_enforcer_rightarm_ac2_bh2",
+                    "chrPrfWeap_enforcer_rightarm_ac5_bh2",
+                    "chrPrfWeap_enforcer_rightarm_mg_bh2",
+                    "chrPrfWeap_enforcer_rightarm_uac5_bh2"
+                ]
+            ],
+            "blanks" : [
+                "chrPrfWeap_enforcer_rightarm_blank_bh1"
+            ],
+            "mountingPoints" : [
+                "chrPrfWeap_enforcer_rightarm_hardpoint_bh1"
+            ]
+        }
+    ]
+}

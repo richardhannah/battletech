@@ -1,0 +1,22 @@
+{
+    "id" : "castDef_KuritaRepDefault",
+    "internalName" : "KuritaRepDefault",
+    "firstName" : "Renauld",
+    "lastName" : "Yamaguchi",
+    "callsign" : null,
+    "rank" : "Draconis Combine Liaison",
+    "gender" : "Male",
+    "faction" : "Kurita",
+    "sgCharType" : "UNSET",
+    "showRank" : true,
+    "showFirstName" : true,
+    "showCallsign" : false,
+    "showLastName" : true,
+    "defaultEmotePortrait" : {
+        "emote" : "Default",
+        "portraitAssetPath" : "sprites/Portraits/guiTxrPort_KuritaRep_utr.png"
+    },
+    "emotePotraitList" : [
+        
+    ]
+}

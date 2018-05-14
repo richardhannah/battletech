@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptCompanyTimeline",
+    "Name" : "Timeline",
+    "Details" : "Upcoming scheduled events are shown here, in the order they will be completed. MechTech tasks can be reordered if you need to complete a particular task sooner or wish to postpone it until later. MedTech tasks and other events cannot be reordered or changed.",
+    "Icon" : ""
+}

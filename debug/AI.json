@@ -1,0 +1,35 @@
+{
+   "LoggerLevels" : [
+      {
+         "k" : "AI",
+         "v" : "Debug"
+      },
+      {
+         "k" : "AI.BehaviorNodes",
+         "v" : "Debug"
+      },
+      {
+         "k" : "AI.DecisionMaking",
+         "v" : "Debug"
+      },
+      {
+         "k" : "AI.TurnOrder",
+         "v" : "Debug"
+      }
+   ],
+   "fileLogAppenders" : [
+      "AI"
+   ],
+   "debugConsoleFilterLevel" : "Debug",
+   "debugConsoleIncludeFilters" : [
+
+   ],
+   "debugConsoleExcludeFilters" : [
+
+   ],
+   "loggerColors" : [
+
+   ],
+    "filesToLoadOnTopOfThis" : [
+   ],
+}

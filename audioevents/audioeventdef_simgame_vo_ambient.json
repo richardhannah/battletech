@@ -1,0 +1,783 @@
+{
+    "id" : "audioeventdef_simgame_vo_ambient",
+    "soundbankList" : [
+        "dialog_sim"
+    ],
+    "audioEvents" : [
+        {
+            "k" : "argo_101_darius_sumire",
+            "v" : {
+                "name" : "argo_101_darius_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_101_darius_sumire"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_102_sumire_darius",
+            "v" : {
+                "name" : "argo_102_sumire_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_102_sumire_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_103_sumire_darius",
+            "v" : {
+                "name" : "argo_103_sumire_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_103_sumire_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_104_sumire_darius",
+            "v" : {
+                "name" : "argo_104_sumire_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_104_sumire_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_107_sumire_farah",
+            "v" : {
+                "name" : "argo_107_sumire_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_107_sumire_farah"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_110_sumire_yang",
+            "v" : {
+                "name" : "argo_110_sumire_yang",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_110_sumire_yang"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_112_sumire_darius",
+            "v" : {
+                "name" : "argo_112_sumire_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_112_sumire_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_113_darius_sumire",
+            "v" : {
+                "name" : "argo_113_darius_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_113_darius_sumire"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_114_sumire_farah",
+            "v" : {
+                "name" : "argo_114_sumire_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_114_sumire_farah"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_115_sumire",
+            "v" : {
+                "name" : "argo_115_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_115_sumire"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_119_yang",
+            "v" : {
+                "name" : "argo_119_yang",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_119_yang"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_120_darius",
+            "v" : {
+                "name" : "argo_120_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_120_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_121_darius",
+            "v" : {
+                "name" : "argo_121_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_121_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_122_com",
+            "v" : {
+                "name" : "argo_122_com",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_122_com"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_124_yang",
+            "v" : {
+                "name" : "argo_124_yang",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_124_yang"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_128_com",
+            "v" : {
+                "name" : "argo_128_com",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_128_com"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_221_yang_darius",
+            "v" : {
+                "name" : "argo_221_yang_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_221_yang_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_222_darius",
+            "v" : {
+                "name" : "argo_222_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_222_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_223_farah_darius",
+            "v" : {
+                "name" : "argo_223_farah_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_223_farah_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_324_darius_farah",
+            "v" : {
+                "name" : "argo_324_darius_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_324_darius_farah"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_325_yang_farah",
+            "v" : {
+                "name" : "argo_325_yang_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_325_yang_farah"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_326_darius_farah",
+            "v" : {
+                "name" : "argo_326_darius_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_326_darius_farah"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_327_sumire",
+            "v" : {
+                "name" : "argo_327_sumire",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_327_sumire"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_328_yang_farah",
+            "v" : {
+                "name" : "argo_328_yang_farah",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_328_yang_farah"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_429_darius",
+            "v" : {
+                "name" : "argo_429_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_429_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_430_darius",
+            "v" : {
+                "name" : "argo_430_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_430_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_431_darius",
+            "v" : {
+                "name" : "argo_431_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_431_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_432_darius",
+            "v" : {
+                "name" : "argo_432_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_432_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_433_darius",
+            "v" : {
+                "name" : "argo_433_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_433_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_434_darius",
+            "v" : {
+                "name" : "argo_434_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_434_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "argo_435_darius",
+            "v" : {
+                "name" : "argo_435_darius",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_argo_ambient"
+                    },
+					{
+                        "eventType" : "Switch",
+                        "key" : "dialog_argo_ambient",
+                        "value" : "argo_435_darius"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_argo_ambient"
+                    }
+                ]
+            }
+        }
+    ]
+}

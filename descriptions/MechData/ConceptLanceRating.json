@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptLanceRating",
+    "Name" : "Drop Tonnage",
+    "Details" : "This is the total tonnage of the 'Mechs currently assigned to this lance. As a rule, the higher a contract's Difficulty Rating, the more Drop Tonnage is recommended.",
+    "Icon" : ""
+}

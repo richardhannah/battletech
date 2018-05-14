@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechValue",
+    "Name" : "Value",
+    "Details" : "The value of a BattleMech is determined by a combination of fixed construction costs for its chassis; its engine size and movement speed; the armor it mounts; and the number and type of hardpoints and weapons installed. Value is further modified by equipped Jump Jets and bonuses or penalties to Melee attacks inherent to the 'Mech's chassis.",
+    "Icon" : ""
+}

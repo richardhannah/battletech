@@ -1,0 +1,6 @@
+{
+    "Id" : "TooltipMechHardpointJumpjet",
+    "Name" : "Jump Jet Hardpoints",
+    "Details" : "A 'Mech can mount a limited number of Jump Jet, determined by its relative max speed. The number of Jump Jets a 'Mech can mount is represented by its Jump Jet 'hardpoint' total.",
+    "Icon" : "uixSvgIcon_action_jump"
+}

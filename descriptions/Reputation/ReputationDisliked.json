@@ -1,0 +1,6 @@
+{
+    "Id" : "ReputationDisliked",
+    "Name" : "Reputation: Disliked",
+    "Details" : "At Disliked reputation, this faction has reason to mistrust you. You receive 10% less payment for contracts and pay a 20% markup in shops in systems this faction controls.",
+    "Icon" : "uixTxrIcon_rep_-1"
+}

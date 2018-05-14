@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_LocalsDefault",
+   "internalName" : "LocalsDefault",
+   "firstName" : "",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "Faction Representative",
+   "showRank" : true,
+   "gender" : "None",
+   "faction" : "Locals",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_LocalsRep_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

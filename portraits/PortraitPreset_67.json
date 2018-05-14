@@ -1,0 +1,50 @@
+{
+    "Description" : {
+        "Id" : "PortraitPreset_67",
+        "Name" : "PortraitPreset_67",
+        "Details" : "",
+        "Icon" : ""
+    },
+    "DataManager" : null,
+    "backgroundColor" : {
+        "r" : 0,
+        "g" : 0,
+        "b" : 0,
+        "a" : 0
+    },
+    "headMesh" : 0.1306062,
+    "hairMesh" : 1,
+    "beardMesh" : 2,
+    "suitMesh" : 5,
+    "scar" : 9,
+    "lightRig" : 3,
+    "cameraPosition" : 1,
+    "complexionTex" : 5,
+    "eyebrowTex" : 2,
+    "tattooTex" : 2,
+    "actualTattooTex" : 4,
+    "weights" : [
+        22.61856,
+        47,
+        23.19483,
+        7.58675,
+        3.103245,
+        0.06672859
+    ],
+    "browOffsetY" : -0.007,
+    "browOffsetZ" : 0.00198,
+    "noseBridgeScale" : -0.02899211,
+    "noseTipScale" : 0.2596228,
+    "chinScale" : -0.0876881,
+    "cheekOffsetY" : 3.868043E-05,
+    "eyeWidth" : -0.0475917,
+    "jawWidth" : 0.05147877,
+    "animation" : 4,
+    "isCommander" : false,
+    "skinToneId" : "Skin_07",
+    "eyeColorId" : "Eye_03",
+    "hairRootId" : "Hair_11",
+    "hairTipId" : "Hair_11",
+    "tattooColorId" : "Tattoo_02",
+    "lipColorId" : "Lip_01"
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHitEnergy",
+    "Name" : "Energy Targeting",
+    "Details" : "Energy Targeting affects the overall accuracy of all equipped Energy weapons, relative to their current attack difficulty.",
+    "Icon" : ""
+}

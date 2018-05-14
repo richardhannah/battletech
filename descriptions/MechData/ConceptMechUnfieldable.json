@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechUnfieldable",
+    "Name" : "Unfieldable",
+    "Details" : "This 'Mech is unfit for combat and cannot be sent on missions. This may be due to destroyed locations that need replacement and/or a lack of usable weapons.\n\nTo make this 'Mech combat-ready, Refit or Repair it via the Mech Bay.",
+    "Icon" : ""
+}

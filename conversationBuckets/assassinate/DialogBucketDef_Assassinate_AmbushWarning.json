@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_Assassinate_AmbushWarning",
+   "DialogueContentIDs" : [
+		"Bkt_Assassinate_AmbushWarning_1",
+		"Bkt_Assassinate_AmbushWarning_2",
+		"Bkt_Assassinate_AmbushWarning_3"
+   ]
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentHeat",
+    "Name" : "Heat",
+    "Details" : "Heat generation raises the overall thermal level of the attacking unit. Too much Heat can cause a unit to take damage to its internal Structure points, or even suffer a Shutdown.\n\nHeat is removed at the end of each action based on the number of Heat Sinks the unit has installed.",
+    "Icon" : ""
+}

@@ -1,0 +1,17 @@
+{
+    "Description" : {
+        "Id" : "SimGameStatDesc_SimGameResultAction_Mech_Damage_Location",
+        "Name" : "Timeout",
+        "Details" : "Damage a unit",
+        "Icon" : null
+    },
+    "setResult" : "[[RES_MECH,{RES_MECH.Name}]] suffers {RES_VALUE.ToString} damage",
+    "positiveResult" : "",
+    "negativeResult" : "",
+    "temporalSetResult" : "[[RES_MECH,{RES_MECH.Name}]] suffers {RES_VALUE.ToString} damage for {RES_DURATION.ToString} days",
+    "temporalPositiveResult" : "",
+    "temporalNegativeResult" : "",
+    "infinitiveSetResult" : "",
+    "infinitivePositiveResult" : "",
+    "infinitiveNegativeResult" : ""
+}

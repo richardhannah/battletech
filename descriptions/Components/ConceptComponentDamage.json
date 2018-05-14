@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentDamage",
+    "Name" : "Damage",
+    "Details" : "Damage is the number of points of Armor or Structure that this weapon will destroy on impact. If a location on a target is destroyed, any remaining damage will transfer to the nearest adjacent location.",
+    "Icon" : ""
+}

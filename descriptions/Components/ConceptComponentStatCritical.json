@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatCritical",
+    "Name" : "Critical",
+    "Details" : "Critical chance determines the likelihood of a component in a given location being damaged or destroyed on impact. Criticals apply only when all of the Armor has been stripped from the impacted location on the target.",
+    "Icon" : ""
+}

@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptComponentStatHitDefense",
+    "Name" : "Hit Defense",
+    "Details" : "Hit Defense provides a global increase to the difficulty of all incoming attacks, relative to the current circumstances of the shot.",
+    "Icon" : ""
+}

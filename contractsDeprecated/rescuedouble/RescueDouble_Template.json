@@ -1,0 +1,327 @@
+{
+   "ID" : "RescueDouble_Template",
+   "contractName" : "",
+   "difficulty" : 0,
+   "finalDifficulty" : 0,
+   "shortDescription" : null,
+   "longDescription" : null,
+   "salvagePotential" : 10,
+   "requirementList" : [
+      
+   ],
+   "contractType" : "RescueDouble",
+   "encounterPlayStyle" : "SinglePlayer",
+   "mapMood" : null,
+   "startingFogOfWarVisibility" : "Surveyed",
+   "contractObjectiveList" : [
+      {
+         "contractObjective" : {
+            "EncounterObjectGuid" : "ec83892c-ff79-40f4-a806-ac5b6c517277",
+            "loadingGuid" : "ec83892c-ff79-40f4-a806-ac5b6c517277"
+         },
+         "title" : "Retrieve the VIP.",
+         "description" : "",
+         "isPrimary" : true,
+         "forPlayer" : "Player1",
+         "objectiveGuids" : [
+            "37b2c5bf-a1ef-4d49-ab5c-8390307d1919",
+            "83d0e4d6-c59f-478b-ad8c-1f01d9fd0ebe",
+            "a2ef826b-8936-499a-80a5-3a177ea75c2a"
+         ]
+      }
+   ],
+   "objectiveList" : [
+      {
+         "objective" : {
+            "EncounterObjectGuid" : "37b2c5bf-a1ef-4d49-ab5c-8390307d1919",
+            "loadingGuid" : "37b2c5bf-a1ef-4d49-ab5c-8390307d1919"
+         },
+         "title" : "Retrieve the VIP.",
+         "description" : "",
+         "isPrimary" : true,
+         "OnSuccessResults" : null,
+         "OnFailureResults" : null
+      },
+      {
+         "objective" : {
+            "EncounterObjectGuid" : "97ada01d-ce33-4ff4-99bf-9695b7013210",
+            "loadingGuid" : "97ada01d-ce33-4ff4-99bf-9695b7013210"
+         },
+         "title" : "Retrieve the VIP's Assistant.",
+         "description" : "",
+         "isPrimary" : false,
+         "OnSuccessResults" : null,
+         "OnFailureResults" : null
+      },
+      {
+         "objective" : {
+            "EncounterObjectGuid" : "a2ef826b-8936-499a-80a5-3a177ea75c2a",
+            "loadingGuid" : "a2ef826b-8936-499a-80a5-3a177ea75c2a"
+         },
+         "title" : "Ensure recovering unit survives",
+         "description" : "",
+         "isPrimary" : true,
+         "OnSuccessResults" : null,
+         "OnFailureResults" : null
+      },
+      {
+         "objective" : {
+            "EncounterObjectGuid" : "83d0e4d6-c59f-478b-ad8c-1f01d9fd0ebe",
+            "loadingGuid" : "83d0e4d6-c59f-478b-ad8c-1f01d9fd0ebe"
+         },
+         "title" : "Get to the evac zone",
+         "description" : "",
+         "isPrimary" : true,
+         "OnSuccessResults" : null,
+         "OnFailureResults" : null
+      }
+   ],
+   "chunkList" : [
+      
+   ],
+   "dialogueList" : [
+      {
+         "dialogue" : {
+            "EncounterObjectGuid" : "73df8d9c-a274-48fd-98c9-2bd0d7860e83",
+            "loadingGuid" : null
+         },
+         "name" : "MissionStartDialogue",
+         "dialogueContent" : [
+            {
+               "words" : "Here we go. (TODO- Default Mission Start dialogue - need to consider mad libs, randomization, etc.)",
+               "wordsColor" : {
+                  "r" : 1,
+                  "g" : 1,
+                  "b" : 1,
+                  "a" : 1
+               },
+               "selectedCastDefId" : "castDef_None",
+               "emote" : "Default",
+               "audioName" : ""
+            }
+         ]
+      },
+      {
+         "dialogue" : {
+            "EncounterObjectGuid" : "4011a4c3-cba2-4d22-b2b3-3b19a3297ab9",
+            "loadingGuid" : null
+         },
+         "name" : "MissionSuccessDialogue",
+         "dialogueContent" : [
+            {
+               "words" : "Excellent work commander. (TODO - Finailize default success) Consider madlibs and randomization of default things. ",
+               "wordsColor" : {
+                  "r" : 1,
+                  "g" : 1,
+                  "b" : 1,
+                  "a" : 1
+               },
+               "selectedCastDefId" : "castDef_None",
+               "emote" : "Default",
+               "audioName" : ""
+            }
+         ]
+      },
+      {
+         "dialogue" : {
+            "EncounterObjectGuid" : "d3d33d95-9ed7-4686-b9eb-954ebe51cc02",
+            "loadingGuid" : null
+         },
+         "name" : "MissionFailureDialogue",
+         "dialogueContent" : [
+            {
+               "words" : "Well. That just happened. (TODO - Finailize default failure)",
+               "wordsColor" : {
+                  "r" : 1,
+                  "g" : 1,
+                  "b" : 1,
+                  "a" : 1
+               },
+               "selectedCastDefId" : "castDef_None",
+               "emote" : "Default",
+               "audioName" : ""
+            }
+         ]
+      }
+   ],
+   "player1Team" : {
+      "encounterLayerData" : {
+         "EncounterObjectGuid" : "",
+         "loadingGuid" : null
+      },
+      "teamGuid" : "bf40fd39-ccf9-47c4-94a6-061809681140",
+      "teamName" : "Player 1",
+      "faction" : "INVALID_UNSET",
+      "teamLeaderCastDefId" : "castDef_TeamLeader_Current",
+      "lanceOverrideList" : [
+         {
+            "lanceSpawner" : {
+               "EncounterObjectGuid" : "fc56919d-534c-432f-b3ef-9f19e2109af8",
+               "loadingGuid" : "fc56919d-534c-432f-b3ef-9f19e2109af8"
+            },
+            "name" : "PlayerLanceSpawner",
+            "lanceDefId" : "Manual",
+            "lanceTagSet" : {
+               "items" : null,
+               "tagSetSourceFile" : ""
+            },
+            "lanceExcludedTagSet" : {
+               "items" : null,
+               "tagSetSourceFile" : "Tags/LanceTags"
+            },
+            "spawnEffectTags" : {
+               "items" : null,
+               "tagSetSourceFile" : "Tags/SpawnEffectTags"
+            },
+            "lanceDifficultyAdjustment" : 0,
+            "selectedLanceDefId" : null,
+            "selectedLanceDifficulty" : 0,
+            "unitSpawnPointOverrideList" : [
+               
+            ],
+            "GenerateLanceComplete" : null
+         }
+      ],
+      "GenerateTeamComplete" : null
+   },
+   "player2Team" : {
+      "encounterLayerData" : {
+         "EncounterObjectGuid" : "",
+         "loadingGuid" : null
+      },
+      "teamGuid" : "757173dd-b4e1-4bb5-9bee-d78e623cc867",
+      "teamName" : "Player 2",
+      "faction" : "INVALID_UNSET",
+      "teamLeaderCastDefId" : "castDef_TeamLeader_Current",
+      "lanceOverrideList" : [
+         
+      ],
+      "GenerateTeamComplete" : null
+   },
+   "employerTeam" : {
+      "encounterLayerData" : {
+         "EncounterObjectGuid" : "",
+         "loadingGuid" : null
+      },
+      "teamGuid" : "ecc8d4f2-74b4-465d-adf6-84445e5dfc230",
+      "teamName" : "Employer",
+      "faction" : "INVALID_UNSET",
+      "teamLeaderCastDefId" : "castDef_TeamLeader_Current",
+      "lanceOverrideList" : [
+         
+      ],
+      "GenerateTeamComplete" : null
+   },
+   "targetTeam" : {
+      "encounterLayerData" : {
+         "EncounterObjectGuid" : "",
+         "loadingGuid" : null
+      },
+      "teamGuid" : "be77cadd-e245-4240-a93e-b99cc98902a5",
+      "teamName" : "Target",
+      "faction" : "INVALID_UNSET",
+      "teamLeaderCastDefId" : "castDef_TeamLeader_Current",
+      "lanceOverrideList" : [
+         {
+            "lanceSpawner" : {
+               "EncounterObjectGuid" : "8ca6b167-16c5-4799-968e-cdebaf408342",
+               "loadingGuid" : "8ca6b167-16c5-4799-968e-cdebaf408342"
+            },
+            "name" : "OpposingLanceSpawner",
+            "lanceDefId" : "Manual",
+            "lanceTagSet" : {
+               "items" : null,
+               "tagSetSourceFile" : ""
+            },
+            "lanceExcludedTagSet" : {
+               "items" : null,
+               "tagSetSourceFile" : "Tags/LanceTags"
+            },
+            "spawnEffectTags" : {
+               "items" : null,
+               "tagSetSourceFile" : "Tags/SpawnEffectTags"
+            },
+            "lanceDifficultyAdjustment" : 0,
+            "selectedLanceDefId" : null,
+            "selectedLanceDifficulty" : 0,
+            "unitSpawnPointOverrideList" : [
+               
+            ],
+            "GenerateLanceComplete" : null
+         },
+         {
+            "lanceSpawner" : {
+               "EncounterObjectGuid" : "fd4762de-8458-4f4f-89fa-9bc650583655",
+               "loadingGuid" : "fd4762de-8458-4f4f-89fa-9bc650583655"
+            },
+            "name" : "OpposingLanceSpawner",
+            "lanceDefId" : "Manual",
+            "lanceTagSet" : {
+               "items" : null,
+               "tagSetSourceFile" : ""
+            },
+            "lanceExcludedTagSet" : {
+               "items" : null,
+               "tagSetSourceFile" : "Tags/LanceTags"
+            },
+            "spawnEffectTags" : {
+               "items" : null,
+               "tagSetSourceFile" : "Tags/SpawnEffectTags"
+            },
+            "lanceDifficultyAdjustment" : 0,
+            "selectedLanceDefId" : null,
+            "selectedLanceDifficulty" : 0,
+            "unitSpawnPointOverrideList" : [
+               
+            ],
+            "GenerateLanceComplete" : null
+         }
+      ],
+      "GenerateTeamComplete" : null
+   },
+   "targetsAllyTeam" : {
+      "encounterLayerData" : {
+         "EncounterObjectGuid" : "",
+         "loadingGuid" : null
+      },
+      "teamGuid" : "31151ed6-cfc2-467e-98c4-9ae5bea784cf",
+      "teamName" : "Target's Ally",
+      "faction" : "INVALID_UNSET",
+      "teamLeaderCastDefId" : "castDef_TeamLeader_Current",
+      "lanceOverrideList" : [
+         
+      ],
+      "GenerateTeamComplete" : null
+   },
+   "neutralToAllTeam" : {
+      "encounterLayerData" : {
+         "EncounterObjectGuid" : "",
+         "loadingGuid" : null
+      },
+      "teamGuid" : "61612bb3-abf9-4586-952a-0559fa9dcd75",
+      "teamName" : "Neutral to All",
+      "faction" : "INVALID_UNSET",
+      "teamLeaderCastDefId" : "castDef_TeamLeader_Current",
+      "lanceOverrideList" : [
+         
+      ],
+      "GenerateTeamComplete" : null
+   },
+   "hostileToAllTeam" : {
+      "encounterLayerData" : {
+         "EncounterObjectGuid" : "",
+         "loadingGuid" : null
+      },
+      "teamGuid" : "3c9f3a20-ab03-4bcb-8ab6-b1ef0442bbf0",
+      "teamName" : "Hostile to All",
+      "faction" : "INVALID_UNSET",
+      "teamLeaderCastDefId" : "castDef_TeamLeader_Current",
+      "lanceOverrideList" : [
+         
+      ],
+      "GenerateTeamComplete" : null
+   },
+   "folder" : "D:/Games/Battletech/BattleTech/Assets/StreamingAssetsSource/data/contracts/rescuedouble/",
+   "filename" : "RescueDouble_Template.json",
+   "GenerateUnitsComplete" : null
+}

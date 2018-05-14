@@ -1,0 +1,15 @@
+{
+   "identifier" : "CaptureEscortAndDefend_ExtractionVehicleReport",
+   "contents" : [
+      {
+         "words" : "Friendly Commander. This is the target's extraction vehicle, Ghost Rider. We are 2 minutes out. Maintain your perimeter.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}

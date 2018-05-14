@@ -1,0 +1,8 @@
+{
+   "identifier" : "DialogBucketDef_Rescue_AssetInHand-Sec",
+   "DialogueContentIDs" : [
+    "Bkt_Rescue_AssetInHand-Sec_1",
+    "Bkt_Rescue_AssetInHand-Sec_2",
+    "Bkt_Rescue_AssetInHand-Sec_3"
+   ]
+}

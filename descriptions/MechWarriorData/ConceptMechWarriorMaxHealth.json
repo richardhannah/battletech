@@ -1,0 +1,6 @@
+{
+    "Id" : "ConceptMechWarriorMaxHealth",
+    "Name" : "Health",
+    "Details" : "MechWarriors can only take being shaken around in their cockpits for so long before eventually becoming incapacitated on the battlefield. A MechWarrior's maximum health value shows how many cockpit hits, knockdowns, or other catastrophic damage events their 'Mech can take before they're down for the count—and possibly dead.",
+    "Icon" : ""
+}

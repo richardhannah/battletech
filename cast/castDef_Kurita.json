@@ -1,0 +1,19 @@
+{
+   "id" : "castDef_Kurita",
+   "internalName" : "Kurita",
+   "firstName" : "Kurita",
+   "lastName" : "Draconis Combine",
+   "callsign" : null,
+   "rank" : null,
+   "showRank" : false,
+   "gender" : "None",
+   "faction" : "Kurita",
+   "sgCharType" : "UNSET",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "sprites/Portraits/guiTxrPort_Kurita_default_utr.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

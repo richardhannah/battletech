@@ -1,0 +1,339 @@
+{
+    "id" : "audioeventdef_dialog_r01r05",
+    "soundbankList" : [
+        "dialog_restoration",
+        "music"
+    ],
+    "audioEvents" : [
+        {
+            "k" : "TimeIsStartingToRunOutOnPanzyrAttack",
+            "v" : {
+                "name" : "TimeIsStartingToRunOutOnPanzyrAttack",
+                "comment" : "Time is passing to get that dropship control centre in time",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "extraction_round1"
+                    },
+                    {
+                        "eventType" : "Trigger",
+                        "key" : "enemy_wave_incoming",
+                        "value" : ""
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "TimeIsAlmostOutOnPanzyrAttack",
+            "v" : {
+                "name" : "TimeIsAlmostOutOnPanzyrAttack",
+                "comment" : "Time is almost out to get the dropship control centre in time",
+                "isMusicEvent" : true,
+                "eventData" : [
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "extraction_round2"
+                    },
+                    {
+                        "eventType" : "Trigger",
+                        "key" : "enemy_last_wave",
+                        "value" : ""
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "TurretsBackUp",
+            "v" : {
+                "name" : "TurretsBackUp",
+                "comment" : "With the commandos all dead our techs can repair the turrets and blast the bad guys! Hooray!",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Switch",
+                        "key" : "Mission_Status",
+                        "value" : "friendly_reinforcements"
+                    },
+                    {
+                        "eventType" : "Trigger",
+                        "key" : "friendly_reinforcements",
+                        "value" : ""
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Rm010_110_kamea",
+            "v" : {
+                "name" : "Rm010_110_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_restoration_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_restoration_mission",
+                        "value" : "rm010_110_kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_restoration_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "rm010_120_kamea",
+            "v" : {
+                "name" : "rm010_120_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_restoration_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_restoration_mission",
+                        "value" : "rm010_120_kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_restoration_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "rm010_130_kamea",
+            "v" : {
+                "name" : "rm010_130_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_restoration_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_restoration_mission",
+                        "value" : "rm010_130_kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_restoration_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "rm010_140_kamea",
+            "v" : {
+                "name" : "rm010_140_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_restoration_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_restoration_mission",
+                        "value" : "rm010_140_kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_restoration_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "rm010_150_kamea",
+            "v" : {
+                "name" : "rm010_150_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_restoration_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_restoration_mission",
+                        "value" : "rm010_150_kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_restoration_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "Rm010_160_andris",
+            "v" : {
+                "name" : "Rm010_160_andris",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_restoration_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_restoration_mission",
+                        "value" : "rm010_160_andris"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "pilot"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_restoration_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "rm020_110_kamea",
+            "v" : {
+                "name" : "rm020_110_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_restoration_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_restoration_mission",
+                        "value" : "rm020_110_kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_restoration_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "rm020_120_kamea",
+            "v" : {
+                "name" : "rm020_120_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_restoration_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_restoration_mission",
+                        "value" : "rm020_120_kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_restoration_mission"
+                    }
+                ]
+            }
+        },
+        {
+            "k" : "rm020_130_kamea",
+            "v" : {
+                "name" : "rm020_130_kamea",
+                "comment" : "",
+                "isMusicEvent" : false,
+                "eventData" : [
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_stop_restoration_mission"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_restoration_mission",
+                        "value" : "rm020_130_kamea"
+                    },
+                    {
+                        "eventType" : "Switch",
+                        "key" : "dialog_origin_type",
+                        "value" : "dropship"
+                    },
+                    {
+                        "eventType" : "Event",
+                        "key" : "AudioEventList_vo",
+                        "value" : "vo_play_restoration_mission"
+                    }
+                ]
+            }
+        }
+    ]
+}

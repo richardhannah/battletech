@@ -1,0 +1,40 @@
+{
+    "ID" : "hardpointdatadef_turretheavyshredder",
+    "HardpointData" : [
+        {
+            "location" : "turret",
+            "weapons" : [
+                [
+                    "chrPrfWeap_turretHeavyShredder_turret_ac20_bh1"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyShredder_turret_srm6_mh2"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyShredder_turret_srm6_mh3"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyShredder_turret_flamer_ah4"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyShredder_turret_flamer_ah5"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyShredder_turret_flamer_ah6"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyShredder_turret_flamer_ah7"
+                ],
+                [
+                    "chrPrfWeap_turretHeavyShredder_turret_machinegun_ah8"
+                ]
+            ],
+            "blanks" : [
+                
+            ],
+            "mountingPoints" : [
+                
+            ]
+        }
+    ]
+}

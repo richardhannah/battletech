@@ -1,0 +1,68 @@
+{
+    "Description" : {
+        "Id" : "milestone_636_cinematic_(challenge)",
+        "Name" : "cinematic",
+        "Details" : "A cinematic for stuff",
+        "Icon" : "",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Scope" : "Company",
+    "Requirements" : [
+        {
+            "Scope" : "Company",
+            "RequirementTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "ExclusionTags" : {
+                "items" : null,
+                "tagSetSourceFile" : ""
+            },
+            "RequirementComparisons" : [
+                {
+                    "obj" : "NextStoryMilestone",
+                    "op" : "Equal",
+                    "val" : 636,
+                    "valueConstant" : null
+                }
+            ]
+        }
+    ],
+    "Results" : [
+        {
+            "Scope" : "Company",
+            "Requirements" : null,
+            "AddedTags" : {},
+            "RemovedTags" : {},
+            "Stats" : [
+				{
+					"typeString" : "System.Int32",
+                    "name" : "NextStoryMilestone",
+					"value" : 640,
+					"set" : true,
+					"valueConstant" : null
+				}
+            ],
+            "Actions" : [
+/* commented out because it doesn't yet exist
+				{
+                    "Type" : "System_PlayVideo",
+                    "value" : "",
+                    "valueConstant" : null
+                }
+*/				{
+                    "Type" : "System_PauseNotification",
+                    "value" : "Placeholder for a cutscene: Kamea and Victoria square off.",
+					"additionalValues" : [ "cut scene goes here" ],
+                    "valueConstant" : null
+                }				
+            ],
+            "ForceEvents" : [],
+            "TemporaryResult" : false,
+            "ResultDuration" : 0
+        }
+    ],
+    "Repeatable" : true
+}

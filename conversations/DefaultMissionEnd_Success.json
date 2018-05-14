@@ -1,0 +1,17 @@
+{
+   "identifier" : "DefaultMissionEnd_Success",
+   "contents" : [
+      {
+         "words" : "Excellent work commander. (TODO - Finailize default success) Consider madlibs and randomization of default things. ",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "selectedCastDefId" : "castDef_None",
+         "emote" : "Default",
+         "audioName" : ""
+      }
+   ]
+}

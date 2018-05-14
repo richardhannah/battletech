@@ -1,0 +1,35 @@
+{
+   "identifier" : "inter_DecoyDestroyed",
+   "contents" : [
+      {
+         "words" : "The Lord Regent isn't in there, Commander - that transport is a decoy!",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "I'm picking up movement on my sensors... multiple vehicles with 'mech escort, moving along a rear access road toward the bunker.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      },
+      {
+         "words" : "Damn it. Get someone over there, Commander... if he reaches that bunker, we're going to have a hell of a time cracking it.",
+         "wordsColor" : {
+            "r" : 1,
+            "g" : 1,
+            "b" : 1,
+            "a" : 1
+         },
+         "audioName" : ""
+      }
+   ]
+}
