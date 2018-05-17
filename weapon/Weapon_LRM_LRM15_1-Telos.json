@@ -12,7 +12,7 @@
     "AmmoCategory" : "LRM",
     "StartingAmmoCapacity" : 0,
     "HeatGenerated" : 15,
-    "Damage" : 5,
+    "Damage" : 4,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
     "EvasivePipsIgnored" : 0,
@@ -26,7 +26,7 @@
     "ShotsWhenFired" : 15,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 1,
-    "Instability" : 2,
+    "Instability" : 1,
     "WeaponEffectID" : "WeaponEffect-Weapon_LRM15",
     "Description" : {
         "Cost" : 260000,

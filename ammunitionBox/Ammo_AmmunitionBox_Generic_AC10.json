@@ -1,6 +1,6 @@
 {
     "AmmoID" : "Ammunition_AC10",
-    "Capacity" : 8,
+    "Capacity" : 7,
     "Description" : {
         "Cost" : 30000,
         "Rarity" : 0,
