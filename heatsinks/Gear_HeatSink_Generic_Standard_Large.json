@@ -1,0 +1,33 @@
+{
+    "DissipationCapacity" : 11,
+    "Description" : {
+        "Cost" : 120000,
+        "Rarity" : 3,
+        "Purchasable" : true,
+        "Manufacturer" : "Generic",
+        "Model" : "Standard Large",
+        "UIName" : "Heat Sink (S-S3)",
+        "Id" : "Gear_HeatSink_Generic_Standard_Large",
+        "Name" : "Large Standard Heat Sink",
+        "Details" : "Heat Sinks actively expel thermal energy generated from firing weaponry or other sources, preventing damage from excessive heat buildup. Their effectiveness can be impacted by the surrounding environment, positively or negatively. A larger and even bulkier type of heat sink with an further improved heat dissipation efficiency over smaller models.",
+        "Icon" : "uixSvgIcon_equipment_Heatsink"
+    },
+    "BonusValueA" : "- 11 Heat / Turn [3.67/t | +2]",
+    "BonusValueB" : "",
+    "ComponentType" : "HeatSink",
+    "ComponentSubType" : "Heatsink",
+    "PrefabIdentifier" : "",
+    "BattleValue" : 0,
+    "InventorySize" : 4,
+    "Tonnage" : 3,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+    "statusEffects" : null,
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "ID": "researchShop",
+    "RequirementTags": {
+        "items": [
+			"planet_industry_research"
+		],
+        "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+        "items": [
+            "planet_other_empty",
+			"planet_progress_1"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "Inventory": [
+	    {
+            "ID": "Gear_JumpJet_Generic_Standard_EX",
+            "Type": "JumpJet",
+            "DiscountModifier": 1,
+            "Count": 0
+        },	    
+		{
+            "ID": "Gear_JumpJet_Generic_Heavy_EX",
+            "Type": "JumpJet",
+            "DiscountModifier": 1,
+            "Count": 0
+        },	    
+		{
+            "ID": "Gear_JumpJet_Generic_Assault_EX",
+            "Type": "JumpJet",
+            "DiscountModifier": 1,
+            "Count": 0
+        },		
+		{
+            "ID": "Mharius_EX_PFF_Armor_1",
+            "Type": "Upgrade",
+            "DiscountModifier": 1,
+            "Count": 0
+        },
+		{
+			"ID" : "Ammo_AmmunitionBox_Generic_GAUSS",
+			"Type" : "AmmunitionBox",
+			"DiscountModifier" : 2.0,
+			"Count" : 0
+        }
+	],
+    "Specials": [
+        {
+            "ID": "Weapon_PPC_PPC_3-Mharius",
+            "Type": "Weapon",
+            "DiscountModifier": 1,
+            "Count": 0,
+			"Weight": 50
+        },
+        {
+            "ID": "Weapon_Gauss_Gauss_0-STOCK",
+            "Type": "Weapon",
+            "DiscountModifier": 1,
+            "Count" : 0,
+			"Weight": 50
+        },
+        {
+            "ID": "Weapon_Gauss_Gauss_0-Mharius",
+            "Type": "Weapon",
+            "DiscountModifier": 1,
+            "Count" : 0,
+			"Weight": 50
+        },
+        {
+            "ID": "Gear_HeatSink_Generic_Double_EX",
+            "Type": "HeatSink",
+            "DiscountModifier": 1,
+            "Count" : 0,
+			"Weight": 50
+        },
+        {
+            "ID": "Gear_HeatSink_Generic_Double",
+            "Type": "HeatSink",
+            "DiscountModifier": 1,
+            "Count" : 0,
+			"Weight": 50
+        }
+    ]
+}

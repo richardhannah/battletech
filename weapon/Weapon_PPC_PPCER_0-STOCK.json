@@ -29,9 +29,9 @@
     "Instability" : 20,
     "WeaponEffectID" : "WeaponEffect-Weapon_PPC",
     "Description" : {
-        "Cost" : 930000,
-        "Rarity" : 20,
-        "Purchasable" : false,
+        "Cost" : 600000,
+        "Rarity" : 5,
+        "Purchasable" : true,
         "Manufacturer" : "Kong Interstellar",
         "Model" : "Extended-Range PPC",
         "UIName" : "ER PPC",

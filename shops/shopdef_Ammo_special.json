@@ -18,7 +18,14 @@
 			"Type" : "AmmunitionBox",
 			"DiscountModifier" : 1.0,
 			"Count" : 2,
-			"Weight" : 1
+			"Weight" : 25
+		},
+		{
+			"ID" : "Ammo_AmmunitionBox_Generic_GAUSS_half",
+			"Type" : "AmmunitionBox",
+			"DiscountModifier" : 1.0,
+			"Count" : 2,
+			"Weight" : 25
 		}
    ]
 }

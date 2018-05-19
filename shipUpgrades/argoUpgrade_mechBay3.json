@@ -28,7 +28,7 @@
     ],
     "TechCost" : 30,
     "PurchaseCost" : 2250000,
-    "AdditionalCost" : 50000,
+    "AdditionalCost" : 0,
     "Tags" : {
         "items" : [
             "argo_mechBay3"

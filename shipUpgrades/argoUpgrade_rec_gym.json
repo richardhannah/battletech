@@ -6,14 +6,14 @@
         "UIName" : "",
         "Id" : "argoUpgrade_rec_gym",
         "Name" : "Gymnasium",
-        "Details" : "MechWarriors have to maintain their physical condition, and doing so in their own quarters is claustrophobic and distracting. Luckily, the <i>Argo</i> has a full gymnasium, needing only repair and power.",
+        "Details" : "MechWarriors have to maintain their physical condition, and doing so in their own quarters is claustrophobic and distracting. Luckily, the <i>Argo</i> has a full gymnasium, needing only repair and power. Let's get our MechWarriors in top condition!",
         "Icon" : "uixSvgIcon_shipUpgrade_gym"
     },
     "Illustration" : "uixTxrSpot_Gym",
     "Location" : "SHIP",
     "Category" : "RECREATION",
     "AssignedCastDefId": "castDef_DariusDefault",
-    "AssignedCastDescription": "I suspect a solid majority of the complaints I've received from the MechWarriors are simple idleness. With fitness facilities, I could solve that idleness for them, Commander. If you take my meaning.",
+    "AssignedCastDescription": "I suspect a solid majority of the complaints I've received from the MechWarriors are simple idleness. With fitness facilities, I could solve that idleness for them, Commander. If you take my meaning. Apart from that being in top condition should increase the chance that our MechWarriors will survive even the most serious of injuries.",
     "RequiredModules" : {
         "items" : [
 			"argoUpgrade_pod2"
@@ -38,6 +38,18 @@
 			"name" : "Morale",
 			"value" : 1,
 			"valueConstant" : ""
-		}        
+		},
+		{
+			"typeString" : "System.Single",
+			"name" : "IncapacitatedDeathChance",
+			"value" : -0.02,
+			"valueConstant" : ""
+		},
+		{
+			"typeString" : "System.Single",
+			"name" : "LethalDeathChance",
+			"value" : -0.02,
+			"valueConstant" : ""
+		}			
     ]
 }

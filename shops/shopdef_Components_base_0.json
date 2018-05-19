@@ -18,6 +18,24 @@
          "DiscountModifier" : 1.0,
          "Count" : 0
       },
+	  {
+         "ID" : "Gear_HeatSink_Generic_Standard_Medium",
+         "Type" : "HeatSink",
+         "DiscountModifier" : 1.0,
+         "Count" : 0
+      },
+	  {
+         "ID" : "Gear_HeatSink_Generic_Standard_Large",
+         "Type" : "HeatSink",
+         "DiscountModifier" : 1.0,
+         "Count" : 0
+      },
+	  {
+         "ID" : "Gear_HeatSink_Generic_Standard_Massive",
+         "Type" : "HeatSink",
+         "DiscountModifier" : 1.0,
+         "Count" : 0
+      },
       {
          "ID" : "Gear_JumpJet_Generic_Standard",
          "Type" : "JumpJet",
@@ -35,8 +53,37 @@
          "Type" : "JumpJet",
          "DiscountModifier" : 1.0,
          "Count" : 0
+      },
+	  {
+         "ID" : "Mharius_Advanced_Shock_Absorber_100",
+         "Type" : "Upgrade",
+         "DiscountModifier" : 1.0,
+         "Count" : 0
+      },
+	  {
+         "ID" : "Mharius_Advanced_Shock_Absorber_200",
+         "Type" : "Upgrade",
+         "DiscountModifier" : 1.0,
+         "Count" : 0
+      },
+	  {
+         "ID" : "Mharius_Leg_Stabilizers1",
+         "Type" : "Upgrade",
+         "DiscountModifier" : 1.0,
+         "Count" : 0
+      },
+	  {
+         "ID" : "Mharius_Leg_Stabilizers2",
+         "Type" : "Upgrade",
+         "DiscountModifier" : 1.0,
+         "Count" : 0
+      },
+	  {
+         "ID" : "Mharius_Leg_Stabilizers3",
+         "Type" : "Upgrade",
+         "DiscountModifier" : 1.0,
+         "Count" : 0
       }
-      
    ],
    "Specials" : []
 }

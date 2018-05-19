@@ -6,7 +6,7 @@
         "UIName" : "",
         "Id" : "argoUpgrade_power3",
         "Name" : "High-Capacity Power Conduits",
-        "Details" : "The <i>Argo</i> was intended to operate at a much higher total power throughput than the jury-rigged conduits can manage. Replacing all of them with high-capacity cabling unlocks the ship’s full potential.",
+        "Details" : "The <i>Argo</i> was intended to operate at a much higher total power throughput than the jury-rigged conduits can manage. Replacing all of them with high-capacity cabling unlocks the ship’s full potential and thanks to the increase in efficency lowers our operating costs.",
         "Icon" : "uixSvgIcon_shipUpgrade_power2"
     },
     "Illustration" : "uixTxrSpot_EngineeringInnards",
@@ -25,7 +25,7 @@
     ],
     "TechCost" : 30,
     "PurchaseCost" : 720000,
-    "AdditionalCost" : 2700,
+    "AdditionalCost" : -5000,
     "Tags" : {
         "items" : [
             "argo_power3"

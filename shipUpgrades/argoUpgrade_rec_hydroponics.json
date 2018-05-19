@@ -6,7 +6,7 @@
         "UIName" : "",
         "Id" : "argoUpgrade_rec_hydroponics",
         "Name" : "Hydroponic Garden",
-        "Details" : "Near the spine, the spin of the pods isn't sufficient to generate any real apparent gravity. This makes those areas bad for living in, but excellent for growing hydroponic crops. They freshen the air and add variety to mealtimes.",
+        "Details" : "Near the spine, the spin of the pods isn't sufficient to generate any real apparent gravity. This makes those areas bad for living in, but excellent for growing hydroponic crops. They freshen the air, add variety to mealtimes and even drop our operating costs down!",
         "Icon" : "uixSvgIcon_shipUpgrade_hydroponics"
     },
     "Illustration" : "uixTxrSpot_Hydroponics",
@@ -25,7 +25,7 @@
     ],
     "TechCost" : 20,
     "PurchaseCost" : 450000,
-    "AdditionalCost" : 1700,
+    "AdditionalCost" : -2500,
     "Tags" : {
         "items" : [
             "argo_rec_hydroponics"

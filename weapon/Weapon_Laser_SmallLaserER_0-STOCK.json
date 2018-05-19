@@ -29,9 +29,9 @@
     "Instability" : 0,
     "WeaponEffectID" : "WeaponEffect-Weapon_LaserER_Small",
     "Description" : {
-        "Cost" : 210000,
-        "Rarity" : 20,
-        "Purchasable" : false,
+        "Cost" : 150000,
+        "Rarity" : 5,
+        "Purchasable" : true,
         "Manufacturer" : "SCI",
         "Model" : "Extended-Range Small Laser",
         "UIName" : "ER S Laser",

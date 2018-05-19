@@ -1,0 +1,33 @@
+{
+    "DissipationCapacity" : 7,
+    "Description" : {
+        "Cost" : 60000,
+        "Rarity" : 2,
+        "Purchasable" : true,
+        "Manufacturer" : "Generic",
+        "Model" : "Standard Medium",
+        "UIName" : "Heat Sink (S-S2)",
+        "Id" : "Gear_HeatSink_Generic_Standard_Medium",
+        "Name" : "Medium Standard Heat Sink",
+        "Details" : "Heat Sinks actively expel thermal energy generated from firing weaponry or other sources, preventing damage from excessive heat buildup. Their effectiveness can be impacted by the surrounding environment, positively or negatively. A medium sized, but in comparison very bulky type of heat sink with an improved heat dissipation efficiency over small standard models.",
+        "Icon" : "uixSvgIcon_equipment_Heatsink"
+    },
+    "BonusValueA" : "- 7 Heat / Turn [3.50/t | +1]",
+    "BonusValueB" : "",
+    "ComponentType" : "HeatSink",
+    "ComponentSubType" : "Heatsink",
+    "PrefabIdentifier" : "",
+    "BattleValue" : 0,
+    "InventorySize" : 3,
+    "Tonnage" : 2,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+    "statusEffects" : null,
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

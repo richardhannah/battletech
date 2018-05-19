@@ -29,9 +29,9 @@
     "Instability" : 0,
     "WeaponEffectID" : "WeaponEffect-Weapon_LaserPulse_Large",
     "Description" : {
-        "Cost" : 810000,
-        "Rarity" : 20,
-        "Purchasable" : false,
+        "Cost" : 330000,
+        "Rarity" : 5,
+        "Purchasable" : true,
         "Manufacturer" : "SCI",
         "Model" : "Large Pulse Laser",
         "UIName" : "L Pulse",

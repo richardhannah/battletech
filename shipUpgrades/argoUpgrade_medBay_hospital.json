@@ -13,7 +13,7 @@
     "Location" : "SHIP",
     "Category" : "MED_BAY",
     "AssignedCastDefId": "castDef_DariusDefault",
-    "AssignedCastDescription": "Commander, the medics are talking about all the advanced facilities, and we now have sufficient power to operate it all. We'd need to do a major overhaul of all our Med Bays, but we'd substantially increase our ability to treat severe injuries.",
+    "AssignedCastDescription": "Commander, the medics are talking about all the advanced facilities, and we now have sufficient power to operate it all. We'd need to do a major overhaul of all our Med Bays, but we'd substantially increase our ability to treat severe injuries. [-5% Death Chance]",
     "RequiredModules" : {
         "items" : [
 			"argoUpgrade_medBay3",
